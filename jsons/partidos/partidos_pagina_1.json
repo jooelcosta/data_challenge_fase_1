@@ -18,12 +18,6 @@
         "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899"
     },
     {
-        "id": 38011,
-        "sigla": "MISSÃO",
-        "nome": "Partido Missão",
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/38011"
-    },
-    {
         "id": 37901,
         "sigla": "NOVO",
         "nome": "Partido Novo",

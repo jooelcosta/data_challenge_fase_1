@@ -7,7 +7,10 @@ import time
 
 # Lista dos scripts a serem executados
 scripts = [
-    "src.partidos"
+    "src.deputados",
+    "src.partidos",
+    "src.proposicoes",
+    "src.votacoes",
 
 ]
 

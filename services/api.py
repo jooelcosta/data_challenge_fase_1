@@ -15,10 +15,20 @@ def baixar_dados_paginados(endpoint: str):
         "accept": "application/json",
     }
 
+
     def conexao(page: int):
 
+        params = {
+        "pagina":page,
+        "itens": 100,
+        "dataInicio": "2026-01-01",
+        "dataFim": "2026-01-31"
+    }
+
         response = requests.get(
-            f"{url}?pagina={page}&itens=100",
+            #f"{url}?pagina={page}&itens=100",
+            url=url,
+            params=params,
             headers=headers
         )
 
@@ -45,7 +55,7 @@ def baixar_dados_paginados(endpoint: str):
         pasta_saida.mkdir(parents=True, exist_ok=True)
 
         for page in range(1, total_pages + 1):
-        #for page in range(1,2):
+        #for page in range(2):
 
             logger.info(f"Baixando página {page}...")
 
@@ -85,7 +95,7 @@ def baixar_dados_paginados_Id(endpoint: str, id: int, complemento: str):
     def conexao(page: int):
 
         response = requests.get(
-            f"{url}?pagina={page}&itens=100",
+            f"{url}?pagina={page}&itens=15",
             headers=headers
         )
 

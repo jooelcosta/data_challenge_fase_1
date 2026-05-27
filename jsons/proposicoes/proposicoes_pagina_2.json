@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 2474123,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2474123",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 442,
+        "ano": 2024,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Sociedade Rádio Difusora de Campo Grande Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Campo Grande, Estado do Mato Grosso do Sul.",
+        "dataApresentacao": "2024-12-02T18:08"
+    },
+    {
+        "id": 2476337,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2476337",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 4706,
+        "ano": 2024,
+        "ementa": "Institui a Política Nacional de Fomento ao Turismo Local, criando incentivos financeiros, fiscais e técnicos para o desenvolvimento sustentável de destinos turísticos em pequenas cidades e comunidades, e dá outras providências.",
+        "dataApresentacao": "2024-12-05T11:10"
+    },
+    {
+        "id": 2477110,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2477110",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 564,
+        "ano": 2024,
+        "ementa": "Aprova o ato que renova a concessão outorgada à Emissora Continental de Campos Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Campos dos Goytacazes, Estado do Rio de Janeiro.",
+        "dataApresentacao": "2024-12-09T15:11"
+    },
+    {
+        "id": 2477148,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2477148",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 600,
+        "ano": 2024,
+        "ementa": "Aprova o ato que renova a concessão outorgada à Rádio Urubici Ltda., para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Urubici, Estado de Santa Catarina.",
+        "dataApresentacao": "2024-12-09T15:20"
+    },
+    {
+        "id": 2477149,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2477149",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 601,
+        "ano": 2024,
+        "ementa": "Aprova o ato que renova a concessão outorgada à Rádio Difusora Alto Vale Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Rio do Sul, Estado de Santa Catarina.",
+        "dataApresentacao": "2024-12-09T15:20"
+    },
+    {
+        "id": 2477793,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2477793",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 4792,
+        "ano": 2024,
+        "ementa": "Dispõe sobre a criação do Programa Nacional de Atividades Físicas e Esportivas para Idosos.",
+        "dataApresentacao": "2024-12-10T16:25"
+    },
+    {
+        "id": 2477925,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2477925",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 635,
+        "ano": 2024,
+        "ementa": "Aprova o ato que outorga permissão à Fundação Cultural Luís Paula Nunes para executar serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no município de Iracema, Estado do Ceará.",
+        "dataApresentacao": "2024-12-10T18:47"
+    },
+    {
+        "id": 2479052,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2479052",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 4830,
+        "ano": 2024,
+        "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para incluir a violência processual como uma das formas de violência doméstica e familiar contra a mulher.",
+        "dataApresentacao": "2024-12-11T15:57"
+    },
+    {
+        "id": 2480949,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2480949",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 4950,
+        "ano": 2024,
+        "ementa": "Altera a Lei nº 14.026, de 15 de julho de 2020, para criar um programa de incentivos à inovação tecnológica no setor de saneamento básico.",
+        "dataApresentacao": "2024-12-18T11:51"
+    },
+    {
+        "id": 2483187,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2483187",
+        "siglaTipo": "REQ",
+        "codTipo": 293,
+        "numero": 223,
+        "ano": 2025,
+        "ementa": "Requer a realização de Sessão Solene em homenagem à Nossa Senhora de Nazaré.",
+        "dataApresentacao": "2025-02-05T20:17"
+    },
+    {
+        "id": 2483232,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2483232",
+        "siglaTipo": "REQ",
+        "codTipo": 293,
+        "numero": 251,
+        "ano": 2025,
+        "ementa": "Requer a realização de Sessão Solene em comemoração ao Dia Mundial da Saúde Mental.",
+        "dataApresentacao": "2025-02-06T14:23"
+    },
+    {
+        "id": 2484246,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2484246",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 502,
+        "ano": 2025,
+        "ementa": "Altera a Lei nº 14.016, de 2020, para vedar o descarte de alimentos, criminalizar a prática, especialmente no contexto das empresas que se desfazem de alimentos em razão da redução de preços, e incentiva o estímulo a doação de alimentos para iniciativas de segurança alimentar e combate à fome.",
+        "dataApresentacao": "2025-02-18T12:33"
+    },
+    {
+        "id": 2484668,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2484668",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 579,
+        "ano": 2025,
+        "ementa": "Altera o artigo 40 da Lei nº 10.741, de 1º de outubro de 2003 (Estatuto do Idoso), para assegurar o direito ao transporte interestadual gratuito ou com desconto em todas as categorias de serviço de transporte coletivo.",
+        "dataApresentacao": "2025-02-19T20:41"
+    },
+    {
+        "id": 2487088,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2487088",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 805,
+        "ano": 2025,
+        "ementa": "Requer informações ao Exmo. Sr. Ministro de Estado de Minas e Energia a disponibilização de informações detalhadas, técnicas e documentais sobre a fiscalização e o acompanhamento do término da concessão da Light no estado do Rio de Janeiro, previsto para 2026, bem como sobre as duas possibilidades de continuidade da prestação do serviço: a realização de um novo processo licitatório ou a renovação da concessão.",
+        "dataApresentacao": "2025-03-14T08:44"
+    },
+    {
+        "id": 2487464,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2487464",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 869,
+        "ano": 2025,
+        "ementa": "Requer informações ao Exmo. Sr. Ministro de Estado de Minas e Energia, por intermédio da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), a disponibilização de informações detalhadas sobre as negociações em curso relativas à renovação antecipada da concessão e ao perdão de multas envolvendo a Companhia Distribuidora de Gás do Rio de Janeiro (CEG), pertencente ao grupo Naturgy, inscrita no CNPJ 33.938.119/0001-69.",
+        "dataApresentacao": "2025-03-18T21:48"
+    },
+    {
+        "id": 2487636,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2487636",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 1,
+        "ano": 2025,
+        "ementa": "Solicita que seja convidado o comparecimento do Senhor Ministro da Saúde, Sr. Alexandre Padilha, a fim de apresentar o planejamento estratégico e as prioridades da pasta para o período de sua gestão.",
+        "dataApresentacao": "2025-03-19T12:26"
+    },
+    {
+        "id": 2487656,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2487656",
+        "siglaTipo": "REQ",
+        "codTipo": 448,
+        "numero": 5,
+        "ano": 2025,
+        "ementa": "Requer a criação da Subcomissão Especial de Prevenção e Controle do Câncer - SUBCANCER.",
+        "dataApresentacao": "2025-03-19T13:11"
+    },
+    {
+        "id": 2488136,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2488136",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 16,
+        "ano": 2025,
+        "ementa": "Requer a realização de audiência pública para debater o PL 5164/2023, que dispõe sobre a correção dos valores de referência da Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do Sistema Único de Saúde relacionados ao Tratamento Fora do Domicílio.",
+        "dataApresentacao": "2025-03-20T11:19"
+    },
+    {
+        "id": 2488449,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2488449",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1174,
+        "ano": 2025,
+        "ementa": "Institui a Política Nacional de Fomento à Criação de Lares Temporários para Animais em Situação de Vulnerabilidade e dá outras providências.",
+        "dataApresentacao": "2025-03-21T13:55"
+    },
+    {
+        "id": 2488603,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2488603",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 28,
+        "ano": 2025,
+        "ementa": "Requer a realização de Audiência Pública nesta Comissão para debater a adesão e a permanência dos municípios ao Sistema Nacional de Segurança Alimentar e Nutricional (SISAN), em conformidade ao disposto na Resolução CAISAN nº 7, de 26 de julho de 2024.",
+        "dataApresentacao": "2025-03-24T13:29"
+    },
+    {
+        "id": 2488636,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2488636",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 32,
+        "ano": 2025,
+        "ementa": "Requer a realização de Audiência Pública com o objetivo de discutir o tema: “A Invisibilidade das Crianças Traqueostomizadas no Brasil.”",
+        "dataApresentacao": "2025-03-24T15:09"
+    },
+    {
+        "id": 2488637,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2488637",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 33,
+        "ano": 2025,
+        "ementa": "Requer a realização de Audiência Pública com o objetivo de discutir o tema: “Acondroplasia: desafios e oportunidades no tratamento.”",
+        "dataApresentacao": "2025-03-24T15:10"
+    },
+    {
+        "id": 2488701,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2488701",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 34,
+        "ano": 2025,
+        "ementa": "Requer a realização de audiência pública para debater a importância da assistência fisioterapêutica nos serviços de saúde em que se realizam partos.",
+        "dataApresentacao": "2025-03-24T16:06"
+    },
+    {
+        "id": 2489192,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2489192",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 42,
+        "ano": 2025,
+        "ementa": "Solicita a realização de audiência pública para tratar sobre a dificuldade de acesso ao diagnóstico e ao tratamento adequado das doenças de visão no SUS.",
+        "dataApresentacao": "2025-03-25T14:49"
+    },
+    {
+        "id": 2489194,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2489194",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 44,
+        "ano": 2025,
+        "ementa": "Solicita a realização de audiência pública sobre a jornada da pessoa com doença renal no SUS, e as formas de diagnósticos precoce",
+        "dataApresentacao": "2025-03-25T14:49"
+    },
+    {
+        "id": 2489420,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2489420",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1012,
+        "ano": 2025,
+        "ementa": "Requer informações ao Exmo. Sr. Ministro de Estado de Minas e Energia junto a Agência Nacional de Energia Elétrica (ANEEL), a disponibilização de informações detalhadas, técnicas e documentais sobre as ações e providências adotadas nas renovações contratuais das concessionárias Enel Rio e Light.",
+        "dataApresentacao": "2025-03-25T23:18"
+    },
+    {
+        "id": 2490470,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2490470",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1280,
+        "ano": 2025,
+        "ementa": "Altera a Lei nº 1.283, de 18 de dezembro de 1950, e a Lei n° 14.963, de 5 de setembro de 2024, para dispor sobre o comércio de alimentos produzidos de forma artesanal por artesãos em condição de vulnerabilidade econômica.",
+        "dataApresentacao": "2025-03-27T10:24"
+    },
+    {
+        "id": 2490630,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2490630",
+        "siglaTipo": "REQ",
+        "codTipo": 448,
+        "numero": 52,
+        "ano": 2025,
+        "ementa": "Requer a criação de Subcomissão Permanente para tratar das Doenças Raras.",
+        "dataApresentacao": "2025-03-27T11:02"
+    },
+    {
+        "id": 2491486,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2491486",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1068,
+        "ano": 2025,
+        "ementa": "Requer informações sobre operações envolvendo Caixa Econômica Federal, Banco Master e Banco de Brasília (BRB), com foco em riscos sistêmicos, interferências na governança, uso de recursos públicos e impactos no mercado de capitais sob supervisão da Comissão de Valores Mobiliários (CVM).",
+        "dataApresentacao": "2025-04-01T13:43"
+    },
+    {
+        "id": 2493135,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2493135",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1084,
+        "ano": 2025,
+        "ementa": "Requer informações sobre operações com ações e derivativos do BRB, com foco em eventual uso de informação privilegiada e atuação da CVM no monitoramento do mercado.",
+        "dataApresentacao": "2025-04-02T10:47"
+    },
+    {
+        "id": 2494380,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2494380",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 65,
+        "ano": 2025,
+        "ementa": "Requer a realização de audiência pública da Comissão de Saúde destinada ao tema “Automedicação X Assistência Farmacêutica”.",
+        "dataApresentacao": "2025-04-02T17:41"
+    },
+    {
+        "id": 2494525,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2494525",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1478,
+        "ano": 2025,
+        "ementa": "Altera a Lei nº 13.756, de 12 de dezembro de 2018, para garantir a transferência de recursos do Fundo Nacional de Segurança Pública para os municípios que tenham guarda municipal.",
+        "dataApresentacao": "2025-04-03T16:12"
+    },
+    {
+        "id": 2494543,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2494543",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 5,
+        "ano": 2025,
+        "ementa": "Requer a realização de Audiência Pública em conjunto com a Comissão de Indústria, Comércio e Serviços para tratar do Programa Especial de Sustentabilidade da Indústria Química (PRESIQ).",
+        "dataApresentacao": "2025-04-03T17:08"
+    },
+    {
+        "id": 2495054,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2495054",
+        "siglaTipo": "REQ",
+        "codTipo": 686,
+        "numero": 72,
+        "ano": 2025,
+        "ementa": "Requer a realização de seminário sobre o tema \"Biênio da Primeira Infância: desafios e perspectivas para a garantia de direitos em uma agenda intersetorial”.",
+        "dataApresentacao": "2025-04-07T16:08"
+    },
+    {
+        "id": 2495101,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2495101",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 5881,
+        "ano": 2023,
+        "ementa": "Altera a Lei nº 14.232, de 28 de outubro de 2021, para determinar a publicação periódica de relatórios do Registro Unificado de Dados e Informações sobre Violência contra as Mulheres.",
+        "dataApresentacao": "2025-04-07T19:18"
+    },
+    {
+        "id": 2495201,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2495201",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 478,
+        "ano": 2025,
+        "ementa": "Sugere ao Ministro da Integração e do Desenvolvimento Regional a realização de visitas técnicas ao Estado do Amazonas para gerenciamento e planejamento de medidas de apoio aos cidadãos prejudicados pelo alto índice pluviométrico, ressaltando-se o município de Ipixuna, pela distância da capital e infraestrutura precária.",
+        "dataApresentacao": "2025-04-08T12:44"
+    },
+    {
+        "id": 2495202,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2495202",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 479,
+        "ano": 2025,
+        "ementa": "Sugere ao Ministro da Integração e do Desenvolvimento Regional a realização de visitas técnicas ao Estado do Amazonas para gerenciamento e planejamento de medidas de apoio aos cidadãos prejudicados pelo alto índice pluviométrico, ressaltando-se o município de Envira, pela distância da capital e infraestrutura precária.",
+        "dataApresentacao": "2025-04-08T12:44"
+    },
+    {
+        "id": 2495204,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2495204",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 480,
+        "ano": 2025,
+        "ementa": "Sugere ao Ministro da Integração e do Desenvolvimento Regional a realização de visitas técnicas ao Estado do Amazonas para gerenciamento e planejamento de medidas de apoio aos cidadãos prejudicados pelo alto índice pluviométrico, ressaltando-se o município de Eirunepé, pela distância da capital e infraestrutura precária.",
+        "dataApresentacao": "2025-04-08T12:44"
+    },
+    {
+        "id": 2495208,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2495208",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 483,
+        "ano": 2025,
+        "ementa": "Sugere ao Ministro da Integração e do Desenvolvimento Regional a realização de visitas técnicas ao Estado do Amazonas para gerenciamento e planejamento de medidas de apoio aos cidadãos prejudicados pelo alto índice pluviométrico, ressaltando-se o município de Tonantins, pela distância da capital e infraestrutura precária.",
+        "dataApresentacao": "2025-04-08T12:44"
+    },
+    {
+        "id": 2495210,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2495210",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 484,
+        "ano": 2025,
+        "ementa": "Sugere ao Ministro da Integração e do Desenvolvimento Regional a realização de visitas técnicas ao Estado do Amazonas para gerenciamento e planejamento de medidas de apoio aos cidadãos prejudicados pelo alto índice pluviométrico, ressaltando-se o município de Maraã, pela distância da capital e infraestrutura precária.",
+        "dataApresentacao": "2025-04-08T12:44"
+    },
+    {
+        "id": 2497011,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2497011",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 82,
+        "ano": 2025,
+        "ementa": "Requer a realização de audiência pública para debater a Política Nacional de Residências em Saúde e o Projeto de Lei nº 504, de 2021.",
+        "dataApresentacao": "2025-04-10T14:37"
+    },
+    {
+        "id": 2497712,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2497712",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1686,
+        "ano": 2025,
+        "ementa": "Assegura ao consumidor o direito de instalar, por iniciativa própria, dispositivo bloqueador de ar na tubulação de abastecimento de água, e dá outras providências.",
+        "dataApresentacao": "2025-04-14T18:59"
+    },
+    {
+        "id": 2497857,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2497857",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 1109,
+        "ano": 2025,
+        "ementa": "Sugere ao ministro da Agricultura e Pecuária, o alongamento dos prazos para prestação de contas de recursos recebidos por governos estaduais e prefeituras, quando o prazo final recair em período de transição de uma gestão para outra em ano eleitoral, no período compreendido entre a eleição e a posse do novo gestor.",
+        "dataApresentacao": "2025-04-15T12:43"
+    },
+    {
+        "id": 2498038,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2498038",
+        "siglaTipo": "REQ",
+        "codTipo": 686,
+        "numero": 88,
+        "ano": 2025,
+        "ementa": "Requer a realização de Visita Técnica dos membros da Comissão de Saúde ao Instituto do Cérebro da PUC do Rio Grande do Sul.",
+        "dataApresentacao": "2025-04-15T17:00"
+    },
+    {
+        "id": 2498317,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2498317",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1746,
+        "ano": 2025,
+        "ementa": "Altera a Lei nº 10.406, de 10 de janeiro de 2002, para acrescentar incisos ao art. 1814 e parágrafo único ao art. 1815, para excluir como herdeiro ou legatório os parentes do feminicida que tenha se suicidado, sendo reconhecido como agressor da vítima de violência doméstica contra a mulher, não tendo seus herdeiros direitos na linha sucessória.",
+        "dataApresentacao": "2025-04-16T18:25"
+    },
+    {
+        "id": 2498429,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2498429",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 1145,
+        "ano": 2025,
+        "ementa": "Indica a Ministra do Meio Ambiente para que promova alterações em normativos do Ministério para permitir a destinação de recursos da conversão de multas ambientais ao apoio de abrigos de animais domésticos abandonados em áreas urbanas.",
+        "dataApresentacao": "2025-04-22T10:45"
+    },
+    {
+        "id": 2498455,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2498455",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1759,
+        "ano": 2025,
+        "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre a implantação de faixas exclusivas para a circulação de motocicletas, motonetas e ciclomotores nas vias urbanas.",
+        "dataApresentacao": "2025-04-22T11:37"
+    },
+    {
+        "id": 2499893,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2499893",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1820,
+        "ano": 2025,
+        "ementa": "Reconhece o direito de pessoas com deficiência mental, intelectual ou sensorial de ingressarem e permanecerem, em ambientes de uso coletivo, acompanhadas de cão de apoio emocional, e estabelece condições para o exercício desse direito.",
+        "dataApresentacao": "2025-04-23T18:16"
+    },
+    {
+        "id": 2500529,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2500529",
+        "siglaTipo": "REQ",
+        "codTipo": 686,
+        "numero": 101,
+        "ano": 2025,
+        "ementa": "Requer a realização de visitas técnicas aos hospitais Maria Amélia Lins e João XXIII, no município de Belo Horizonte (MG), com o objetivo de apurar os impactos do fechamento do HMAL na rede estadual de saúde e a consequente sobrecarga do Hospital João XXIII, em possível violação ao direito constitucional à saúde da população mineira.",
+        "dataApresentacao": "2025-04-25T17:09"
+    },
+    {
+        "id": 2500774,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2500774",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1893,
+        "ano": 2025,
+        "ementa": "Institui o Programa Nacional de Prevenção e Combate ao Estelionato Digital com o uso de algoritmos e inteligência artificial, e dá outras providências.",
+        "dataApresentacao": "2025-04-28T12:22"
+    },
+    {
+        "id": 2501247,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2501247",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1911,
+        "ano": 2025,
+        "ementa": "Estabelece o marco legal para prevenção e combate à fraude bancária, com especial atenção às práticas realizadas em ambiente digital.",
+        "dataApresentacao": "2025-04-28T18:30"
+    },
+    {
+        "id": 2501360,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2501360",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1564,
+        "ano": 2025,
+        "ementa": "Requer ao Senhor Ministro de Estado da Previdência Social informações acerca da fiscalização da União em relação ao Regime Próprio de Previdência Social do Estado do Rio de Janeiro e ao seu Fundo Único de Previdência Social do Estado do Rio de Janeiro – RIOPREVIDÊNCIA.",
+        "dataApresentacao": "2025-04-28T21:08"
+    },
+    {
+        "id": 2503221,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2503221",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 7,
+        "ano": 2025,
+        "ementa": "Requer sejam convidados Governadores de Estado, representando as regiões do País, para debaterem a Proposta de Emenda à Constituição nº 18/2025.",
+        "dataApresentacao": "2025-04-30T16:02"
+    },
+    {
+        "id": 2503591,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2503591",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 174,
+        "ano": 2025,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação Recreativa e Esportiva Grupo Manoel Marchetti para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Ibirama, Estado de Santa Catarina.",
+        "dataApresentacao": "2025-05-05T15:18"
+    },
+    {
+        "id": 2503888,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2503888",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 109,
+        "ano": 2025,
+        "ementa": "Requer a realização de audiência pública conjunta a ser realizada na Comissão de Saúde e na Comissão de Educação, para que seja debatida a importância da implementação e ampliação das políticas públicas para a inclusão social de pessoas com doença celíaca em ambientes de educação e de saúde.",
+        "dataApresentacao": "2025-05-05T22:16"
+    },
+    {
+        "id": 2503906,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2503906",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 9,
+        "ano": 2025,
+        "ementa": "Requer subscrição como coautores do Requerimento de Audiência Pública nº 03, de 2025, os deputados que assinam este requerimento.",
+        "dataApresentacao": "2025-04-30T19:55"
+    },
+    {
+        "id": 2503998,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2503998",
+        "siglaTipo": "PLP",
+        "codTipo": 140,
+        "numero": 109,
+        "ano": 2025,
+        "ementa": "Dispõe sobre o acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de fiscalização e regulação do setor, nos termos do art. 145, § 1º, da Constituição Federal.",
+        "dataApresentacao": "2025-05-06T12:52"
+    },
+    {
+        "id": 2505565,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2505565",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 112,
+        "ano": 2025,
+        "ementa": "Requer a realização de Audiência Pública para debater sobre: “Projeto de Lei 667/2021, que altera a Lei nº 8.080, de 19 de setembro de 1990 e cria o Acordo de Compartilhamento de Risco para a incorporação de novas tecnologias em saúde.”",
+        "dataApresentacao": "2025-05-07T12:15"
+    },
+    {
+        "id": 2507601,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2507601",
+        "siglaTipo": "REQ",
+        "codTipo": 1015,
+        "numero": 201,
+        "ano": 2025,
+        "ementa": "Requer ao Tribunal de Contas da União (TCU) o fornecimento de informações sobre a implementação, operação e fiscalização da antecipação de benefícios por meio do cartão Meu INSS Vale+, diante de indícios de irregularidades na cobrança de taxas e na celebração de Acordos de Cooperação Técnica com instituições financeiras.",
+        "dataApresentacao": "2025-05-05T20:27"
+    },
+    {
+        "id": 2508058,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2508058",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 115,
+        "ano": 2025,
+        "ementa": "Requer aditamento ao Requerimento nº 112/2025, da Comissão de Saúde, para inclusão de convidado na Audiência Pública destinada a debater o Projeto de Lei nº 667, de 2021, que “altera a lei nº 8.080, de 19 de setembro de 1990 e cria o Acordo de Compartilhamento de Risco para a incorporação de novas tecnologias em saúde”.",
+        "dataApresentacao": "2025-05-08T18:02"
+    },
+    {
+        "id": 2510273,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2510273",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 126,
+        "ano": 2025,
+        "ementa": "Requer a inclusão de representante da Associação Brasileira da Indústria de Tecnologia para Saúde (ABIMED) como debatedor na audiência pública para debater sobre: “Projeto de Lei 667/2021, que altera a Lei nº 8.080, de 19 de setembro de 1990 e cria o Acordo de Compartilhamento de Risco para a incorporação de novas tecnologias em saúde” (REQ n. 112/2025 - CSAÚDE).",
+        "dataApresentacao": "2025-05-16T17:36"
+    },
+    {
+        "id": 2510607,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2510607",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 128,
+        "ano": 2025,
+        "ementa": "Requer a realização de Audiência Pública com o objetivo de debater sobre as Doenças do Sangue.",
+        "dataApresentacao": "2025-05-19T15:54"
+    },
+    {
+        "id": 2511026,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2511026",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 1387,
+        "ano": 2025,
+        "ementa": "Sugere ao Ministério do Meio Ambiente e Mudança do Clima a realização de estudos para a implementação de projetos associados a créditos de carbono para combater a desertificação do Bioma Caatinga e semiárido brasileiro.",
+        "dataApresentacao": "2025-05-20T10:41"
+    },
+    {
+        "id": 2512724,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2512724",
+        "siglaTipo": "REQ",
+        "codTipo": 523,
+        "numero": 132,
+        "ano": 2025,
+        "ementa": "Requer a convocação do Ministro da Saúde, Sr. Alexandre Padilha, para prestar esclarecimentos sobre a distribuição de verbas no âmbito do Ministério da Saúde, conforme denúncias recentes.",
+        "dataApresentacao": "2025-05-20T12:47"
+    },
+    {
+        "id": 2514865,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2514865",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2440,
+        "ano": 2025,
+        "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993, e a Lei nº 14.601, de 19 de junho de 2023, para dispor sobre concessão e manutenção do benefício de prestação continuada da assistência social e critérios de elegibilidade do Programa Bolsa Família a estrangeiros residentes no País, e prevê revisão dos benefícios já concedidos.",
+        "dataApresentacao": "2025-05-21T17:22"
+    },
+    {
+        "id": 2515967,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515967",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 135,
+        "ano": 2025,
+        "ementa": "Requer o aditamento do Requerimento nº 103/2025 – CSAUDE para inclusão de representante da Secretaria Estadual de Saúde em Audiência Pública.",
+        "dataApresentacao": "2025-05-21T21:01"
+    },
+    {
+        "id": 2516047,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516047",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 10,
+        "ano": 2025,
+        "ementa": "Requer o aditamento ao requerimento nº 07/2025 requer sejam convidados Governadores de Estado, representando as regiões do País, para debaterem a Proposta de Emenda à Constituição nº 18/2025.",
+        "dataApresentacao": "2025-05-06T17:21"
+    },
+    {
+        "id": 2516048,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516048",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 11,
+        "ano": 2025,
+        "ementa": "Requer a inclusão do Governador do Estado de Santa Catarina, Senhor Jorginho Mello, entre os convidados para a Audiência Pública objeto do Requerimento nº 7, de 2025, que visa debater a PEC nº 18/2025.",
+        "dataApresentacao": "2025-05-22T17:56"
+    },
+    {
+        "id": 2516699,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516699",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 138,
+        "ano": 2025,
+        "ementa": "Requer o aditamento do Requerimento nº 103/2025 – CSAUDE para inclusão do Promotor de Justiça João Paulo Faustinoni em Audiência Pública.",
+        "dataApresentacao": "2025-05-26T17:50"
+    },
+    {
+        "id": 2516801,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516801",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 13,
+        "ano": 2025,
+        "ementa": "Requeiro a V. Exª, ouvido o plenário desta Comissão, com base no art. 24, incisos VII e XIV e no art. 32, inciso IV, alínea b, do Regimento Interno da Câmara dos Deputados, convidar o Excelentíssimo Ministro Decano do Supremo Tribunal Federal, Sr. Gilmar Ferreira Mendes, para expor e debater a Proposta de Emenda à Constituição nº 18, de 2025, que “altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública”.",
+        "dataApresentacao": "2025-05-26T20:29"
+    },
+    {
+        "id": 2518474,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2518474",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 261,
+        "ano": 2025,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Master FM Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Barbosa Ferraz, Estado do Paraná.",
+        "dataApresentacao": "2025-05-28T19:06"
+    },
+    {
+        "id": 2518497,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2518497",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 278,
+        "ano": 2025,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação Beneficente 07 de Outubro para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Itaiçaba, Estado do Ceará.",
+        "dataApresentacao": "2025-05-28T19:13"
+    },
+    {
+        "id": 2518501,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2518501",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 282,
+        "ano": 2025,
+        "ementa": "Aprova o ato que outorga permissão à Fundação Cultural Luís Paula Nunes para executar serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município de Beberibe, Estado do Ceará.",
+        "dataApresentacao": "2025-05-28T19:16"
+    },
+    {
+        "id": 2518803,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2518803",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2647,
+        "ano": 2025,
+        "ementa": "Dispõe sobre a obrigatoriedade de disponibilização de cardápios físicos em formato acessível, nos bares, restaurantes, lanchonetes e estabelecimentos similares, em conjunto com os cardápios digitais acessíveis por meio de QR Code, e dá outras providências.",
+        "dataApresentacao": "2025-05-29T11:14"
+    },
+    {
+        "id": 2519057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2519057",
+        "siglaTipo": "REQ",
+        "codTipo": 686,
+        "numero": 141,
+        "ano": 2025,
+        "ementa": "Requer, nos termos regimentais, realização de visita técnica de membros da Comissão de Saúde, no Hospital Universitário de Brasília (HUB), da Universidade de Brasília (UNB), com o objetivo de verificar as limitações existentes nos cuidados de saúde da Atenção Especializada aos pacientes com doença celíaca no âmbito do Sistema Único de Saúde (SUS).",
+        "dataApresentacao": "2025-05-29T13:33"
+    },
+    {
+        "id": 2519635,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2519635",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 297,
+        "ano": 2025,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Sociedade Rádio Treze de Maio Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Treze de Maio, Estado de Santa Catarina.",
+        "dataApresentacao": "2025-05-29T15:48"
+    },
+    {
+        "id": 2521090,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2521090",
+        "siglaTipo": "REQ",
+        "codTipo": 686,
+        "numero": 146,
+        "ano": 2025,
+        "ementa": "Requer a realização de Seminário com o tema “Da boca ao pulmão – Câncer de Cabeça e Pescoço” no âmbito da Subcomissão pela Implementação da Política Nacional de Combate e Prevenção ao Câncer no Brasil - SUBCÂNCER",
+        "dataApresentacao": "2025-06-09T11:04"
+    },
+    {
+        "id": 2521098,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2521098",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2749,
+        "ano": 2025,
+        "ementa": "Institui o marco legal da responsabilidade digital de influenciadores no Brasil, disciplinando deveres de transparência, publicidade e responsabilização civil pela divulgação de conteúdos patrocinados com potencial de dano à saúde, segurança ou finanças do consumidor.",
+        "dataApresentacao": "2025-06-09T14:12"
+    },
+    {
+        "id": 2523573,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2523573",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2776,
+        "ano": 2025,
+        "ementa": "Dispõe sobre a obrigatoriedade da utilização de tecnologia de reconhecimento facial nos estádios de futebol, visando à segurança pública, ao controle de acesso e à prevenção de crimes, e dá outras providências.",
+        "dataApresentacao": "2025-06-10T14:34"
+    },
+    {
+        "id": 2526777,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2526777",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2948,
+        "ano": 2025,
+        "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para instituir o Sistema Nacional de Autoexclusão de Apostadores (Sinaap), estabelecer a autoexclusão como direito básico do apostador e reforçar as medidas de proteção à saúde pública",
+        "dataApresentacao": "2025-06-17T16:22"
+    },
+    {
+        "id": 2526912,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2526912",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 3729,
+        "ano": 2025,
+        "ementa": "Requer do Excelentíssimo Ministro da Justiça e Segurança Pública, Senhor Ricardo Lewandowski, informações sobre a aquisição do Banco Master pelo BRB.",
+        "dataApresentacao": "2025-06-17T20:34"
+    },
+    {
+        "id": 2528659,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2528659",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 3089,
+        "ano": 2025,
+        "ementa": "Institui o Programa Nacional de Incentivo à Economia Verde de Valor Agregado na Amazônia Legal (VERDE+) e dá outras providências.",
+        "dataApresentacao": "2025-06-26T15:32"
+    },
+    {
+        "id": 2529257,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2529257",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 168,
+        "ano": 2025,
+        "ementa": "Requer a realização de audiência pública para discutir mecanismos de fortalecimento das Agências Reguladoras.",
+        "dataApresentacao": "2025-06-30T13:58"
+    },
+    {
+        "id": 2529385,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2529385",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 3130,
+        "ano": 2025,
+        "ementa": "Altera a Lei nº 12.114, de 9 de dezembro de 2009, para destinar recursos do Fundo Nacional sobre Mudança do Clima a ações voltadas à reconstrução, ao fortalecimento da rede pública de ensino e à promoção da Resiliência Escolar Climática em territórios atingidos por eventos climáticos extremos.",
+        "dataApresentacao": "2025-06-30T17:02"
+    },
+    {
+        "id": 2531593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2531593",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 1531,
+        "ano": 2025,
+        "ementa": "Sugere ao Ministério da Integração e do Desenvolvimento Regional que mantenha, com base na aprovação unânime da SUDENE, a suspensão da renovação dos benefícios fiscais concedidos à Concessionária Enel Ceará, até que sejam comprovados os investimentos previstos e a efetiva melhoria na qualidade da distribuição de energia elétrica e no atendimento à população do Estado do Ceará.",
+        "dataApresentacao": "2025-07-02T19:01"
+    },
+    {
+        "id": 2531930,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2531930",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 3242,
+        "ano": 2025,
+        "ementa": "Institui a livre escolha do trabalhador para destinação das contribuições previdenciárias entre o Regime Geral de Previdência Social – INSS e produtos financeiros públicos ou privados, e dá outras providências.",
+        "dataApresentacao": "2025-07-03T15:03"
+    },
+    {
+        "id": 2532287,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2532287",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 438,
+        "ano": 2025,
+        "ementa": "Aprova o ato que renova a concessão outorgada à Rádio Clube de Canoinhas Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Canoinhas, Estado de Santa Catarina.",
+        "dataApresentacao": "2025-07-04T18:28"
+    },
+    {
+        "id": 2532371,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2532371",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 1536,
+        "ano": 2025,
+        "ementa": "Sugere ao Ministério da Integração e do Desenvolvimento Regional (MIDR) a inclusão do município de Presidente Dutra, no estado do Maranhão, no Programa Calha Norte",
+        "dataApresentacao": "2025-07-07T10:13"
+    },
+    {
+        "id": 2534857,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2534857",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 181,
+        "ano": 2025,
+        "ementa": "Requer a realização de audiência pública nesta Comissão com o objetivo de discutir os danos à saúde mental das famílias e dos presos do 08/01/2023.",
+        "dataApresentacao": "2025-07-10T12:28"
+    },
+    {
+        "id": 2535386,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2535386",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 499,
+        "ano": 2025,
+        "ementa": "Aprova o ato que autoriza a Associação Comunitária Canasvieiras - ACC a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no município de Florianópolis, estado de Santa Catarina.",
+        "dataApresentacao": "2025-07-11T18:44"
+    },
+    {
+        "id": 2535387,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2535387",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 500,
+        "ano": 2025,
+        "ementa": "Aprova o ato que autoriza a Associação Comunitária Amigos da Praia dos Ingleses - Acapi a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Florianópolis, Estado de Santa Catarina.",
+        "dataApresentacao": "2025-07-11T18:44"
+    },
+    {
+        "id": 2535803,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2535803",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 187,
+        "ano": 2025,
+        "ementa": "Requer a realização de Audiência Pública conjunta na CESPO e CSAUDE, para apresentação e discussão da Agenda Legislativa 2025 do Painel Brasileiro da Obesidade.",
+        "dataApresentacao": "2025-07-14T20:11"
+    },
+    {
+        "id": 2536154,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536154",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 1843,
+        "ano": 2025,
+        "ementa": "Sugere ao Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome a criação de medidas de distribuição de alimentos em excesso na região do Baixo Solimões no Estado do Amazonas, com ênfase no município de Manacapuru.",
+        "dataApresentacao": "2025-07-14T22:01"
+    },
+    {
+        "id": 2536156,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536156",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 1844,
+        "ano": 2025,
+        "ementa": "Sugere ao Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome a criação de medidas de distribuição de alimentos em excesso na região do Baixo Solimões no Estado do Amazonas.",
+        "dataApresentacao": "2025-07-14T22:01"
+    },
+    {
+        "id": 2536170,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536170",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 1848,
+        "ano": 2025,
+        "ementa": "Sugere ao Ministério da Justiça e Segurança Pública o fortalecimento de ações para inibir cobranças abusivas em estacionamentos em vias públicas na cidade de Manaus.",
+        "dataApresentacao": "2025-07-14T22:01"
+    },
+    {
+        "id": 2537525,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537525",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 3498,
+        "ano": 2025,
+        "ementa": "Altera a Lei nº 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa, Minha Vida – PMCMV e a regularização fundiária de assentamentos urbanos informais, para incluir cuidadores familiares de pessoas com deficiência e famílias atípicas em situação de vulnerabilidade social entre os grupos prioritários para acesso aos programas habitacionais de interesse social.",
+        "dataApresentacao": "2025-07-16T17:12"
+    },
+    {
+        "id": 2539026,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539026",
+        "siglaTipo": "REQ",
+        "codTipo": 686,
+        "numero": 190,
+        "ano": 2025,
+        "ementa": "Requer a realização de Seminário Regional, na cidade de Natal, Rio Grande do Norte, para debater políticas públicas de atenção à saúde de pessoas neurodivergentes e avaliar as ações dos entes federativos na execução de políticas voltadas às famílias atípicas",
+        "dataApresentacao": "2025-07-28T21:16"
+    },
+    {
+        "id": 2540432,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2540432",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 192,
+        "ano": 2025,
+        "ementa": "Requer aditamento ao Requerimento nº 104/2025, para que seja convidada a participar da audiência pública a Coordenadora do Departamento Científico de Neuroimunologia da Academia Brasileira de Neurologia.",
+        "dataApresentacao": "2025-08-06T09:45"
+    },
+    {
+        "id": 2542164,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2542164",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 3862,
+        "ano": 2025,
+        "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para classificar como prática abusiva a cobrança de valores pela emissão de segunda via de documentos de cobrança, salvo se limitada ao custo operacional efetivo.",
+        "dataApresentacao": "2025-08-11T13:58"
+    },
+    {
+        "id": 2542358,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2542358",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 194,
+        "ano": 2025,
+        "ementa": "Requer a realização de audiência pública para debater o julgamento do Tema Repetitivo n.1.295 pelo Superior Tribunal de Justiça (STJ), que trata de cobertura de saúde para pessoas autistas e neurodivergentes pelos planos de saúde no Brasil.",
+        "dataApresentacao": "2025-08-11T17:38"
+    }
+]
