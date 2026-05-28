@@ -3,6 +3,44 @@ import pandas as pd
 from loguru import logger
 from services.api import baixar_dados_paginados
 import os
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+from dotenv import load_dotenv
+
+load_dotenv()
+
+POSTGRES_USER = os.getenv("POSTGRES_USER")
+POSTGRES_PASSWORD = os.getenv("POSTGRES_PASSWORD")
+POSTGRES_HOST = os.getenv("POSTGRES_HOST")
+POSTGRES_PORT = os.getenv("POSTGRES_PORT")
+POSTGRES_DB = os.getenv("POSTGRES_DB")
+
+DATABASE_URL = (
+    f"postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}"
+    f"@{POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}"
+)
+    
+# Cria o engine e a sessão
+engine = create_engine(DATABASE_URL)
+Session = sessionmaker(bind=engine)
+
+def salvar_dados_postgres(df):
+
+    try:
+
+        df.to_sql(
+            name="proposicoes",
+            con=engine,
+            if_exists="append",
+            index=False
+        )
+
+        print("Dados salvos com sucesso!")
+
+    except Exception as e:
+
+        print(f"Erro ao salvar dados: {e}")   
+
 
 def bronze():    
     data = baixar_dados_paginados(endpoint="proposicoes")
@@ -10,7 +48,7 @@ def bronze():
 
 def silver():     
 
-    # Só deve ativar essa linha se ainda não tinha json na pasta
+    # linha necessária de execução apenas em produção
     bronze()
 
     pasta = './jsons/proposicoes'
@@ -29,7 +67,7 @@ def silver():
 
 def gold():
     df = silver()
-    df.to_excel('proposicoes.xlsx')
+    salvar_dados_postgres(df)
     logger.success("Pipeline concluído com sucesso!")
 
 

@@ -1,7 +1,7 @@
 # %%
 import pandas as pd
 from loguru import logger
-from services.api import baixar_dados_paginados
+from services.api import baixar_dados_paginados, baixar_dados_paginados_Id
 import os
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
@@ -24,12 +24,23 @@ DATABASE_URL = (
 engine = create_engine(DATABASE_URL)
 Session = sessionmaker(bind=engine)
 
+
+def query_postgres():
+    query = """
+    SELECT id
+    FROM deputados
+    """
+
+    df_ids = pd.read_sql(query, engine)
+
+    return df_ids["id"].tolist()
+
 def salvar_dados_postgres(df):
 
     try:
 
         df.to_sql(
-            name="partidos",
+            name="despesas",
             con=engine,
             if_exists="append",
             index=False
@@ -43,7 +54,15 @@ def salvar_dados_postgres(df):
 
 
 def bronze():    
-    data = baixar_dados_paginados(endpoint="partidos")
+    ids = query_postgres()
+
+    for id_deputado in ids:
+
+        data = baixar_dados_paginados_Id(
+            endpoint="deputados",
+            id=id_deputado,
+            complemento="despesas"
+        )
     return data
 
 def silver():     
@@ -51,7 +70,7 @@ def silver():
     # linha necessária de execução apenas em produção
     bronze()
 
-    pasta = './jsons/partidos'
+    pasta = './jsons/despesas'
     arquivos = os.listdir(pasta)
 
     dados_acumulados = []
@@ -61,9 +80,7 @@ def silver():
         df = pd.read_json(caminho_arquivo) 
         dados_acumulados.append(df)
 
-    df = pd.concat(dados_acumulados, ignore_index=True)
-    
-        
+    df = pd.concat(dados_acumulados, ignore_index=True)    
     return df     
 
 

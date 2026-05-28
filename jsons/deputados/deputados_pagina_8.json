@@ -1,0 +1,35 @@
+[
+    {
+        "id": 160592,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160592",
+        "nome": "Zeca Dirceu",
+        "siglaPartido": "PT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160592.jpg",
+        "email": "dep.zecadirceu@camara.leg.br"
+    },
+    {
+        "id": 220592,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220592",
+        "nome": "Zezinho Barbary",
+        "siglaPartido": "PP",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+        "siglaUf": "AC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220592.jpg",
+        "email": "dep.zezinhobarbary@camara.leg.br"
+    },
+    {
+        "id": 220552,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220552",
+        "nome": "Zucco",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220552.jpg",
+        "email": "dep.zucco@camara.leg.br"
+    }
+]
