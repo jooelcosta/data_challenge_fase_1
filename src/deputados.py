@@ -61,7 +61,14 @@ def silver():
         df = pd.read_json(caminho_arquivo) 
         dados_acumulados.append(df)
 
-    df = pd.concat(dados_acumulados, ignore_index=True)    
+    df = pd.concat(dados_acumulados, ignore_index=True) 
+
+    # Deduplicação pela chave primária
+    df = df.drop_duplicates(subset=['id'], keep='last')
+    
+    # Validação: remover nulos em campos obrigatórios
+    df = df.dropna(subset=['id', 'nome'])
+       
     return df     
 
 

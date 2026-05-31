@@ -63,6 +63,11 @@ def silver():
 
     df = pd.concat(dados_acumulados, ignore_index=True)
     
+    # Deduplicação pela chave primária
+    df = df.drop_duplicates(subset=['id'], keep='last')
+    
+    # Validação: remover nulos em campos obrigatórios
+    df = df.dropna(subset=['id', 'sigla', 'nome'])
         
     return df     
 
