@@ -78,9 +78,29 @@ def silver():
     for arq in arquivos:
         caminho_arquivo = os.path.join(pasta, arq)
         df = pd.read_json(caminho_arquivo) 
+
+        try:
+            # Tenta extrair o ID do deputado caso esteja no nome do arquivo
+            id_deputado = int(arq.split('_')[1])
+            df['idDeputado'] = id_deputado
+        except:
+            pass
+
         dados_acumulados.append(df)
 
-    df = pd.concat(dados_acumulados, ignore_index=True)    
+    df = pd.concat(dados_acumulados, ignore_index=True)  
+    # Deduplicação geral de registros
+    df = df.drop_duplicates()
+    
+    # Conversão para numérico e filtro de valores monetários positivos
+    df['valorLiquido'] = pd.to_numeric(df['valorLiquido'], errors='coerce')
+    df = df[df['valorLiquido'] > 0]
+    
+    # Conversão de datas e filtro de range válido (ex: apenas a partir de 2023)
+    df['dataDocumento'] = pd.to_datetime(df['dataDocumento'], errors='coerce')
+    df = df.dropna(subset=['dataDocumento'])
+    df = df[df['dataDocumento'] >= '2023-01-01']
+      
     return df     
 
 

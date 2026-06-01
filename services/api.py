@@ -132,7 +132,7 @@ def baixar_dados_paginados_Id(endpoint: str, id: int, complemento: str):
 
             logger.info(f"Página {page}: {len(dados)} registros.")
 
-            caminho_arquivo = pasta_saida / f"{endpoint}_pagina_{page}.json"
+            caminho_arquivo = pasta_saida / f"{endpoint}_{id}_{complemento}_pagina_{page}.json"
 
             with open(caminho_arquivo, "w", encoding="utf-8") as f:
 
