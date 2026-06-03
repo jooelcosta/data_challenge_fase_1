@@ -12,6 +12,7 @@ scripts = [
     "src.proposicoes",
     "src.votacoes",
     "src.despesas",
+
 ]
 
 #Executa cada script em sequência
