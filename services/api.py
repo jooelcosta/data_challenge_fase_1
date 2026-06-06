@@ -7,7 +7,7 @@ import json
 BASE_URL = "https://dadosabertos.camara.leg.br/api/v2"
 
 
-def baixar_dados_paginados(endpoint: str):
+def baixar_dados_paginados(endpoint: str, data_inicio: str, data_fim: str):
 
     url = f"{BASE_URL}/{endpoint}"
 
@@ -15,21 +15,20 @@ def baixar_dados_paginados(endpoint: str):
         "accept": "application/json",
     }
 
-
     def conexao(page: int):
 
         params = {
-        "pagina":page,
-        "itens": 100,
-        "dataInicio": "2026-05-20",
-        "dataFim": "2026-06-01"
-    }
+            "pagina": page,
+            "itens": 100,
+            "dataInicio": data_inicio,
+            "dataFim": data_fim,
+        }
 
         response = requests.get(
-            #f"{url}?pagina={page}&itens=100",
+            # f"{url}?pagina={page}&itens=100",
             url=url,
             params=params,
-            headers=headers
+            headers=headers,
         )
 
         response.raise_for_status()
@@ -39,13 +38,9 @@ def baixar_dados_paginados(endpoint: str):
 
         primeira_pagina = conexao(1)
 
-        ultima_url = primeira_pagina['links'][-1]['href']
+        ultima_url = primeira_pagina["links"][-1]["href"]
 
-        total_pages = (
-            pd.Series([ultima_url])
-            .str.extract(r'pagina=(\d+)')[0]
-            .iloc[0]
-        )
+        total_pages = pd.Series([ultima_url]).str.extract(r"pagina=(\d+)")[0].iloc[0]
 
         total_pages = int(total_pages)
 
@@ -55,7 +50,7 @@ def baixar_dados_paginados(endpoint: str):
         pasta_saida.mkdir(parents=True, exist_ok=True)
 
         for page in range(1, total_pages + 1):
-        #for page in range(2):
+            # for page in range(2):
 
             logger.info(f"Baixando página {page}...")
 
@@ -69,12 +64,7 @@ def baixar_dados_paginados(endpoint: str):
 
             with open(caminho_arquivo, "w", encoding="utf-8") as f:
 
-                json.dump(
-                    dados,
-                    f,
-                    ensure_ascii=False,
-                    indent=4
-                )
+                json.dump(dados, f, ensure_ascii=False, indent=4)
 
             logger.success(f"Arquivo salvo: {caminho_arquivo}")
 
@@ -84,7 +74,7 @@ def baixar_dados_paginados(endpoint: str):
         logger.critical(f"Erro crítico ao coletar dados: {e}")
 
 
-def baixar_dados_paginados_Id(endpoint: str, id: int, complemento: str):
+def baixar_dados_paginados_Id(endpoint: str, id: int, complemento: str, data_inicio: str, data_fim: str):
 
     url = f"{BASE_URL}/{endpoint}/{id}/{complemento}"
 
@@ -94,10 +84,14 @@ def baixar_dados_paginados_Id(endpoint: str, id: int, complemento: str):
 
     def conexao(page: int):
 
-        response = requests.get(
-            f"{url}?pagina={page}&itens=15",
-            headers=headers
-        )
+        params = {
+            "pagina": page,
+            "itens": 15,
+            "dataInicio": data_inicio,
+            "dataFim": data_fim,
+        }
+
+        response = requests.get(url=url, params=params, headers=headers)
 
         response.raise_for_status()
         return response.json()
@@ -106,13 +100,9 @@ def baixar_dados_paginados_Id(endpoint: str, id: int, complemento: str):
 
         primeira_pagina = conexao(1)
 
-        ultima_url = primeira_pagina['links'][-1]['href']
+        ultima_url = primeira_pagina["links"][-1]["href"]
 
-        total_pages = (
-            pd.Series([ultima_url])
-            .str.extract(r'pagina=(\d+)')[0]
-            .iloc[0]
-        )
+        total_pages = pd.Series([ultima_url]).str.extract(r"pagina=(\d+)")[0].iloc[0]
 
         total_pages = int(total_pages)
 
@@ -122,7 +112,7 @@ def baixar_dados_paginados_Id(endpoint: str, id: int, complemento: str):
         pasta_saida.mkdir(parents=True, exist_ok=True)
 
         for page in range(1, total_pages + 1):
-        #for page in range(1,2):
+            # for page in range(1,2):
 
             logger.info(f"Baixando página {page}...")
 
@@ -132,16 +122,13 @@ def baixar_dados_paginados_Id(endpoint: str, id: int, complemento: str):
 
             logger.info(f"Página {page}: {len(dados)} registros.")
 
-            caminho_arquivo = pasta_saida / f"{endpoint}_{id}_{complemento}_pagina_{page}.json"
+            caminho_arquivo = (
+                pasta_saida / f"{endpoint}_{id}_{complemento}_pagina_{page}.json"
+            )
 
             with open(caminho_arquivo, "w", encoding="utf-8") as f:
 
-                json.dump(
-                    dados,
-                    f,
-                    ensure_ascii=False,
-                    indent=4
-                )
+                json.dump(dados, f, ensure_ascii=False, indent=4)
 
             logger.success(f"Arquivo salvo: {caminho_arquivo}")
 
@@ -155,13 +142,13 @@ def baixar_dados_paginados_Id(endpoint: str, id: int, complemento: str):
 
 #     baixar_dados_paginados("deputados")
 
-        # resultado = [
-    #     {
-    #         "Id_Centro_Custo": item.get("id"),
-    #         #"Id_Interno": item.get("internalId"),
-    #         "Nome_Centro_Custo": item.get("name"),
-    #         #"Cnpj": item.get("cnpj"),
-    #         #"Id_Empresa": item.get("idCompany"),
-    #     }
-    #     for item in data
-    # ]
+# resultado = [
+#     {
+#         "Id_Centro_Custo": item.get("id"),
+#         #"Id_Interno": item.get("internalId"),
+#         "Nome_Centro_Custo": item.get("name"),
+#         #"Cnpj": item.get("cnpj"),
+#         #"Id_Empresa": item.get("idCompany"),
+#     }
+#     for item in data
+# ]
