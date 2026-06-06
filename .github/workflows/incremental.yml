@@ -1,0 +1,37 @@
+name: Extração Incremental — Câmara
+
+# Permite ser disparado manualmente via API (pelo n8n)
+on:
+  workflow_dispatch:
+    inputs:
+      data_inicio:
+        description: "Data de início da extração (YYYY-MM-DD)"
+        required: true
+        default: ""
+
+jobs:
+  extrair:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Clona o repositório
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      # 2. Instala o Python
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 3. Instala as dependências
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      # 4. Roda o script com a data vinda do n8n
+      - name: Executar extração
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: |
+          python main.py --data-inicio "${{ github.event.inputs.data_inicio }}"
