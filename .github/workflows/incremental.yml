@@ -1,0 +1,47 @@
+name: Extração Incremental — Câmara Legislativa
+
+# Permite ser disparado via API (pelo n8n) ou manualmente pela aba Actions
+on:
+  workflow_dispatch:
+    inputs:
+      data_inicio:
+        description: "Data de início (YYYY-MM-DD)"
+        required: true
+        default: ""
+      data_fim:
+        description: "Data de fim (YYYY-MM-DD)"
+        required: true
+        default: ""
+
+jobs:
+  extracao:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # Cache das dependências — evita reinstalar tudo a cada execução
+      - name: Cache de dependências pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Executar pipeline
+        env:
+          DB_URL: ${{ secrets.DB_URL }}
+        run: |
+          python app.py \
+            --data-inicio "${{ github.event.inputs.data_inicio }}" \
+            --data-fim    "${{ github.event.inputs.data_fim }}"
