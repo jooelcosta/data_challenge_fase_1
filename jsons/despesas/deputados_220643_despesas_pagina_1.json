@@ -1,0 +1,21 @@
+[
+    {
+        "ano": 2026,
+        "mes": 4,
+        "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+        "codDocumento": "8098807",
+        "tipoDocumento": "Nota Fiscal",
+        "codTipoDocumento": 0,
+        "dataDocumento": "2026-04-27T00:00:00",
+        "numDocumento": "00354014",
+        "valorDocumento": 523.95,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3684/2026/8098807.pdf",
+        "nomeFornecedor": "ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA",
+        "cnpjCpfFornecedor": "02223966000890",
+        "valorLiquido": 523.95,
+        "valorGlosa": 0.0,
+        "numRessarcimento": "",
+        "codLote": 2235541,
+        "parcela": 0
+    }
+]

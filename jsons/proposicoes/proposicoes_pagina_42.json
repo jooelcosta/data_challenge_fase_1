@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 2626297,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626297",
+        "siglaTipo": "RPD",
+        "codTipo": 1042,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 543/2024-Requerimento de Adiamento da Votação - PL 543/2024",
+        "dataApresentacao": "2026-05-20T13:29"
+    },
+    {
+        "id": 2626298,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626298",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 543/2024",
+        "dataApresentacao": "2026-05-20T13:33"
+    },
+    {
+        "id": 2626299,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626299",
+        "siglaTipo": "RPD",
+        "codTipo": 336,
+        "numero": 5,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Votação - PL 4057/2015",
+        "dataApresentacao": "2026-05-20T13:28"
+    },
+    {
+        "id": 2626300,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626300",
+        "siglaTipo": "RPD",
+        "codTipo": 336,
+        "numero": 41,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Votação - PL 1182/2023",
+        "dataApresentacao": "2026-05-20T13:28"
+    },
+    {
+        "id": 2626301,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626301",
+        "siglaTipo": "RPD",
+        "codTipo": 336,
+        "numero": 5,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Votação - PL 543/2024",
+        "dataApresentacao": "2026-05-20T13:29"
+    },
+    {
+        "id": 2626302,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626302",
+        "siglaTipo": "RPD",
+        "codTipo": 332,
+        "numero": 6,
+        "ano": 0,
+        "ementa": "Requerimento de Votação Nominal - PL 4057/2015",
+        "dataApresentacao": "2026-05-20T13:28"
+    },
+    {
+        "id": 2626303,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626303",
+        "siglaTipo": "RPD",
+        "codTipo": 329,
+        "numero": 42,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão - PL 1182/2023",
+        "dataApresentacao": "2026-05-20T13:28"
+    },
+    {
+        "id": 2626304,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626304",
+        "siglaTipo": "RPD",
+        "codTipo": 332,
+        "numero": 43,
+        "ano": 0,
+        "ementa": "Requerimento de Votação Nominal - PL 1182/2023",
+        "dataApresentacao": "2026-05-20T13:28"
+    },
+    {
+        "id": 2626305,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626305",
+        "siglaTipo": "RPD",
+        "codTipo": 329,
+        "numero": 6,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão - PL 543/2024",
+        "dataApresentacao": "2026-05-20T13:29"
+    },
+    {
+        "id": 2626306,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626306",
+        "siglaTipo": "RPD",
+        "codTipo": 329,
+        "numero": 7,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão - PL 4057/2015",
+        "dataApresentacao": "2026-05-20T13:29"
+    },
+    {
+        "id": 2626307,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626307",
+        "siglaTipo": "RPD",
+        "codTipo": 332,
+        "numero": 7,
+        "ano": 0,
+        "ementa": "Requerimento de Votação Nominal - PL 543/2024",
+        "dataApresentacao": "2026-05-20T13:29"
+    },
+    {
+        "id": 2626308,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626308",
+        "siglaTipo": "RPD",
+        "codTipo": 1040,
+        "numero": 8,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 543/2024-Requerimento de Adiamento da Discussão - PL 543/2024",
+        "dataApresentacao": "2026-05-20T13:29"
+    },
+    {
+        "id": 2626309,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626309",
+        "siglaTipo": "RPD",
+        "codTipo": 1040,
+        "numero": 8,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 4057/2015-Requerimento de Adiamento da Discussão - PL 4057/2015",
+        "dataApresentacao": "2026-05-20T13:29"
+    },
+    {
+        "id": 2626310,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626310",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 44,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1182/2023-Requerimento de Retirada de Matéria da Pauta - PL 1182/2023",
+        "dataApresentacao": "2026-05-20T13:28"
+    },
+    {
+        "id": 2626311,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626311",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 9,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 543/2024-Requerimento de Retirada de Matéria da Pauta - PL 543/2024",
+        "dataApresentacao": "2026-05-20T13:29"
+    },
+    {
+        "id": 2626312,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626312",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 9,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 4057/2015-Requerimento de Retirada de Matéria da Pauta - PL 4057/2015",
+        "dataApresentacao": "2026-05-20T13:29"
+    },
+    {
+        "id": 2626313,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626313",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1413,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministério da Justiça e Segurança Pública acerca dos planos nacionais de segurança pública, combate ao crime organizado e proteção das fronteiras no período de 2023 a 2026.",
+        "dataApresentacao": "2026-05-20T13:38"
+    },
+    {
+        "id": 2626314,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626314",
+        "siglaTipo": "REQ",
+        "codTipo": 392,
+        "numero": 3018,
+        "ano": 2026,
+        "ementa": "Requer regime de urgência urgentíssima para apreciação do PL 2122/2025 Institui a Política Nacional de Proteção Emocional, Educação Consciente e Combate à Violência entre Jovens – JUVENTUDE EQUILIBRADA, e dá outras providências.",
+        "dataApresentacao": "2026-05-20T13:40"
+    },
+    {
+        "id": 2626316,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626316",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1414,
+        "ano": 2026,
+        "ementa": "Requer o encaminhamento de solicitação de informações ao Ministério do Planejamento e Orçamento por meio do Instituto Brasileiro de Geografia e Estatística acerca de dados estatísticos sobre jornada de trabalho e\nestrutura ocupacional no Brasil.",
+        "dataApresentacao": "2026-05-20T13:48"
+    },
+    {
+        "id": 2626317,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626317",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1415,
+        "ano": 2026,
+        "ementa": "Requer estudos ao Ministério do Planejamento e Orçamento por meio Instituto de Pesquisa Econômica Aplicada acerca dos impactos econômicos e sociais das propostas de alteração da jornada de trabalho.",
+        "dataApresentacao": "2026-05-20T13:48"
+    },
+    {
+        "id": 2626318,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626318",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Marussa Boldrin (REPUBLIC-GO), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-05-20T13:39"
+    },
+    {
+        "id": 2626326,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626326",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2511,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a imprescritibilidade do crime de redução à condição análoga à de escravidão.",
+        "dataApresentacao": "2026-05-20T14:05"
+    },
+    {
+        "id": 2626327,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626327",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2512,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional de Estabilização Tributária com Compensação Direta ao Contribuinte, cria mecanismo de devolução de receita tributária extraordinária em decorrência de variações de preços de bens essenciais, e dá outras providências.",
+        "dataApresentacao": "2026-05-20T14:05"
+    },
+    {
+        "id": 2626328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626328",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1416,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado da Fazenda, Sr. Dario Carnevalli Durigan, sobre os procedimentos de controle aduaneiro, gestão de riscos, controles internos, apuração correcional e medidas de integridade adotados pela Receita Federal do Brasil em relação à fiscalização de bagagens e volumes em voos privados internacionais, especialmente diante das notícias sobre volumes que teriam ingressado no país sem submissão a controle aduaneiro no Aeroporto Executivo Internacional Catarina, em São Roque/SP.",
+        "dataApresentacao": "2026-05-20T14:05"
+    },
+    {
+        "id": 2626329,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626329",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1417,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado da Justiça e Segurança Pública, Sr. Wellington César Lima e Silva, sobre a atuação da Polícia Federal, os protocolos de segurança aeroportuária, a cooperação interinstitucional, a preservação de imagens e registros, e as medidas de prevenção e apuração relacionadas à fiscalização de voos privados internacionais, especialmente diante das notícias sobre volumes que teriam ingressado no país sem submissão a controle regular no Aeroporto Executivo Internacional Catarina, em São Roque/SP.",
+        "dataApresentacao": "2026-05-20T14:05"
+    },
+    {
+        "id": 2626331,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626331",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Institui o Sistema Nacional das Salas Lilás, estabelece a obrigatoriedade de criação e funcionamento das Salas Lilás de Atendimento Humanizado em todos os órgãos públicos que atendam mulheres, meninas e demais vítimas de violência de gênero, dispõe sobre padrões mínimos de estrutura, equipes, capacitação e protocolos nacionais de atendimento, cria mecanismos de cooperação interfederativa e dá outras providências.",
+        "dataApresentacao": "2026-05-20T13:39"
+    },
+    {
+        "id": 2626332,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626332",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1418,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado de Portos e Aeroportos, Sr. Tomé Monteiro da Franca, sobre os procedimentos de segurança aeroportuária, fiscalização, supervisão regulatória e cooperação interinstitucional aplicáveis a aeroportos executivos internacionais, especialmente diante das notícias sobre volumes que teriam ingressado no país sem submissão a controle regular no Aeroporto Executivo Internacional Catarina, em São Roque/SP.",
+        "dataApresentacao": "2026-05-20T14:05"
+    },
+    {
+        "id": 2626333,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626333",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2513,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a Política Nacional de Acesso ao Tratamento Farmacológico Antiobesidade no âmbito do Sistema Único de Saúde — SUS.",
+        "dataApresentacao": "2026-05-20T14:07"
+    },
+    {
+        "id": 2626334,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626334",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Defensor Stélio Dener (UNIÃO-RR), pela aprovação.",
+        "dataApresentacao": "2026-05-20T14:08"
+    },
+    {
+        "id": 2626335,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626335",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Defensor Stélio Dener (UNIÃO-RR), pela aprovação.",
+        "dataApresentacao": "2026-05-20T13:19"
+    },
+    {
+        "id": 2626336,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626336",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CICS) ao PL 2388/2025",
+        "dataApresentacao": "2026-05-20T14:23"
+    },
+    {
+        "id": 2626337,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626337",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CICS) ao PL 4303/2025",
+        "dataApresentacao": "2026-05-20T14:24"
+    },
+    {
+        "id": 2626338,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626338",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 4303/2025",
+        "dataApresentacao": "2026-05-20T14:25"
+    },
+    {
+        "id": 2626339,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626339",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 29,
+        "ano": 2026,
+        "ementa": "Requer Audiência Pública com o tema “Veranópolis Capital Nacional da Longevidade",
+        "dataApresentacao": "2026-05-20T14:20"
+    },
+    {
+        "id": 2626340,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626340",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 27,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 2766/2021",
+        "dataApresentacao": "2026-05-20T14:24"
+    },
+    {
+        "id": 2626341,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626341",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 28,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 2766/2021-Requerimento de Retirada de Matéria da Pauta - PL 2766/2021",
+        "dataApresentacao": "2026-05-20T14:24"
+    },
+    {
+        "id": 2626342,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626342",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 10,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 538/2024",
+        "dataApresentacao": "2026-05-20T14:16"
+    },
+    {
+        "id": 2626344,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626344",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Helena Lima (PSD-RR), pela rejeição.",
+        "dataApresentacao": "2026-05-20T14:03"
+    },
+    {
+        "id": 2626345,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626345",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2514,
+        "ano": 2026,
+        "ementa": "Institui o Fundo Garantidor de Créditos Públicos – FGCP, destinado a proteger recursos financeiros de entes federativos e regimes próprios de previdência social contra riscos decorrentes de insolvência de instituições financeiras, e dá outras providências.",
+        "dataApresentacao": "2026-05-20T14:34"
+    },
+    {
+        "id": 2626346,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626346",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2515,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional \"Escola Segura e Conectada\" no âmbito das redes públicas de ensino fundamental e médio, destinado ao controle de acesso e à notificação eletrônica de frequência aos pais ou responsáveis legais, e dá outras providências.",
+        "dataApresentacao": "2026-05-20T14:34"
+    },
+    {
+        "id": 2626347,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626347",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2516,
+        "ano": 2026,
+        "ementa": "Institui a obrigatoriedade de verificação metrológica e manutenção periódica de esfigmomanômetros utilizados em estabelecimentos de saúde públicos e privados em todo o território nacional, e dá outras providências.",
+        "dataApresentacao": "2026-05-20T14:36"
+    },
+    {
+        "id": 2626348,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626348",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 35,
+        "ano": 2026,
+        "ementa": "Requer a realização audiência pública, no âmbito da Comissão de Ciência, Tecnologia e Inovação, para debater o Projeto de Lei Complementar nº 173, de 2025, com foco na criação de CID-Digital sobre as receitas brutas obtidas por plataformas digitais.",
+        "dataApresentacao": "2026-05-20T14:29"
+    },
+    {
+        "id": 2626349,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626349",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 36,
+        "ano": 2026,
+        "ementa": "Requer o aditamento do Requerimento nº 28/2026 – CCTI, para inclusão de convidado para a Audiência Pública destinada a debater a Comemoração dos 70 anos da Comissão Nacional de Energia Nuclear (CNEN).",
+        "dataApresentacao": "2026-05-20T14:29"
+    },
+    {
+        "id": 2626350,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626350",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1448/2026",
+        "dataApresentacao": "2026-05-20T14:41"
+    },
+    {
+        "id": 2626351,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626351",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1448/2026-Requerimento de Retirada de Matéria da Pauta - PL 1448/2026",
+        "dataApresentacao": "2026-05-20T14:41"
+    },
+    {
+        "id": 2626352,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626352",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 23,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1625/2026",
+        "dataApresentacao": "2026-05-20T14:41"
+    },
+    {
+        "id": 2626353,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626353",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 24,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1625/2026-Requerimento de Retirada de Matéria da Pauta - PL 1625/2026",
+        "dataApresentacao": "2026-05-20T14:41"
+    },
+    {
+        "id": 2626355,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626355",
+        "siglaTipo": "DTQ",
+        "codTipo": 846,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Destaque para Votação em Separado - PL 2486/2026",
+        "dataApresentacao": "2026-05-20T14:43"
+    },
+    {
+        "id": 2626356,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626356",
+        "siglaTipo": "RPD",
+        "codTipo": 1053,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Votação Nominal do Destaque para Votação em Separado - PL 2486/2026-Destaque para Votação em Separado - PL 2486/2026",
+        "dataApresentacao": "2026-05-20T14:43"
+    },
+    {
+        "id": 2626357,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626357",
+        "siglaTipo": "RDF",
+        "codTipo": 197,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Redação Final ao PL 7801/2010",
+        "dataApresentacao": "2026-05-20T14:50"
+    },
+    {
+        "id": 2626358,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626358",
+        "siglaTipo": "RDF",
+        "codTipo": 197,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Redação Final ao PL 1512/2024",
+        "dataApresentacao": "2026-05-20T14:51"
+    },
+    {
+        "id": 2626359,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626359",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Helena Lima (PSD-RR), pela aprovação.",
+        "dataApresentacao": "2026-05-20T14:28"
+    },
+    {
+        "id": 2626360,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626360",
+        "siglaTipo": "DTQ",
+        "codTipo": 846,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Destaque para Votação em Separado - MPV 1334/2026",
+        "dataApresentacao": "2026-05-20T14:51"
+    },
+    {
+        "id": 2626361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626361",
+        "siglaTipo": "RPD",
+        "codTipo": 1053,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Votação Nominal do Destaque para Votação em Separado - MPV 1334/2026-Destaque para Votação em Separado - MPV 1334/2026",
+        "dataApresentacao": "2026-05-20T14:51"
+    },
+    {
+        "id": 2626362,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626362",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Carlos Jordy (PL-RJ), pela constitucionalidade, juridicidade e técnica legislativa do PRC 106/2015 e da Emenda de Plenário nº 1; e pela constitucionalidade, injuridicidade e técnica legislativa da Emenda de Plenário nº 2.",
+        "dataApresentacao": "2026-05-20T14:40"
+    },
+    {
+        "id": 2626363,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626363",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2517,
+        "ano": 2026,
+        "ementa": "Altera a Lei n. 8.213, de 24 de julho de 1991, para prever a concessão automática de salário maternidade sob a responsabilidade do Instituto Nacional do Seguro Social (INSS).",
+        "dataApresentacao": "2026-05-20T14:52"
+    },
+    {
+        "id": 2626364,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626364",
+        "siglaTipo": "REQ",
+        "codTipo": 318,
+        "numero": 3019,
+        "ano": 2026,
+        "ementa": "Requer a inclusão do PL 5868 de 2025 na Ordem do Dia do Plenário da Câmara dos Deputados.",
+        "dataApresentacao": "2026-05-20T14:53"
+    },
+    {
+        "id": 2626365,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626365",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3020,
+        "ano": 2026,
+        "ementa": "Requeiro, nos termos nos termos regimentais, a RETIRADA do APOIAMENTO a Emenda Nº 2, na PEC Nº 221 de 2019.",
+        "dataApresentacao": "2026-05-20T14:54"
+    },
+    {
+        "id": 2626367,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626367",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3021,
+        "ano": 2026,
+        "ementa": "Requeiro, nos termos nos termos regimentais, a RETIRADA do APOIAMENTO a Emenda Nº 1, na PEC Nº 221 de 2019.",
+        "dataApresentacao": "2026-05-20T14:56"
+    },
+    {
+        "id": 2626368,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626368",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2518,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para instituir a Política Nacional de Apoio ao Adulto com Transtorno do Espectro Autista – TEA.",
+        "dataApresentacao": "2026-05-20T14:57"
+    },
+    {
+        "id": 2626369,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626369",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1419,
+        "ano": 2026,
+        "ementa": "Requer informações ao Senhor Ministro de Estado da Saúde acerca da nova Caderneta Brasileira da Gestante, publicada pelo Ministério da Saúde, especialmente quanto ao uso da expressão “pessoa que gesta”, à disciplina sobre interrupção da gestação, à abordagem sobre violência obstétrica e às críticas formuladas pelo Conselho Federal de Medicina.",
+        "dataApresentacao": "2026-05-20T14:58"
+    },
+    {
+        "id": 2626370,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626370",
+        "siglaTipo": "DOC",
+        "codTipo": 1024,
+        "numero": 803,
+        "ano": 2026,
+        "ementa": "",
+        "dataApresentacao": "2026-05-20T15:03"
+    },
+    {
+        "id": 2626371,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626371",
+        "siglaTipo": "DTQ",
+        "codTipo": 1011,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Destaque de Emenda - MPV 1334/2026",
+        "dataApresentacao": "2026-05-20T15:05"
+    },
+    {
+        "id": 2626372,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626372",
+        "siglaTipo": "RPD",
+        "codTipo": 1054,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Votação Nominal do Destaque de Emenda - MPV 1334/2026-Destaque de Emenda - MPV 1334/2026",
+        "dataApresentacao": "2026-05-20T15:05"
+    },
+    {
+        "id": 2626373,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626373",
+        "siglaTipo": "PRLP",
+        "codTipo": 891,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Dispõe sobre os direitos de pessoas com diabetes mellitus tipo 1 e sobre ações voltadas à promoção de sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.",
+        "dataApresentacao": "2026-05-20T15:06"
+    },
+    {
+        "id": 2626374,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626374",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Nilto Tatto (PT-SP), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T15:02"
+    },
+    {
+        "id": 2626375,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626375",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Nilto Tatto (PT-SP), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T15:02"
+    },
+    {
+        "id": 2626376,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626376",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Nilto Tatto (PT-SP), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T15:02"
+    },
+    {
+        "id": 2626377,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626377",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Nilto Tatto (PT-SP), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T15:02"
+    },
+    {
+        "id": 2626378,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626378",
+        "siglaTipo": "REQ",
+        "codTipo": 318,
+        "numero": 3022,
+        "ano": 2026,
+        "ementa": "Requer a inclusão na Ordem do Dia do Plenário para votação imediata do Projeto de Lei Complementar nº185/2024.",
+        "dataApresentacao": "2026-05-20T15:11"
+    },
+    {
+        "id": 2626379,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626379",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Nilto Tatto (PT-SP), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T15:02"
+    },
+    {
+        "id": 2626380,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626380",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3023,
+        "ano": 2026,
+        "ementa": "Requer a retirada de assinatura da emenda 1/2026 à PEC 221/2019.",
+        "dataApresentacao": "2026-05-20T15:25"
+    },
+    {
+        "id": 2626381,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626381",
+        "siglaTipo": "ATA",
+        "codTipo": 810,
+        "numero": 95,
+        "ano": 2026,
+        "ementa": "Ata nº 95 de 2026",
+        "dataApresentacao": "2026-05-20T15:32"
+    },
+    {
+        "id": 2626382,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626382",
+        "siglaTipo": "ATA",
+        "codTipo": 810,
+        "numero": 95,
+        "ano": 2026,
+        "ementa": "Ata nº 95 de 2026",
+        "dataApresentacao": "2026-05-20T15:34"
+    },
+    {
+        "id": 2626383,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626383",
+        "siglaTipo": "ATA",
+        "codTipo": 810,
+        "numero": 96,
+        "ano": 2026,
+        "ementa": "Termo de solene nº 96 de 2026",
+        "dataApresentacao": "2026-05-20T15:38"
+    },
+    {
+        "id": 2626384,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626384",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 2486/2026",
+        "dataApresentacao": "2026-05-20T15:38"
+    },
+    {
+        "id": 2626385,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626385",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 699/2023",
+        "dataApresentacao": "2026-05-20T15:38"
+    },
+    {
+        "id": 2626386,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626386",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 2951/2024",
+        "dataApresentacao": "2026-05-20T15:38"
+    },
+    {
+        "id": 2626387,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626387",
+        "siglaTipo": "ATA",
+        "codTipo": 810,
+        "numero": 96,
+        "ano": 2026,
+        "ementa": "Ata nº 96 de 2026",
+        "dataApresentacao": "2026-05-20T15:39"
+    },
+    {
+        "id": 2626388,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626388",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3024,
+        "ano": 2026,
+        "ementa": "Requer a retirada de assinatura da emenda 2/2026 à PEC 221/2019.",
+        "dataApresentacao": "2026-05-20T15:38"
+    },
+    {
+        "id": 2626389,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626389",
+        "siglaTipo": "PDL",
+        "codTipo": 557,
+        "numero": 394,
+        "ano": 2026,
+        "ementa": "Susta os efeitos de dispositivos da \"Caderneta Brasileira da Gestante\" (Edição 2026) do Ministério da Saúde, por extrapolação do poder regulamentar, violação à Lei do Ato Médico e afronta ao ordenamento jurídico pátrio.",
+        "dataApresentacao": "2026-05-20T15:41"
+    },
+    {
+        "id": 2626393,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626393",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CINDRE) ao PL 4189/2021",
+        "dataApresentacao": "2026-05-20T15:48"
+    },
+    {
+        "id": 2626394,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626394",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Roberto Duarte (REPUBLIC-AC), pela aprovação, com emendas.",
+        "dataApresentacao": "2026-05-20T14:57"
+    },
+    {
+        "id": 2626395,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626395",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-20T15:52"
+    },
+    {
+        "id": 2626396,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626396",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-20T15:53"
+    },
+    {
+        "id": 2626397,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626397",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2519,
+        "ano": 2026,
+        "ementa": "Dispõe sobre o combate à discriminação contra pessoas obesas e dá outras providências.",
+        "dataApresentacao": "2026-05-20T15:50"
+    },
+    {
+        "id": 2626398,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626398",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3025,
+        "ano": 2026,
+        "ementa": "Requer a exclusão de assinatura em apoio à Emenda n. 1, de 2026 (EMC 1) à Proposta de Emenda à Constituição 221, de 2019, que “Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos”.",
+        "dataApresentacao": "2026-05-20T15:52"
+    },
+    {
+        "id": 2626399,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626399",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-20T15:53"
+    },
+    {
+        "id": 2626400,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626400",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Carol Dartora (PT-PR), pela aprovação deste, com emendas.",
+        "dataApresentacao": "2026-05-20T15:59"
+    },
+    {
+        "id": 2626401,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626401",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Institui a Política Nacional de Bibliotecas Digitais Comunitárias (PNBDC), com foco na juventude, e dá outras providências.",
+        "dataApresentacao": "2026-05-20T15:59"
+    },
+    {
+        "id": 2626402,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626402",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Institui a Política Nacional de Bibliotecas Digitais Comunitárias (PNBDC), com foco na juventude, e dá outras providências.",
+        "dataApresentacao": "2026-05-20T15:59"
+    },
+    {
+        "id": 2626403,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626403",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Institui a Política Nacional de Bibliotecas Digitais Comunitárias (PNBDC), com foco na juventude, e dá outras providências.",
+        "dataApresentacao": "2026-05-20T15:59"
+    },
+    {
+        "id": 2626404,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626404",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1420,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado da Justiça e Segurança Pública acerca das ações de investigação e repressão ao crime organizado envolvido na produção, falsificação e comercialização ilegal de medicamentos agonistas do receptor GLP-1 no território nacional.",
+        "dataApresentacao": "2026-05-20T15:57"
+    },
+    {
+        "id": 2626405,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626405",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1421,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado da Saúde acerca dos impactos sanitários e epidemiológicos decorrentes do uso de medicamentos agonistas do receptor GLP-1, em especial de preparações magistrais de origem irregular, sobre os usuários do Sistema Único de Saúde e da saúde suplementar.",
+        "dataApresentacao": "2026-05-20T15:58"
+    },
+    {
+        "id": 2626406,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626406",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Carol Dartora (PT-PR), pela aprovação deste, com emendas.",
+        "dataApresentacao": "2026-05-20T15:59"
+    },
+    {
+        "id": 2626407,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626407",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Proposta para a Semana Nacional da Cultura Brasileira, que será comemorada na semana que compreende o dia 5 de novembro, Dia Nacional da Cultura e da Ciência, conforme estabelece a Lei nº 5.579, de 15 de maio de 1970.",
+        "dataApresentacao": "2026-05-20T15:59"
+    },
+    {
+        "id": 2626408,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626408",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Proposta para a Semana Nacional da Cultura Brasileira, que será comemorada na semana que compreende o dia 5 de novembro, Dia Nacional da Cultura e da Ciência, conforme estabelece a Lei nº 5.579, de 15 de maio de 1970.",
+        "dataApresentacao": "2026-05-20T15:59"
+    },
+    {
+        "id": 2626409,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626409",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2520,
+        "ano": 2026,
+        "ementa": "Altera o art. 473 do Decreto-Lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho – CLT), para ampliar o direito à ausência justificada do empregado por doação voluntária de sangue.",
+        "dataApresentacao": "2026-05-20T16:06"
+    },
+    {
+        "id": 2626410,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626410",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Carol Dartora (PT-PR), pela aprovação deste, com substitutivo.",
+        "dataApresentacao": "2026-05-20T15:59"
+    },
+    {
+        "id": 2626411,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626411",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Caroline de Toni (PL-SC), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T16:05"
+    }
+]

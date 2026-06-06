@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 2628643,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628643",
+        "siglaTipo": "REQ",
+        "codTipo": 448,
+        "numero": 19,
+        "ano": 2026,
+        "ementa": "Requer o envio de ofício da Comissão de Turismo ao Ministério do Turismo para incluir, no calendário oficial de eventos daquela pasta, o São João do Grude em Nós, realizado no município de Extremoz, Estado do Rio Grande do Norte",
+        "dataApresentacao": "2026-05-27T17:28"
+    },
+    {
+        "id": 2628644,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628644",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Altera a Lei nº 11.788, de 25 de setembro de 2008, que dispõe sobre estágio de estudante, para facultar o estágio no período de um ano imediatamente posterior à conclusão do curso para estudantes de período integral",
+        "dataApresentacao": "2026-05-27T18:33"
+    },
+    {
+        "id": 2628645,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628645",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 863/2025",
+        "dataApresentacao": "2026-05-27T20:47"
+    },
+    {
+        "id": 2628646,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628646",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 874/2025",
+        "dataApresentacao": "2026-05-27T20:48"
+    },
+    {
+        "id": 2628647,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628647",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 884/2025",
+        "dataApresentacao": "2026-05-27T20:49"
+    },
+    {
+        "id": 2628648,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628648",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2687,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a importação, por pessoa física residente no Brasil, de medicamentos sem registro sanitário nacional destinados exclusivamente a uso próprio, estabelece critérios de proporcionalidade regulatória, proteção sanitária, segurança jurídica e continuidade terapêutica, e dá outras providências.",
+        "dataApresentacao": "2026-05-27T20:40"
+    },
+    {
+        "id": 2628649,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628649",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 888/2025",
+        "dataApresentacao": "2026-05-27T20:50"
+    },
+    {
+        "id": 2628650,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628650",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 961/2025",
+        "dataApresentacao": "2026-05-27T20:50"
+    },
+    {
+        "id": 2628651,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628651",
+        "siglaTipo": "DTQ",
+        "codTipo": 1012,
+        "numero": 6,
+        "ano": 0,
+        "ementa": "Destaque de Preferência - PEC 221/2019 Turno 1",
+        "dataApresentacao": "2026-05-27T20:44"
+    },
+    {
+        "id": 2628652,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628652",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 971/2025",
+        "dataApresentacao": "2026-05-27T20:51"
+    },
+    {
+        "id": 2628653,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628653",
+        "siglaTipo": "EMA",
+        "codTipo": 608,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Emenda Aglutinativa Substitutiva Global.",
+        "dataApresentacao": "2026-05-27T20:40"
+    },
+    {
+        "id": 2628654,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628654",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 973/2025",
+        "dataApresentacao": "2026-05-27T20:52"
+    },
+    {
+        "id": 2628655,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628655",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 982/2025",
+        "dataApresentacao": "2026-05-27T20:53"
+    },
+    {
+        "id": 2628656,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628656",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 995/2025",
+        "dataApresentacao": "2026-05-27T20:54"
+    },
+    {
+        "id": 2628657,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628657",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1061/2025",
+        "dataApresentacao": "2026-05-27T20:55"
+    },
+    {
+        "id": 2628658,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628658",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1067/2025",
+        "dataApresentacao": "2026-05-27T20:56"
+    },
+    {
+        "id": 2628659,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628659",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1074/2025",
+        "dataApresentacao": "2026-05-27T20:56"
+    },
+    {
+        "id": 2628660,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628660",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2688,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 8.112, de 11 de dezembro de 1990, para assegurar a manutenção das vantagens pecuniárias acessórias ao servidor público beneficiário de horário especial em razão de deficiência própria ou de cônjuge, filho, companheiro ou dependente com deficiência ou Transtorno do Espectro Autista.",
+        "dataApresentacao": "2026-05-27T20:54"
+    },
+    {
+        "id": 2628661,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628661",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Pastor Gil (PL-MA), pela aprovação.",
+        "dataApresentacao": "2026-05-27T19:07"
+    },
+    {
+        "id": 2628662,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628662",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1097/2025",
+        "dataApresentacao": "2026-05-27T21:02"
+    },
+    {
+        "id": 2628663,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628663",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1099/2025",
+        "dataApresentacao": "2026-05-27T21:03"
+    },
+    {
+        "id": 2628664,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628664",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1112/2025",
+        "dataApresentacao": "2026-05-27T21:03"
+    },
+    {
+        "id": 2628665,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628665",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1117/2025",
+        "dataApresentacao": "2026-05-27T21:04"
+    },
+    {
+        "id": 2628666,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628666",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1149/2025",
+        "dataApresentacao": "2026-05-27T21:05"
+    },
+    {
+        "id": 2628667,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628667",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1150/2025",
+        "dataApresentacao": "2026-05-27T21:06"
+    },
+    {
+        "id": 2628668,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628668",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1151/2025",
+        "dataApresentacao": "2026-05-27T21:06"
+    },
+    {
+        "id": 2628669,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628669",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1169/2025",
+        "dataApresentacao": "2026-05-27T21:07"
+    },
+    {
+        "id": 2628670,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628670",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1170/2025",
+        "dataApresentacao": "2026-05-27T21:09"
+    },
+    {
+        "id": 2628671,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628671",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1172/2025",
+        "dataApresentacao": "2026-05-27T21:09"
+    },
+    {
+        "id": 2628672,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628672",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1173/2025",
+        "dataApresentacao": "2026-05-27T21:10"
+    },
+    {
+        "id": 2628673,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628673",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1174/2025",
+        "dataApresentacao": "2026-05-27T21:11"
+    },
+    {
+        "id": 2628674,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628674",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1175/2025",
+        "dataApresentacao": "2026-05-27T21:12"
+    },
+    {
+        "id": 2628675,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628675",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1177/2025",
+        "dataApresentacao": "2026-05-27T21:13"
+    },
+    {
+        "id": 2628676,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628676",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1180/2025",
+        "dataApresentacao": "2026-05-27T21:14"
+    },
+    {
+        "id": 2628677,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628677",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 1194/2025",
+        "dataApresentacao": "2026-05-27T21:15"
+    },
+    {
+        "id": 2628678,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628678",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 31/2026",
+        "dataApresentacao": "2026-05-27T21:15"
+    },
+    {
+        "id": 2628679,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628679",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 81/2026",
+        "dataApresentacao": "2026-05-27T21:16"
+    },
+    {
+        "id": 2628680,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628680",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 82/2026",
+        "dataApresentacao": "2026-05-27T21:17"
+    },
+    {
+        "id": 2628681,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628681",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 119/2026",
+        "dataApresentacao": "2026-05-27T21:18"
+    },
+    {
+        "id": 2628682,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628682",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 122/2026",
+        "dataApresentacao": "2026-05-27T21:19"
+    },
+    {
+        "id": 2628683,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628683",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 123/2026",
+        "dataApresentacao": "2026-05-27T21:20"
+    },
+    {
+        "id": 2628684,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628684",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2689,
+        "ano": 2026,
+        "ementa": "Concede isenção ou desconto tarifário de pedágio para usuários em deslocamentos de caráter local nas rodovias federais concedidas e dá outras providências.",
+        "dataApresentacao": "2026-05-27T21:16"
+    },
+    {
+        "id": 2628685,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628685",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 127/2026",
+        "dataApresentacao": "2026-05-27T21:21"
+    },
+    {
+        "id": 2628686,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628686",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 222/2026",
+        "dataApresentacao": "2026-05-27T21:22"
+    },
+    {
+        "id": 2628687,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628687",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Introduz o art. 86-A da Lei nº 4.737, de 15 de julho de 1965, para dispor sobre o critério de desempate em eleição municipal majoritária.",
+        "dataApresentacao": "2026-05-27T20:17"
+    },
+    {
+        "id": 2628688,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628688",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 231/2026",
+        "dataApresentacao": "2026-05-27T21:22"
+    },
+    {
+        "id": 2628689,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628689",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 720/2024",
+        "dataApresentacao": "2026-05-27T21:32"
+    },
+    {
+        "id": 2628690,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628690",
+        "siglaTipo": "EMP",
+        "codTipo": 870,
+        "numero": 7,
+        "ano": 0,
+        "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos decorrentes de choques extraordinários no mercado internacional de energia.",
+        "dataApresentacao": "2026-05-27T22:10"
+    },
+    {
+        "id": 2628691,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628691",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2690,
+        "ano": 2026,
+        "ementa": "Estabelece redução escalonada da carga tributária incidente sobre as receitas decorrentes da venda de preparações do tipo utilizado na alimentação de cães e gatos, com o objetivo de promover o acesso à nutrição animal adequada, assegurar previsibilidade fiscal e estimular a formalização do setor.",
+        "dataApresentacao": "2026-05-27T22:29"
+    },
+    {
+        "id": 2628692,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628692",
+        "siglaTipo": "REQ",
+        "codTipo": 323,
+        "numero": 3230,
+        "ano": 2026,
+        "ementa": "Requer dispensa de interstício entre o primeiro e o segundo turnos de deliberação da Proposta de Emenda à Constituição nº 221, de 2019.",
+        "dataApresentacao": "2026-05-27T16:03"
+    },
+    {
+        "id": 2628693,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628693",
+        "siglaTipo": "PLP",
+        "codTipo": 140,
+        "numero": 147,
+        "ano": 2026,
+        "ementa": "Institui medidas transitórias de mitigação econômica decorrentes da redução constitucional da jornada semanal de trabalho, mediante desoneração previdenciária patronal integral e mecanismos de adaptação produtiva para empregadores efetivamente impactados pela redução da jornada semanal de 44 (quarenta e quatro) para 40 (quarenta) horas.",
+        "dataApresentacao": "2026-05-27T23:29"
+    },
+    {
+        "id": 2628694,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628694",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Delegada Adriana Accorsi (PT-GO), pela aprovação, na forma do Substitutivo da Comissão de Defesa dos Direitos da Mulher.",
+        "dataApresentacao": "2026-05-27T13:51"
+    },
+    {
+        "id": 2628695,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628695",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 14,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PEC 5/2023 Turno 1",
+        "dataApresentacao": "2026-05-28T08:09"
+    },
+    {
+        "id": 2628696,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628696",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 15,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PEC 5/2023 Turno 1",
+        "dataApresentacao": "2026-05-28T08:09"
+    },
+    {
+        "id": 2628697,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628697",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1822/2024",
+        "dataApresentacao": "2026-05-28T08:44"
+    },
+    {
+        "id": 2628698,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628698",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1822/2024-Requerimento de Retirada de Matéria da Pauta - PL 1822/2024",
+        "dataApresentacao": "2026-05-28T08:44"
+    },
+    {
+        "id": 2628701,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628701",
+        "siglaTipo": "EMA",
+        "codTipo": 608,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "\"Acrescenta o §4º-A ao Art. 150 da Constituição Federal.\"",
+        "dataApresentacao": "2026-05-27T22:47"
+    },
+    {
+        "id": 2628702,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628702",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Sâmia Bomfim (PSOL-SP), pela aprovação.",
+        "dataApresentacao": "2026-05-27T22:09"
+    },
+    {
+        "id": 2628703,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628703",
+        "siglaTipo": "EMA",
+        "codTipo": 608,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "EMENDA AGLUTIVATIVA À PEC 5 DE 2023 QUE Acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI.",
+        "dataApresentacao": "2026-05-26T12:59"
+    },
+    {
+        "id": 2628704,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628704",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Kim Kataguiri (MISSÃO-SP), pela compatibilidade e adequação financeira e orçamentária; e, no mérito, pela aprovação.",
+        "dataApresentacao": "2026-05-28T08:39"
+    },
+    {
+        "id": 2628705,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628705",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Silvia Cristina (PP-RO), pela constitucionalidade, juridicidade, técnica legislativa e, no mérito, pela aprovação.",
+        "dataApresentacao": "2026-05-27T22:00"
+    },
+    {
+        "id": 2628706,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628706",
+        "siglaTipo": "DTQ",
+        "codTipo": 1012,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Destaque de Preferência - EMA 3 => PEC 5/2023",
+        "dataApresentacao": "2026-05-28T09:46"
+    },
+    {
+        "id": 2628707,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628707",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Daniel Agrobom (PSD-GO), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-05-26T16:16"
+    },
+    {
+        "id": 2628708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628708",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Delegada Adriana Accorsi (PT-GO), pela aprovação do PL 2443/25, com substitutivo.",
+        "dataApresentacao": "2026-05-27T19:42"
+    },
+    {
+        "id": 2628709,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628709",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer ao PL 5686/2025 que Dispõe sobre a proteção do produtor rural com vistas a assegurar a função social da propriedade produtiva e a continuidade da atividade rural, estabelece prioridade de garantias agrícolas, altera a Lei nº 13.476, de 28 de agosto de 2017 (Marco Legal das Garantias), e dá outras providências.",
+        "dataApresentacao": "2026-05-26T16:16"
+    },
+    {
+        "id": 2628710,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628710",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Dispõe sobre a obrigatoriedade de condução à Delegacia Especializada de Atendimento à Mulher nos casos de denúncia de terceiros sobre violência doméstica e familiar, mesmo diante da negativa da vítima, estabelece diretrizes para a atuação policial e dá outras providências.",
+        "dataApresentacao": "2026-05-27T19:42"
+    },
+    {
+        "id": 2628711,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628711",
+        "siglaTipo": "DOC",
+        "codTipo": 1024,
+        "numero": 825,
+        "ano": 2026,
+        "ementa": "",
+        "dataApresentacao": "2026-05-28T10:01"
+    },
+    {
+        "id": 2628712,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628712",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 31,
+        "ano": 2026,
+        "ementa": "Requer a realização de audiência pública para debater o esporte como vetor de desenvolvimento econômico, geração de empregos, fortalecimento da indústria nacional e dinamização de diversos setores produtivos do país.",
+        "dataApresentacao": "2026-05-27T20:47"
+    },
+    {
+        "id": 2628713,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628713",
+        "siglaTipo": "RPD",
+        "codTipo": 892,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão Matéria Urgente - PL 1822/2024",
+        "dataApresentacao": "2026-05-28T10:06"
+    },
+    {
+        "id": 2628714,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628714",
+        "siglaTipo": "RPD",
+        "codTipo": 1041,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão Matéria Urgente - PL 1822/2024-Requerimento de Adiamento da Discussão Matéria Urgente - PL 1822/2024",
+        "dataApresentacao": "2026-05-28T10:06"
+    },
+    {
+        "id": 2628715,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628715",
+        "siglaTipo": "RPD",
+        "codTipo": 336,
+        "numero": 5,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Votação - PL 1822/2024",
+        "dataApresentacao": "2026-05-28T10:07"
+    },
+    {
+        "id": 2628716,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628716",
+        "siglaTipo": "RPD",
+        "codTipo": 1042,
+        "numero": 6,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 1822/2024-Requerimento de Adiamento da Votação - PL 1822/2024",
+        "dataApresentacao": "2026-05-28T10:07"
+    },
+    {
+        "id": 2628717,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628717",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Daniel Agrobom (PSD-GO), pela aprovação do PL 2900/25 e do PL 6762/25, apensado, com substitutivo.",
+        "dataApresentacao": "2026-05-26T16:16"
+    },
+    {
+        "id": 2628718,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628718",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Delegada Adriana Accorsi (PT-GO), pela aprovação.",
+        "dataApresentacao": "2026-05-27T20:25"
+    },
+    {
+        "id": 2628719,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628719",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator ao PL 2900/2025 que Institui a Campanha Nacional de Incentivo à Aquisição de Produtos e Ingredientes Agroecológicos e Orgânicos Provenientes da Agricultura Familiar e dá outras providências.",
+        "dataApresentacao": "2026-05-26T16:16"
+    },
+    {
+        "id": 2628720,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628720",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Duda Ramos (PODE-RR), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-05-26T18:05"
+    },
+    {
+        "id": 2628721,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628721",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Estabelece diretrizes gerais para o reconhecimento das corridas de rua e eventos esportivos não formais como instrumentos de promoção da saúde e do esporte, vedando a instituição de taxas de natureza arrecadatória incompatíveis com essa finalidade.",
+        "dataApresentacao": "2026-05-26T18:05"
+    },
+    {
+        "id": 2628723,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628723",
+        "siglaTipo": "PPP",
+        "codTipo": 192,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Dr. Fernando Máximo (PL-RO) pela: • Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, que conclui pela aprovação do Projeto de Lei nº 1.822, de 2024, e de seu apensado, Projeto de Lei nº 4.183, de 2024, na forma do Substitutivo adotado. • Comissão de Finanças e Tributação, que conclui pela não implicação financeira ou orçamentária da matéria em aumento ou diminuição da receita e da despesa pública, não cabendo pronunciamento quanto à adequação financeira ou orçamentária do Projeto de Lei nº 1.822, de 2024, de seu apensado, Projeto de Lei nº 4.183, de 2024, e do Substitutivo adotado pelo relator da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 1.822, de 2024, de seu apensado, Projeto de Lei nº 4.183, de 2024, e do Substitutivo adotado pelo relator da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família.",
+        "dataApresentacao": "2026-05-28T09:00"
+    },
+    {
+        "id": 2628724,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628724",
+        "siglaTipo": "RPD",
+        "codTipo": 890,
+        "numero": 16,
+        "ano": 0,
+        "ementa": "Requerimento para Retirada de Tramitação de RPD/DTQ - DTQ 1 => PEC 5/2023",
+        "dataApresentacao": "2026-05-28T10:35"
+    },
+    {
+        "id": 2628725,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628725",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Silvia Cristina (PP-RO), pela constitucionalidade, juridicidade e técnica legislativa, com emenda.",
+        "dataApresentacao": "2026-05-28T10:17"
+    },
+    {
+        "id": 2628726,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628726",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Carla Dickson (PL-RN), pela aprovação.",
+        "dataApresentacao": "2026-05-27T17:36"
+    },
+    {
+        "id": 2628727,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628727",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-28T10:38"
+    },
+    {
+        "id": 2628728,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628728",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Inclui no Calendário Turístico Oficial do Brasil a festa “Caprinova”, realizada no Município de Queimada Nova, Estado do Piauí.",
+        "dataApresentacao": "2026-05-28T10:27"
+    },
+    {
+        "id": 2628729,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628729",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Delegada Ione (PL-MG), pela aprovação do PL 6166/25, com substitutivo.",
+        "dataApresentacao": "2026-05-27T22:25"
+    },
+    {
+        "id": 2628730,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628730",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Cria o crime de recusa injustificada ao cumprimento de ordem policial durante abordagem, busca pessoal ou veicular, e dá outras providências.",
+        "dataApresentacao": "2026-05-27T22:25"
+    },
+    {
+        "id": 2628732,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628732",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Sanderson (PL-RS), pela aprovação do PL 6529/25 e da Emenda 1/2026,  apresentada nesta comissão, com sustitutivo.",
+        "dataApresentacao": "2026-05-27T23:38"
+    },
+    {
+        "id": 2628734,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628734",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2691,
+        "ano": 2026,
+        "ementa": "Institui o Sistema Nacional de Registro de Abordagens Policiais (SIRAP), estabelece normas gerais para registro eletrônico de abordagens policiais no âmbito do Sistema Único de Segurança Pública - SUSP e dá outras providências.",
+        "dataApresentacao": "2026-05-28T10:48"
+    },
+    {
+        "id": 2628735,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628735",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Sanderson (PL-RS), pela aprovação do PL 6529/25 e da Emenda 1/2026,  apresentada nesta comissão.",
+        "dataApresentacao": "2026-05-27T23:38"
+    },
+    {
+        "id": 2628736,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628736",
+        "siglaTipo": "ATA",
+        "codTipo": 810,
+        "numero": 100,
+        "ano": 2026,
+        "ementa": "Termo Solene nº 100 de 2026",
+        "dataApresentacao": "2026-05-28T10:52"
+    },
+    {
+        "id": 2628737,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628737",
+        "siglaTipo": "ATA",
+        "codTipo": 810,
+        "numero": 100,
+        "ano": 2026,
+        "ementa": "Termo de Solene nº 100 de 2026",
+        "dataApresentacao": "2026-05-28T10:54"
+    },
+    {
+        "id": 2628738,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628738",
+        "siglaTipo": "ATA",
+        "codTipo": 810,
+        "numero": 101,
+        "ano": 2026,
+        "ementa": "Termo Solene nº 101 de 2026",
+        "dataApresentacao": "2026-05-28T10:56"
+    },
+    {
+        "id": 2628740,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628740",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Bacelar (PV-BA), pela aprovação do PL 3573/2025 e das Emendas 1 e 2 da Comissão de Cultura.",
+        "dataApresentacao": "2026-05-28T09:53"
+    },
+    {
+        "id": 2628741,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628741",
+        "siglaTipo": "ATA",
+        "codTipo": 810,
+        "numero": 101,
+        "ano": 2026,
+        "ementa": "Termo de Solene nº 101 de 2026",
+        "dataApresentacao": "2026-05-28T10:58"
+    },
+    {
+        "id": 2628742,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628742",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Capitão Alden (PL-BA), pela aprovação do Projeto de Lei nº 4083 de 2024, com emenda.",
+        "dataApresentacao": "2026-05-26T18:48"
+    },
+    {
+        "id": 2628743,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628743",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), da Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos) e da Lei nº 8.429, de 2 de junho de 1992 (Lei de Improbidade Administrativa) para agravar as penas aplicáveis aos crimes de compra e venda de votos.",
+        "dataApresentacao": "2026-05-26T18:48"
+    },
+    {
+        "id": 2628744,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628744",
+        "siglaTipo": "REQ",
+        "codTipo": 448,
+        "numero": 84,
+        "ano": 2026,
+        "ementa": "Requer a inclusão de convidados na Audiência Pública, objeto do Requerimento nº 70/2026, que visa debater o fomento ao desenvolvimento da agricultura irrigada sustentável no Brasil.",
+        "dataApresentacao": "2026-05-27T09:57"
+    },
+    {
+        "id": 2628745,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628745",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Delegada Ione (PL-MG), pela aprovação do Projeto de Lei 7.183 de 2.025 na forma do substitutivo.",
+        "dataApresentacao": "2026-05-27T14:20"
+    },
+    {
+        "id": 2628746,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628746",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Institui diretrizes para a prevenção e o enfrentamento da violência simbólica e institucional contra mulheres nos serviços públicos.",
+        "dataApresentacao": "2026-05-27T14:20"
+    },
+    {
+        "id": 2628751,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628751",
+        "siglaTipo": "DOC",
+        "codTipo": 1003,
+        "numero": 635,
+        "ano": 2026,
+        "ementa": "Of. nº 430/2026/PS-GSE, que encaminha a Mensagem n. 36/2026 de envio à sanção presidencial do PLP n.º 262/2019 do SF.",
+        "dataApresentacao": "2026-05-28T10:54"
+    },
+    {
+        "id": 2628752,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628752",
+        "siglaTipo": "DOC",
+        "codTipo": 1003,
+        "numero": 636,
+        "ano": 2026,
+        "ementa": "Of. nº 431/2026/PS-GSE, que comunica ao Senado Federal o envio à sanção do PLP n. 262/2019.",
+        "dataApresentacao": "2026-05-28T10:54"
+    }
+]

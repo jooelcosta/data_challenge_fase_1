@@ -14,17 +14,6 @@
         "id": 220714,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220714",
         "nome": "Adail Filho",
-        "siglaPartido": "REPUBLICANOS",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
-        "siglaUf": "AM",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
-        "email": "dep.adailfilho@camara.leg.br"
-    },
-    {
-        "id": 220714,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220714",
-        "nome": "Adail Filho",
         "siglaPartido": "MDB",
         "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
         "siglaUf": "AM",
@@ -209,17 +198,6 @@
         "email": "dep.alexmanente@camara.leg.br"
     },
     {
-        "id": 204571,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
-        "nome": "Alex Santana",
-        "siglaPartido": "REPUBLICANOS",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
-        "siglaUf": "BA",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
-        "email": null
-    },
-    {
         "id": 220542,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
         "nome": "Alexandre Guimarães",
@@ -267,17 +245,6 @@
         "id": 220576,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
         "nome": "Alfredo Gaspar",
-        "siglaPartido": "UNIÃO",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
-        "siglaUf": "AL",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220576.jpg",
-        "email": "dep.alfredogaspar@camara.leg.br"
-    },
-    {
-        "id": 220576,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
-        "nome": "Alfredo Gaspar",
         "siglaPartido": "PL",
         "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
         "siglaUf": "AL",
@@ -311,34 +278,12 @@
         "id": 204353,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204353",
         "nome": "Aline Gurgel",
-        "siglaPartido": "REPUBLICANOS",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
-        "siglaUf": "AP",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204353.jpg",
-        "email": "dep.alinegurgel@camara.leg.br"
-    },
-    {
-        "id": 204353,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204353",
-        "nome": "Aline Gurgel",
         "siglaPartido": "UNIÃO",
         "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
         "siglaUf": "AP",
         "idLegislatura": 57,
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204353.jpg",
         "email": "dep.alinegurgel@camara.leg.br"
-    },
-    {
-        "id": 226708,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
-        "nome": "Allan Garcês",
-        "siglaPartido": "PP",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
-        "siglaUf": "MA",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226708.jpg",
-        "email": null
     },
     {
         "id": 178937,
@@ -377,34 +322,12 @@
         "id": 204356,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204356",
         "nome": "Amaro Neto",
-        "siglaPartido": "REPUBLICANOS",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
-        "siglaUf": "ES",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204356.jpg",
-        "email": "dep.amaroneto@camara.leg.br"
-    },
-    {
-        "id": 204356,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204356",
-        "nome": "Amaro Neto",
         "siglaPartido": "PP",
         "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
         "siglaUf": "ES",
         "idLegislatura": 57,
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204356.jpg",
         "email": "dep.amaroneto@camara.leg.br"
-    },
-    {
-        "id": 220715,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220715",
-        "nome": "Amom Mandel",
-        "siglaPartido": "CIDADANIA",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
-        "siglaUf": "AM",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
-        "email": "dep.amommandel@camara.leg.br"
     },
     {
         "id": 220715,
@@ -509,34 +432,12 @@
         "id": 204515,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204515",
         "nome": "André Janones",
-        "siglaPartido": "AVANTE",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36886",
-        "siglaUf": "MG",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
-        "email": "dep.andrejanones@camara.leg.br"
-    },
-    {
-        "id": 204515,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204515",
-        "nome": "André Janones",
         "siglaPartido": "REDE",
         "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36886",
         "siglaUf": "MG",
         "idLegislatura": 57,
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
         "email": "dep.andrejanones@camara.leg.br"
-    },
-    {
-        "id": 220676,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220676",
-        "nome": "Andreia Siqueira",
-        "siglaPartido": "MDB",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
-        "siglaUf": "PA",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220676.jpg",
-        "email": "dep.andreiasiqueira@camara.leg.br"
     },
     {
         "id": 220676,
@@ -553,34 +454,12 @@
         "id": 123756,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/123756",
         "nome": "Antônia Lúcia",
-        "siglaPartido": "REPUBLICANOS",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
-        "siglaUf": "AC",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/123756.jpg",
-        "email": "dep.antonialucia@camara.leg.br"
-    },
-    {
-        "id": 123756,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/123756",
-        "nome": "Antônia Lúcia",
         "siglaPartido": "MDB",
         "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
         "siglaUf": "AC",
         "idLegislatura": 57,
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/123756.jpg",
         "email": "dep.antonialucia@camara.leg.br"
-    },
-    {
-        "id": 220544,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220544",
-        "nome": "Antonio Andrade",
-        "siglaPartido": "REPUBLICANOS",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
-        "siglaUf": "TO",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
-        "email": "dep.antonioandrade@camara.leg.br"
     },
     {
         "id": 220544,
@@ -608,17 +487,6 @@
         "id": 220638,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220638",
         "nome": "Antonio Carlos Rodrigues",
-        "siglaPartido": "PL",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
-        "siglaUf": "SP",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
-        "email": "dep.antoniocarlosrodrigues@camara.leg.br"
-    },
-    {
-        "id": 220638,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220638",
-        "nome": "Antonio Carlos Rodrigues",
         "siglaPartido": "PODE",
         "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
         "siglaUf": "SP",
@@ -636,17 +504,6 @@
         "idLegislatura": 57,
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220675.jpg",
         "email": "dep.antoniodoido@camara.leg.br"
-    },
-    {
-        "id": 220549,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220549",
-        "nome": "Any Ortiz",
-        "siglaPartido": "CIDADANIA",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
-        "siglaUf": "RS",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
-        "email": "dep.anyortiz@camara.leg.br"
     },
     {
         "id": 220549,
@@ -773,17 +630,6 @@
         "id": 220605,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220605",
         "nome": "Bandeira de Mello",
-        "siglaPartido": "PSB",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
-        "siglaUf": "RJ",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220605.jpg",
-        "email": "dep.bandeirademello@camara.leg.br"
-    },
-    {
-        "id": 220605,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220605",
-        "nome": "Bandeira de Mello",
         "siglaPartido": "PV",
         "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
         "siglaUf": "RJ",
@@ -823,17 +669,6 @@
         "idLegislatura": 57,
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/109429.jpg",
         "email": "dep.benesleocadio@camara.leg.br"
-    },
-    {
-        "id": 204358,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204358",
-        "nome": "Beto Pereira",
-        "siglaPartido": "PSDB",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
-        "siglaUf": "MS",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204358.jpg",
-        "email": "dep.betopereira@camara.leg.br"
     },
     {
         "id": 204358,
@@ -905,17 +740,6 @@
         "id": 210989,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/210989",
         "nome": "Bruno Farias",
-        "siglaPartido": "AVANTE",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
-        "siglaUf": "MG",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/210989.jpg",
-        "email": "dep.brunofarias@camara.leg.br"
-    },
-    {
-        "id": 210989,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/210989",
-        "nome": "Bruno Farias",
         "siglaPartido": "REPUBLICANOS",
         "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
         "siglaUf": "MG",
@@ -944,17 +768,6 @@
         "idLegislatura": 57,
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220574.jpg",
         "email": "dep.cabogilbertosilva@camara.leg.br"
-    },
-    {
-        "id": 143942,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143942",
-        "nome": "Caio Vianna",
-        "siglaPartido": "PSD",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
-        "siglaUf": "RJ",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143942.jpg",
-        "email": null
     },
     {
         "id": 220548,
@@ -999,17 +812,6 @@
         "idLegislatura": 57,
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
         "email": "dep.capitaoaugusto@camara.leg.br"
-    },
-    {
-        "id": 213762,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/213762",
-        "nome": "Carla Dickson",
-        "siglaPartido": "UNIÃO",
-        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
-        "siglaUf": "RN",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/213762.jpg",
-        "email": "dep.carladickson@camara.leg.br"
     },
     {
         "id": 213762,
@@ -1098,5 +900,203 @@
         "idLegislatura": 57,
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141398.jpg",
         "email": "dep.carloszarattini@camara.leg.br"
+    },
+    {
+        "id": 220704,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220704",
+        "nome": "Carol Dartora",
+        "siglaPartido": "PT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220704.jpg",
+        "email": "dep.caroldartora@camara.leg.br"
+    },
+    {
+        "id": 204369,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204369",
+        "nome": "Caroline de Toni",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204369.jpg",
+        "email": "dep.carolinedetoni@camara.leg.br"
+    },
+    {
+        "id": 220699,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220699",
+        "nome": "Castro Neto",
+        "siglaPartido": "MDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+        "siglaUf": "PI",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220699.jpg",
+        "email": "dep.castroneto@camara.leg.br"
+    },
+    {
+        "id": 206018,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/206018",
+        "nome": "Célia Xakriabá",
+        "siglaPartido": "PSOL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg",
+        "email": "dep.celiaxakriaba@camara.leg.br"
+    },
+    {
+        "id": 178876,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178876",
+        "nome": "Célio Silveira",
+        "siglaPartido": "MDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+        "siglaUf": "GO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178876.jpg",
+        "email": "dep.celiosilveira@camara.leg.br"
+    },
+    {
+        "id": 204488,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204488",
+        "nome": "Célio Studart",
+        "siglaPartido": "PSD",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204488.jpg",
+        "email": "dep.celiostudart@camara.leg.br"
+    },
+    {
+        "id": 73441,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73441",
+        "nome": "Celso Russomanno",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73441.jpg",
+        "email": "dep.celsorussomanno@camara.leg.br"
+    },
+    {
+        "id": 204496,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204496",
+        "nome": "Celso Sabino",
+        "siglaPartido": "PDT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+        "siglaUf": "PA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204496.jpg",
+        "email": "dep.celsosabino@camara.leg.br"
+    },
+    {
+        "id": 204504,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204504",
+        "nome": "Cezinha de Madureira",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
+        "email": "dep.cezinhademadureira@camara.leg.br"
+    },
+    {
+        "id": 205476,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/205476",
+        "nome": "Charles Fernandes",
+        "siglaPartido": "PSD",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/205476.jpg",
+        "email": "dep.charlesfernandes@camara.leg.br"
+    },
+    {
+        "id": 74171,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74171",
+        "nome": "Chico Alencar",
+        "siglaPartido": "PSOL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74171.jpg",
+        "email": "dep.chicoalencar@camara.leg.br"
+    },
+    {
+        "id": 204462,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204462",
+        "nome": "Chris Tonietto",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204462.jpg",
+        "email": "dep.christonietto@camara.leg.br"
+    },
+    {
+        "id": 220665,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220665",
+        "nome": "Clarissa Tércio",
+        "siglaPartido": "PP",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220665.jpg",
+        "email": "dep.clarissatercio@camara.leg.br"
+    },
+    {
+        "id": 74537,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74537",
+        "nome": "Claudio Cajado",
+        "siglaPartido": "PP",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74537.jpg",
+        "email": "dep.claudiocajado@camara.leg.br"
+    },
+    {
+        "id": 141408,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141408",
+        "nome": "Cleber Verde",
+        "siglaPartido": "MDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141408.jpg",
+        "email": "dep.cleberverde@camara.leg.br"
+    },
+    {
+        "id": 88256,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/88256",
+        "nome": "Clodoaldo Magalhães",
+        "siglaPartido": "PV",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/88256.jpg",
+        "email": "dep.clodoaldomagalhaes@camara.leg.br"
+    },
+    {
+        "id": 98148,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/98148",
+        "nome": "Cobalchini",
+        "siglaPartido": "MDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/98148.jpg",
+        "email": "dep.cobalchini@camara.leg.br"
+    },
+    {
+        "id": 220594,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220594",
+        "nome": "Coronel Assis",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220594.jpg",
+        "email": "dep.coronelassis@camara.leg.br"
     }
 ]

@@ -1,0 +1,21 @@
+[
+    {
+        "ano": 2026,
+        "mes": 5,
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "codDocumento": "8104639",
+        "tipoDocumento": "Nota Fiscal Eletrônica",
+        "codTipoDocumento": 4,
+        "dataDocumento": "2026-05-17T20:38:16",
+        "numDocumento": "316104",
+        "valorDocumento": 538.02,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8104639",
+        "nomeFornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+        "cnpjCpfFornecedor": "00692418003122",
+        "valorLiquido": 538.02,
+        "valorGlosa": 0.0,
+        "numRessarcimento": "",
+        "codLote": 2238653,
+        "parcela": 0
+    }
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 2626841,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626841",
+        "siglaTipo": "REQ",
+        "codTipo": 311,
+        "numero": 81,
+        "ano": 2026,
+        "ementa": "Requer a retirada de tramitação do REQ 80/2026, que \"Requer ao Presidente da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural o envio de solicitação de representação do Congresso Nacional no Processo Administrativo nº 08700.000270/2018-72, em andamento no CADE, instaurado para apurar possíveis práticas anticoncorrenciais no mercado de sementes e biotecnologia\".",
+        "dataApresentacao": "2026-05-19T14:05"
+    },
+    {
+        "id": 2626842,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626842",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CSPCCO) ao PL 4899/2025",
+        "dataApresentacao": "2026-05-21T11:11"
+    },
+    {
+        "id": 2626843,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626843",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 4899/2025",
+        "dataApresentacao": "2026-05-21T11:12"
+    },
+    {
+        "id": 2626844,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626844",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CSPCCO) ao PL 5055/2025",
+        "dataApresentacao": "2026-05-21T11:16"
+    },
+    {
+        "id": 2626845,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626845",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 5055/2025",
+        "dataApresentacao": "2026-05-21T11:16"
+    },
+    {
+        "id": 2626846,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626846",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3052,
+        "ano": 2026,
+        "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA nº 01 e EMENDA nº 02 à PEC 221 de 2019.",
+        "dataApresentacao": "2026-05-21T11:15"
+    },
+    {
+        "id": 2626847,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626847",
+        "siglaTipo": "REQ",
+        "codTipo": 308,
+        "numero": 3053,
+        "ano": 2026,
+        "ementa": "Requer, com fundamento no art. 141 do Regimento Interno da Câmara dos Deputados, seja suscitado conflito de competência quanto à distribuição do Projeto de Lei nº 3912, de 2024 à Comissão de Finanças e Tributação.",
+        "dataApresentacao": "2026-05-21T11:16"
+    },
+    {
+        "id": 2626848,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626848",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CSPCCO) ao PL 5356/2025",
+        "dataApresentacao": "2026-05-21T11:19"
+    },
+    {
+        "id": 2626849,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626849",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 5356/2025",
+        "dataApresentacao": "2026-05-21T11:19"
+    },
+    {
+        "id": 2626850,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626850",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CSPCCO) ao PL 575/2026",
+        "dataApresentacao": "2026-05-21T11:22"
+    },
+    {
+        "id": 2626851,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626851",
+        "siglaTipo": "EMC-A",
+        "codTipo": 702,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Emenda Adotada pela Comissão ao PL 575/2026",
+        "dataApresentacao": "2026-05-21T11:22"
+    },
+    {
+        "id": 2626852,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626852",
+        "siglaTipo": "REQ",
+        "codTipo": 391,
+        "numero": 3054,
+        "ano": 2026,
+        "ementa": "REQUER a tramitação, em regime de urgência, do Projeto de Lei nº 3.839/2023, que “Autoriza o uso de fotografia de identificação com elemento de indumentária tradicional que exprime a identidade da pessoa, bem como altera altera as leis nº 7.116, de 29 de agosto de 1983, nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro) e o Decreto-Lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho)”.",
+        "dataApresentacao": "2026-05-21T11:25"
+    },
+    {
+        "id": 2626853,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626853",
+        "siglaTipo": "PDL",
+        "codTipo": 557,
+        "numero": 405,
+        "ano": 2026,
+        "ementa": "Susta os efeitos do ato administrativo do Ministério da Saúde que aprovou, disponibilizou, incorporou ao Meu SUS Digital e determinou a distribuição da Caderneta Brasileira da Gestante – edição 2026, na parte em que veicula conteúdos que exorbitam os limites legais e regulamentares da política pública de atenção à gestante.",
+        "dataApresentacao": "2026-05-21T11:26"
+    },
+    {
+        "id": 2626854,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626854",
+        "siglaTipo": "PDL",
+        "codTipo": 557,
+        "numero": 406,
+        "ano": 2026,
+        "ementa": "Susta os efeitos do Decreto nº 12.976, de 20 de maio de 2026, que estabelece diretrizes para a proteção de mulheres nainternete para o enfrentamento da violência contra mulheres em ambiente digital.",
+        "dataApresentacao": "2026-05-21T11:30"
+    },
+    {
+        "id": 2626855,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626855",
+        "siglaTipo": "PDL",
+        "codTipo": 557,
+        "numero": 407,
+        "ano": 2026,
+        "ementa": "Susta os efeitos do Decreto nº 12.975, de 20 de maio de 2026, que altera o Decreto nº 8.771, de 11 de maio de 2016, que regulamenta a Lei nº 12.965, de 23 de abril de 2014.",
+        "dataApresentacao": "2026-05-21T11:30"
+    },
+    {
+        "id": 2626856,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626856",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Osmar Terra (PL-RS), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-05-20T15:43"
+    },
+    {
+        "id": 2626857,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626857",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 33,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 2766/2021",
+        "dataApresentacao": "2026-05-21T11:36"
+    },
+    {
+        "id": 2626858,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626858",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 34,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 2766/2021-Requerimento de Retirada de Matéria da Pauta - PL 2766/2021",
+        "dataApresentacao": "2026-05-21T11:36"
+    },
+    {
+        "id": 2626859,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626859",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Altera a Lei nº 9.434, de 4 de fevereiro de 1997, para dispor sobre a realização de exames complementares em potenciais doadores de órgãos, no âmbito do Sistema Nacional de Transplantes.",
+        "dataApresentacao": "2026-05-20T15:43"
+    },
+    {
+        "id": 2626860,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626860",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 13,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3240/2025",
+        "dataApresentacao": "2026-05-21T11:36"
+    },
+    {
+        "id": 2626861,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626861",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 14,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3240/2025-Requerimento de Retirada de Matéria da Pauta - PL 3240/2025",
+        "dataApresentacao": "2026-05-21T11:36"
+    },
+    {
+        "id": 2626862,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626862",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Ana Paula Lima (PT-SC), pela aprovação do PL 403/202 e dos PLs 113/2025, PL 614/2025 e PL 946/2025, apensados, com substitutivo.",
+        "dataApresentacao": "2026-05-20T18:14"
+    },
+    {
+        "id": 2626863,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626863",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Restringe a venda e utilização do polimetilmetacrilato (PMMA) para a realização de procedimentos estéticos.",
+        "dataApresentacao": "2026-05-20T18:14"
+    },
+    {
+        "id": 2626864,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626864",
+        "siglaTipo": "DOC",
+        "codTipo": 1003,
+        "numero": 598,
+        "ano": 2026,
+        "ementa": "Of. nº 428/2026/PS-GSE, que encaminha a Mensagem n. 35/2026 de envio à sanção presidencial do PL n.º715/2023 da CD.",
+        "dataApresentacao": "2026-05-21T11:53"
+    },
+    {
+        "id": 2626865,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626865",
+        "siglaTipo": "DOC",
+        "codTipo": 1003,
+        "numero": 599,
+        "ano": 2026,
+        "ementa": "Of. nº 429/2026/PS-GSE, que comunica ao Senado Federal o envio à sanção do PL n. 715/2023.",
+        "dataApresentacao": "2026-05-21T11:53"
+    },
+    {
+        "id": 2626866,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626866",
+        "siglaTipo": "PDL",
+        "codTipo": 557,
+        "numero": 395,
+        "ano": 2026,
+        "ementa": "Susta parcialmente os efeitos do Decreto nº 12.975, de 20 de maio de 2026, que altera o Decreto nº 8.771, de 11 de maio de 2016, para regulamentar dispositivos da Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet).",
+        "dataApresentacao": "2026-05-21T07:04"
+    },
+    {
+        "id": 2626867,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626867",
+        "siglaTipo": "PDL",
+        "codTipo": 557,
+        "numero": 396,
+        "ano": 2026,
+        "ementa": "Susta os Decretos nºs 12.975/2026 e 12.976/2026, que que dispõem sobre a regulamentação do Marco Civil da Internet e sobre deveres das plataformas digitais em matéria de proteção das mulheres no ambiente digital, respectivamente, por extrapolarem os limites do poder regulamentar do Poder Executivo, violarem a reserva legal em matéria de liberdade de expressão e comunicação, e usurparem competência normativa do Congresso Nacional.",
+        "dataApresentacao": "2026-05-21T08:06"
+    },
+    {
+        "id": 2626868,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626868",
+        "siglaTipo": "PDL",
+        "codTipo": 557,
+        "numero": 408,
+        "ano": 2026,
+        "ementa": "Ficam sustados os efeitos dos Decretos 12.975 e 12.976 de 2026, publicados no D.O.U no dia 21 de maio de 2026, assinados pelo presidente Luiz Inácio Lula da Silva, que atualizam a regulamentação do Marco Civil da Internet e estabelecem novas diretrizes para a proteção de mulheres no ambiente digital.",
+        "dataApresentacao": "2026-05-21T11:54"
+    },
+    {
+        "id": 2626869,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626869",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Rafael Simoes (UNIÃO-MG), pela aprovação do PL 4454/2019 e dos PLs 2806/2020 e PL 4041/2024, apensados, com substitutivo.",
+        "dataApresentacao": "2026-05-21T09:42"
+    },
+    {
+        "id": 2626870,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626870",
+        "siglaTipo": "REQ",
+        "codTipo": 1017,
+        "numero": 148,
+        "ano": 2026,
+        "ementa": "Requer que sejam requeridas informações ao Ministério da Saúde acerca da atuação da CONITEC em relação à ampliação do uso da Terapia Tripla para Fibrose Cística no Sistema Único de Saúde (SUS), bem como sobre a estrutura assistencial destinada aos pacientes acometidos pela doença, pela comissão de saúde.",
+        "dataApresentacao": "2026-05-21T11:14"
+    },
+    {
+        "id": 2626871,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626871",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Acrescenta dispositivo à Lei Nº 8.080, de 19 de setembro de 1990, para garantir, através do Sistema Único de Saúde (SUS), tratamento médico a pacientes portadores de doenças não tratáveis no município de origem.",
+        "dataApresentacao": "2026-05-21T09:42"
+    },
+    {
+        "id": 2626872,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626872",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Domingos Neto (PSD-CE), pela constitucionalidade, juridicidade e técnica legislativa do Projeto de Lei nº 1.894/2022 e da Emenda da Comissão de Trabalho, de Administração e Serviço Público.",
+        "dataApresentacao": "2026-05-21T12:06"
+    },
+    {
+        "id": 2626873,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626873",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 15,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3240/2025",
+        "dataApresentacao": "2026-05-21T12:13"
+    },
+    {
+        "id": 2626874,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626874",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 16,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3240/2025-Requerimento de Retirada de Matéria da Pauta - PL 3240/2025",
+        "dataApresentacao": "2026-05-21T12:13"
+    },
+    {
+        "id": 2626875,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626875",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3055,
+        "ano": 2026,
+        "ementa": "Requer-se a retirada de assinatura em apoio à EMENDA nº 01 à PEC nº 221 de 2019.",
+        "dataApresentacao": "2026-05-21T11:54"
+    },
+    {
+        "id": 2626876,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626876",
+        "siglaTipo": "PDL",
+        "codTipo": 557,
+        "numero": 409,
+        "ano": 2026,
+        "ementa": "Susta Decreto Federal nº 12975, de 20 de maio de 2026, que Altera o Decreto nº 8.771, de 11 de maio de 2016, que regulamenta a Lei nº 12.965, de 23 de abril de 2014.",
+        "dataApresentacao": "2026-05-21T12:27"
+    },
+    {
+        "id": 2626877,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626877",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 5557/2025",
+        "dataApresentacao": "2026-05-21T12:31"
+    },
+    {
+        "id": 2626878,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626878",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Clarissa Tércio (PP-PE), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-05-21T11:14"
+    },
+    {
+        "id": 2626879,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626879",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Institui o Sistema Nacional de Transparência da Assistência Social, estabelece mecanismos de divulgação de informações sobre a gestão dos recursos da Política Nacional de Assistência Social e dá outras providências.",
+        "dataApresentacao": "2026-05-21T11:14"
+    },
+    {
+        "id": 2626880,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626880",
+        "siglaTipo": "PDL",
+        "codTipo": 557,
+        "numero": 410,
+        "ano": 2026,
+        "ementa": "Ficam sustados, nos termos do art. 49, inciso V, da Constituição Federal, os efeitos dos Decretos nºs 12.975 e 12.976, de 20 de maio de 2026, editados pelo Poder Executivo, que dispõem sobre deveres de provedores de aplicações de internet e plataformas digitais, moderação de conteúdo, responsabilização de intermediários, mitigação de circulação de conteúdos e competências fiscalizatórias da Autoridade Nacional de Proteção de Dados – ANPD no âmbito da Lei nº 12.965, de 23 de abril de 2014 – Marco Civil da Internet",
+        "dataApresentacao": "2026-05-21T13:07"
+    },
+    {
+        "id": 2626881,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626881",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2549,
+        "ano": 2026,
+        "ementa": "Dispõe sobre os princípios regedores dos direitos animais e estabelece medidas administrativas de prevenção e repressão a condutas lesivas contra animais.",
+        "dataApresentacao": "2026-05-21T13:12"
+    },
+    {
+        "id": 2626882,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626882",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3056,
+        "ano": 2026,
+        "ementa": "Requer a retirada de assinatura da Emenda nº 1 apresentada à PEC 221/2019",
+        "dataApresentacao": "2026-05-21T13:15"
+    },
+    {
+        "id": 2626883,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626883",
+        "siglaTipo": "EMP",
+        "codTipo": 870,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Emenda de Plenário ao PL 3.240, de 2025.",
+        "dataApresentacao": "2026-05-21T13:53"
+    },
+    {
+        "id": 2626884,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626884",
+        "siglaTipo": "EMP",
+        "codTipo": 870,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Emenda de plenário.",
+        "dataApresentacao": "2026-05-21T13:54"
+    },
+    {
+        "id": 2626885,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626885",
+        "siglaTipo": "DTQ",
+        "codTipo": 846,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Destaque para Votação em Separado - PL 5900/2025",
+        "dataApresentacao": "2026-05-21T13:59"
+    },
+    {
+        "id": 2626886,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626886",
+        "siglaTipo": "RPD",
+        "codTipo": 1053,
+        "numero": 12,
+        "ano": 0,
+        "ementa": "Votação Nominal do Destaque para Votação em Separado - PL 5900/2025-Destaque para Votação em Separado - PL 5900/2025",
+        "dataApresentacao": "2026-05-21T13:59"
+    },
+    {
+        "id": 2626887,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626887",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CE) ao PL 4340/2025",
+        "dataApresentacao": "2026-05-21T14:13"
+    },
+    {
+        "id": 2626888,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626888",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 4340/2025",
+        "dataApresentacao": "2026-05-21T14:13"
+    },
+    {
+        "id": 2626889,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626889",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CDU) ao PL 1501/2022",
+        "dataApresentacao": "2026-05-21T14:15"
+    },
+    {
+        "id": 2626891,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626891",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CDU) ao PL 4117/2025",
+        "dataApresentacao": "2026-05-21T14:21"
+    },
+    {
+        "id": 2626892,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626892",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 4117/2025",
+        "dataApresentacao": "2026-05-21T14:22"
+    },
+    {
+        "id": 2626893,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626893",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CDHMIR) ao PLP 156/2023",
+        "dataApresentacao": "2026-05-21T14:23"
+    },
+    {
+        "id": 2626894,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626894",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Kim Kataguiri (MISSÃO-SP), pela compatibilidade e adequação financeira e orçamentária do PL 10070/18; e, no mérito, pela rejeição.",
+        "dataApresentacao": "2026-05-21T11:31"
+    },
+    {
+        "id": 2626895,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626895",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CE) ao PL 6301/2025",
+        "dataApresentacao": "2026-05-21T14:22"
+    },
+    {
+        "id": 2626896,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626896",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 6301/2025",
+        "dataApresentacao": "2026-05-21T14:22"
+    },
+    {
+        "id": 2626897,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626897",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Felipe Francischini (PODE-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-21T14:25"
+    },
+    {
+        "id": 2626898,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626898",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Felipe Francischini (PODE-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-21T14:25"
+    },
+    {
+        "id": 2626899,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626899",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CDHMIR) ao PL 661/2024",
+        "dataApresentacao": "2026-05-21T14:30"
+    },
+    {
+        "id": 2626900,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626900",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 661/2024",
+        "dataApresentacao": "2026-05-21T14:30"
+    },
+    {
+        "id": 2626901,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626901",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Felipe Francischini (PODE-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-21T14:26"
+    },
+    {
+        "id": 2626902,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626902",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Felipe Francischini (PODE-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-21T14:26"
+    },
+    {
+        "id": 2626903,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626903",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Felipe Francischini (PODE-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-21T14:26"
+    },
+    {
+        "id": 2626904,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626904",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CDU) ao PL 444/2026",
+        "dataApresentacao": "2026-05-21T14:34"
+    },
+    {
+        "id": 2626905,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626905",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Felipe Francischini (PODE-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-21T14:26"
+    },
+    {
+        "id": 2626906,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626906",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Felipe Francischini (PODE-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-21T14:25"
+    },
+    {
+        "id": 2626907,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626907",
+        "siglaTipo": "REQ",
+        "codTipo": 304,
+        "numero": 3057,
+        "ano": 2026,
+        "ementa": "Requer o apensamento da Proposta de Emenda à Constituição nº 6, de 2024, à Proposta de Emenda à Constituição nº 555, de 2006.",
+        "dataApresentacao": "2026-05-21T13:58"
+    },
+    {
+        "id": 2626908,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626908",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Felipe Francischini (PODE-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-21T14:25"
+    },
+    {
+        "id": 2626909,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626909",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 422/2025",
+        "dataApresentacao": "2026-05-21T14:31"
+    },
+    {
+        "id": 2626910,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626910",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CDU) ao PL 4975/2025",
+        "dataApresentacao": "2026-05-21T14:36"
+    },
+    {
+        "id": 2626911,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626911",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2551,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para estabelecer parâmetros de adequação do número de alunos por turma na educação básica.",
+        "dataApresentacao": "2026-05-21T14:11"
+    },
+    {
+        "id": 2626912,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626912",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Felipe Francischini (PODE-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-21T14:25"
+    },
+    {
+        "id": 2626913,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626913",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 4975/2025",
+        "dataApresentacao": "2026-05-21T14:36"
+    },
+    {
+        "id": 2626914,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626914",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 424/2025",
+        "dataApresentacao": "2026-05-21T14:31"
+    },
+    {
+        "id": 2626915,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626915",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 425/2025",
+        "dataApresentacao": "2026-05-21T14:31"
+    },
+    {
+        "id": 2626916,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626916",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 411,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a outorga à Sociedade de Cultura Rádio Caiari Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Porto Velho, Estado de Rondônia.",
+        "dataApresentacao": "2026-05-21T14:12"
+    },
+    {
+        "id": 2626917,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626917",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 426/2025",
+        "dataApresentacao": "2026-05-21T14:31"
+    },
+    {
+        "id": 2626918,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626918",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 427/2025",
+        "dataApresentacao": "2026-05-21T14:31"
+    },
+    {
+        "id": 2626919,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626919",
+        "siglaTipo": "REQ",
+        "codTipo": 392,
+        "numero": 3058,
+        "ano": 2026,
+        "ementa": "Requer urgência para apreciação do Projeto de Lei nº 380 de 2023, que “Altera a Lei nº 10.257, de 10 de julho de 2001 para criar diretrizes que fomentem a construção de cidades resilientes às mudanças climáticas”.",
+        "dataApresentacao": "2026-05-21T14:12"
+    },
+    {
+        "id": 2626920,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626920",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 1062/2025",
+        "dataApresentacao": "2026-05-21T14:31"
+    },
+    {
+        "id": 2626921,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626921",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Felipe Francischini (PODE-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-21T14:25"
+    },
+    {
+        "id": 2626922,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626922",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 429/2025",
+        "dataApresentacao": "2026-05-21T14:31"
+    },
+    {
+        "id": 2626923,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626923",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 430/2025",
+        "dataApresentacao": "2026-05-21T14:31"
+    },
+    {
+        "id": 2626924,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626924",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2552,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023, para definir o representante de organização esportiva privada no crime de corrupção privada no esporte.",
+        "dataApresentacao": "2026-05-21T14:13"
+    },
+    {
+        "id": 2626925,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626925",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 438/2025",
+        "dataApresentacao": "2026-05-21T14:31"
+    },
+    {
+        "id": 2626926,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626926",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Felipe Francischini (PODE-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-21T14:25"
+    },
+    {
+        "id": 2626927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626927",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 439/2025",
+        "dataApresentacao": "2026-05-21T14:31"
+    },
+    {
+        "id": 2626928,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626928",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 445/2025",
+        "dataApresentacao": "2026-05-21T14:32"
+    },
+    {
+        "id": 2626929,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626929",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 446/2025",
+        "dataApresentacao": "2026-05-21T14:32"
+    },
+    {
+        "id": 2626930,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626930",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Felipe Francischini (PODE-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-21T14:25"
+    },
+    {
+        "id": 2626931,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626931",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 447/2025",
+        "dataApresentacao": "2026-05-21T14:32"
+    },
+    {
+        "id": 2626932,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626932",
+        "siglaTipo": "REQ",
+        "codTipo": 318,
+        "numero": 3059,
+        "ano": 2026,
+        "ementa": "Requer a inclusão na Ordem do Dia da PEC 06/2024, que “Altera o inciso X do § 22 e insere o § 21-A no art. 40 da Constituição, altera o art. 11 da Emenda Constitucional nº 103, de 12 de novembro de 2019 e revoga os §§ 1º-A, 1º-B e 1º-C do art. 149 da Constituição e o § 8º do art. 9º da Emenda Constitucional nº 103, de 2019.”",
+        "dataApresentacao": "2026-05-21T14:15"
+    },
+    {
+        "id": 2626933,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626933",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 449/2025",
+        "dataApresentacao": "2026-05-21T14:32"
+    },
+    {
+        "id": 2626934,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626934",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 450/2025",
+        "dataApresentacao": "2026-05-21T14:32"
+    },
+    {
+        "id": 2626935,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626935",
+        "siglaTipo": "PDL",
+        "codTipo": 550,
+        "numero": 412,
+        "ano": 2026,
+        "ementa": "Susta os efeitos do Decreto nº 12.975, de 2026, que altera o Decreto nº 8.771, de 11 de maio de 2016, regulamentador da Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para tratar de hipóteses de discriminação de pacotes de dados na internet, degradação de tráfego, guarda de dados, requisição de informações pela Administração Pública e fiscalização de provedores.",
+        "dataApresentacao": "2026-05-21T14:17"
+    },
+    {
+        "id": 2626936,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626936",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 451/2025",
+        "dataApresentacao": "2026-05-21T14:32"
+    },
+    {
+        "id": 2626937,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626937",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 453/2025",
+        "dataApresentacao": "2026-05-21T14:32"
+    },
+    {
+        "id": 2626938,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626938",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3060,
+        "ano": 2026,
+        "ementa": "Requer a retirada de assinatura da Emenda nº 1/2026 da PEC 221/2019.",
+        "dataApresentacao": "2026-05-21T14:18"
+    },
+    {
+        "id": 2626939,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626939",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 454/2025",
+        "dataApresentacao": "2026-05-21T14:32"
+    },
+    {
+        "id": 2626940,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626940",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3061,
+        "ano": 2026,
+        "ementa": "Requer a retirada de assinatura da Emenda nº 2/2026 da PEC 221/2019.",
+        "dataApresentacao": "2026-05-21T14:18"
+    },
+    {
+        "id": 2626941,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626941",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCOM) à TVR 460/2025",
+        "dataApresentacao": "2026-05-21T14:32"
+    }
+]

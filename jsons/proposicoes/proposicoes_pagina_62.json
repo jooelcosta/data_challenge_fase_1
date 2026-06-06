@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 2628438,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628438",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Alex Manente (CIDADANIA-SP), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-27T14:29"
+    },
+    {
+        "id": 2628439,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628439",
+        "siglaTipo": "RPD",
+        "codTipo": 332,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Votação Nominal",
+        "dataApresentacao": "2026-05-27T16:34"
+    },
+    {
+        "id": 2628440,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628440",
+        "siglaTipo": "SIT",
+        "codTipo": 151,
+        "numero": 38,
+        "ano": 2026,
+        "ementa": "Requer o encaminhamento de solicitação de informações ao Egrégio Tribunal de Contas da União (TCU) acerca da fiscalização, do acompanhamento e da avaliação da execução do Programa Agora Tem Especialistas (PATE), destinado a reduzir o tempo de espera por consultas, exames e cirurgias no Sistema Único de Saúde (SUS), sob a gestão do Ministério da Saúde.",
+        "dataApresentacao": "2026-05-27T16:39"
+    },
+    {
+        "id": 2628441,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628441",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 61,
+        "ano": 2026,
+        "ementa": "Requer a realização de audiência pública, com caráter técnico e orientativo, destinada a apresentar os mecanismos de fomento e incentivo à cultura executados pelo Ministério da Cultura, com esclarecimentos sobre elaboração, submissão, aprovação, captação, execução e prestação de contas de projetos culturais.",
+        "dataApresentacao": "2026-05-27T16:42"
+    },
+    {
+        "id": 2628442,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628442",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 8,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Helder Salomão (PT-ES), pela admissibilidade da Proposta de Emenda à Constituição nº 505/2010 e das Propostas de Emenda à Constituição nºs 86/2011, 291/2013 e 371/2017, apensadas.",
+        "dataApresentacao": "2026-05-27T16:43"
+    },
+    {
+        "id": 2628443,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628443",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Silvia Cristina (PP-RO), pela aprovação do PL 2746/2024, do PL 6889/2025, e do PL 91/2026, apensados, com substitutivo.",
+        "dataApresentacao": "2026-05-27T16:00"
+    },
+    {
+        "id": 2628444,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628444",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2665,
+        "ano": 2026,
+        "ementa": "Extingue o Conselho Administrativo de Recursos Fiscais – CARF, Órgão Colegiado do Ministério da Fazenda e dispõe sobre a transferência de competências para a Justiça Federal e dá outras providências.",
+        "dataApresentacao": "2026-05-27T16:52"
+    },
+    {
+        "id": 2628445,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628445",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Institui a disciplina de Educação de Proteção Animal no currículo de todos os níveis de ensino das escolas públicas e particulares no território nacional, estabelecendo diretrizes para a inclusão de conteúdos sobre direitos dos animais, bem-estar animal, práticas de proteção, ética e responsabilidade no trato com animais, e conservação da biodiversidade.",
+        "dataApresentacao": "2026-05-27T16:00"
+    },
+    {
+        "id": 2628446,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628446",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Professor Alcides (PSDB-GO), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-05-27T16:02"
+    },
+    {
+        "id": 2628448,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628448",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Dispõe sobre a isenção do pagamento de taxa de inscrição no Exame Nacional do Ensino Médio (ENEM) e demais processos seletivos de acesso ao ensino superior para pessoas com Transtorno do Espectro Autista (TEA) e outras condições de neurodivergência.",
+        "dataApresentacao": "2026-05-27T16:02"
+    },
+    {
+        "id": 2628449,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628449",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-27T17:03"
+    },
+    {
+        "id": 2628450,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628450",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Padre João (PT-MG), pela aprovação do PL 514/24  e do PL 2382/24, apensado, com substitutivo.",
+        "dataApresentacao": "2026-05-26T17:39"
+    },
+    {
+        "id": 2628451,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628451",
+        "siglaTipo": "DOC",
+        "codTipo": 1035,
+        "numero": 634,
+        "ano": 2026,
+        "ementa": "Requer, nos termos do art. 15, incisos I e VIII, do Regimento Interno da Câmara dos Deputados, combinado com o Ato da Mesa nº 69, de 10 de novembro de 2005, a inclusão do Deputado Federal Guilherme Derrite como integrante da Frente Parlamentar do Incentivo ao Cooperativismo — Frencoop.",
+        "dataApresentacao": "2026-05-27T17:00"
+    },
+    {
+        "id": 2628452,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628452",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Dispõe sobre a suspensão por até 180 (cento e oitenta) dias, do cumprimento de obrigações financeiras referentes a débitos contraídos a título de empréstimo consignado junto a instituições financeiras por pessoas naturais residentes em municípios em que tenha sido declarado estado de calamidade pública ou situação de emergência.",
+        "dataApresentacao": "2026-05-26T17:39"
+    },
+    {
+        "id": 2628453,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628453",
+        "siglaTipo": "PRLP",
+        "codTipo": 891,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "Institui o Programa de Desenvolvimento da Indústria de Fertilizantes (Profert), altera as Leis nº 10.925, de 23 de julho de 2004, nº 9.430, de 27 de dezembro de 1996, e nº 12.431, de 24 de junho de 2011, e dá outras providências.",
+        "dataApresentacao": "2026-05-27T17:13"
+    },
+    {
+        "id": 2628454,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628454",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2666,
+        "ano": 2026,
+        "ementa": "Dispõe sobre o reconhecimento do direito ao adicional de insalubridade e de periculosidade aos médicos-veterinários e profissionais que atuam em atividades relacionadas à saúde animal, e dá outras providências.",
+        "dataApresentacao": "2026-05-27T17:17"
+    },
+    {
+        "id": 2628455,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628455",
+        "siglaTipo": "RPD",
+        "codTipo": 890,
+        "numero": 9,
+        "ano": 0,
+        "ementa": "Requerimento Procedimental Genérico - PLP 114/2026",
+        "dataApresentacao": "2026-05-27T17:22"
+    },
+    {
+        "id": 2628456,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628456",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2667,
+        "ano": 2026,
+        "ementa": "Autoriza o Conselho Federal de Medicina Veterinária a instituir o Programa Nacional de Apoio Assistencial e Valorização dos Profissionais de Medicina Veterinária e de Zootecnia, cria diretrizes para seu financiamento, governança, transparência e concessão de benefícios, e dá outras providências.",
+        "dataApresentacao": "2026-05-27T17:17"
+    },
+    {
+        "id": 2628457,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628457",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1516,
+        "ano": 2026,
+        "ementa": "Requer do Excelentíssimo Ministro da Justiça e Segurança Pública, informações a respeito do sigilo de 100 anos, sobre visitantes do Empresário Daniel Vorcaro na prisão.",
+        "dataApresentacao": "2026-05-27T17:18"
+    },
+    {
+        "id": 2628458,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628458",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 831,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministério da Saúde a adoção de medidas para fortalecimento da assistência às pessoas com Hipertensão Pulmonar no âmbito do Sistema Único de Saúde – SUS.",
+        "dataApresentacao": "2026-05-27T17:19"
+    },
+    {
+        "id": 2628459,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628459",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1517,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Excelentíssimo Ministro de Estado da Saúde sobre os investimentos federais e indicadores de atendimento na área da saúde da capital do Estado de Roraima, Boa Vista, abrangendo o período de 2021 a 2026.",
+        "dataApresentacao": "2026-05-27T17:19"
+    },
+    {
+        "id": 2628460,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628460",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1518,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Excelentíssimo Ministro de Estado da Saúde sobre os investimentos federais e indicadores de atendimento na área da saúde no município de Alto Alegre, Estado de Roraima, abrangendo o período de 2021 a 2026.",
+        "dataApresentacao": "2026-05-27T17:25"
+    },
+    {
+        "id": 2628461,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628461",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2668,
+        "ano": 2026,
+        "ementa": "Institui a Política Nacional de Tolerância Zero contra a Pichação e o Vandalismo Urbano, estabelece mecanismos de responsabilização administrativa e civil, cria o Cadastro Nacional de Reincidência em Atos de Depredação Urbana – CNRADU dispõe sobre reparação integral dos danos ao patrimônio público e privado, e dá outras providências.",
+        "dataApresentacao": "2026-05-27T17:27"
+    },
+    {
+        "id": 2628462,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628462",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1519,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Excelentíssimo Ministro de Estado da Saúde sobre os investimentos federais e indicadores de atendimento na área da saúde no município de Amajari, Estado de Roraima, abrangendo o período de 2021 a 2026.",
+        "dataApresentacao": "2026-05-27T17:28"
+    },
+    {
+        "id": 2628463,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628463",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 3801/2004 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T17:42"
+    },
+    {
+        "id": 2628464,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628464",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1520,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Excelentíssimo Ministro de Estado da Saúde sobre os investimentos federais e indicadores de atendimento na área da saúde no município de Bonfim, Estado de Roraima, abrangendo o período de 2021 a 2026.",
+        "dataApresentacao": "2026-05-27T17:40"
+    },
+    {
+        "id": 2628465,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628465",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (PEC22119) à PEC 221/2019",
+        "dataApresentacao": "2026-05-27T17:42"
+    },
+    {
+        "id": 2628466,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628466",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PEC 221/2019",
+        "dataApresentacao": "2026-05-27T17:42"
+    },
+    {
+        "id": 2628467,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628467",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2669,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional \"Espaço Laços\", estabelecendo diretrizes para o Centro de Atendimento Integral à Neurodiversidade e a criação do Parque Multissensorial Municipal, pautado na Reabilitação Ecológica e na Terapia Assistida por Animais (TAA) no âmbito do Sistema Único de Saúde (SUS).",
+        "dataApresentacao": "2026-05-27T17:42"
+    },
+    {
+        "id": 2628468,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628468",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1521,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Excelentíssimo Ministro de Estado da Saúde sobre os investimentos federais e indicadores de atendimento na área da saúde no município de Cantá, Estado de Roraima, abrangendo o período de 2021 a 2026.",
+        "dataApresentacao": "2026-05-27T17:43"
+    },
+    {
+        "id": 2628469,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628469",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2670,
+        "ano": 2026,
+        "ementa": "Dispõe sobre o combate ao tráfico internacional de animais silvestres e aos maus-tratos, estabelece normas sobre a apreensão de animais, o perdimento de bens e valores, a investigação patrimonial, a cooperação institucional e internacional, a destinação de recursos e a proteção da fauna em infraestrutura viária.",
+        "dataApresentacao": "2026-05-27T17:48"
+    },
+    {
+        "id": 2628470,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628470",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2671,
+        "ano": 2026,
+        "ementa": "Reconhece e regulamenta a profissão de Instrutor de Fanfarras e Bandas Marciais, estabelece suas atribuições, requisitos para exercício profissional e dá outras providências.",
+        "dataApresentacao": "2026-05-27T17:53"
+    },
+    {
+        "id": 2628471,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628471",
+        "siglaTipo": "PPR",
+        "codTipo": 451,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer Reformulado de Plenário, Dep. Júnior Ferrari (PSD-PA) pela: • Comissão de Indústria, Comércio e Serviços, que conclui pela aprovação do Projeto de Lei nº 699, de 2023, de seu apensado, PL nº 4.371, de 2024, e do Substitutivo da Comissão de Minas e Energia, na forma do Substitutivo adotado pelo relator da Comissão de Finanças e Tributação. • Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, que conclui pela aprovação do Projeto de Lei nº 699, de 2023, de seu apensado, PL nº 4.371, de 2024, e do Substitutivo da Comissão de Minas e Energia, na forma do Substitutivo adotado pelo relator da Comissão de Finanças e Tributação. • Comissão de Finanças e Tributação, que conclui pela compatibilidade e adequação financeira e orçamentária do Projeto de Lei nº 699, de 2023, de seu apensado, PL nº 4.371, de 2024, e do Substitutivo da Comissão de Minas e Energia, na forma do Substitutivo adotado; e, no mérito, pela aprovação do Projeto de Lei nº 699, de 2023, de seu apensado, PL nº 4.371, de 2024, e do Substitutivo da Comissão de Minas e Energia, na forma do Substitutivo adotado. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 699, de 2023, de seu apensado, PL nº 4.371, de 2024, e dos Substitutivos das Comissões de Minas e Energia e de Finanças e Tributação.",
+        "dataApresentacao": "2026-05-27T15:00"
+    },
+    {
+        "id": 2628472,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628472",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 38,
+        "ano": 2026,
+        "ementa": "Requer a realização de audiência pública, no âmbito da Comissão de Ciência, Tecnologia e Inovação, para debater a Rede Nacional de Física de Altas Energias (RENAFAE)",
+        "dataApresentacao": "2026-05-27T17:37"
+    },
+    {
+        "id": 2628474,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628474",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-27T18:00"
+    },
+    {
+        "id": 2628475,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628475",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1522,
+        "ano": 2026,
+        "ementa": "Requer ao Ministro de Estado da Fazenda informações detalhadas, estudos técnicos, notas explicativas, projeções macroeconômicas, relatórios de avaliação fiscal e documentos oficiais acerca da deterioração das contas públicas, do crescimento da dívida pública, do cumprimento das metas fiscais e dos riscos de desaceleração econômica e recessão.",
+        "dataApresentacao": "2026-05-27T17:59"
+    },
+    {
+        "id": 2628476,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628476",
+        "siglaTipo": "DTQ",
+        "codTipo": 846,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Destaque para Votação em Separado - PL 2951/2024",
+        "dataApresentacao": "2026-05-27T18:09"
+    },
+    {
+        "id": 2628477,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628477",
+        "siglaTipo": "RPD",
+        "codTipo": 1053,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Votação Nominal do Destaque para Votação em Separado - PL 2951/2024-Destaque para Votação em Separado - PL 2951/2024",
+        "dataApresentacao": "2026-05-27T18:09"
+    },
+    {
+        "id": 2628478,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628478",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2673,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 5.768, de 20 de dezembro de 1971, para modernizar o regime jurídico da distribuição gratuita de prêmios a título de propaganda, delimitar seu escopo de incidência, instituir hipóteses de dispensa de autorização prévia, disciplinar critérios de direcionamento ao mercado brasileiro e flexibilizar os mecanismos de apuração de sorteios e operações assemelhadas.",
+        "dataApresentacao": "2026-05-27T18:10"
+    },
+    {
+        "id": 2628479,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628479",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2674,
+        "ano": 2026,
+        "ementa": "Altera a Lei n. 13.675, de 11 de junho de 2018, para inserir expressamente as polícias penais federal, estaduais e distrital no rol de integrantes operacionais do Sistema Único de Segurança Pública (Susp).",
+        "dataApresentacao": "2026-05-27T18:12"
+    },
+    {
+        "id": 2628480,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628480",
+        "siglaTipo": "PEP",
+        "codTipo": 442,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer às Emendas de Plenário proferido pelo Relator, Dep. Júnior Ferrari (PSD-PA) pela: • Comissão de Minas e Energia, que conclui pela rejeição de todas as Emendas de Plenário. • Comissão de Indústria, Comércio e Serviços, que conclui pela rejeição de todas as Emendas de Plenário. • Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, que conclui pela rejeição de todas as Emendas de Plenário. • Comissão de Finanças e Tributação, que conclui pela adequação financeira e orçamentária da Emenda nº 1 de Plenário e pela não implicação financeira ou orçamentária das Emendas de nº 2 e 3 de Plenário, não cabendo pronunciamento, neste caso, quanto à adequação financeira ou orçamentária da matéria; e, no mérito, pela sua rejeição. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa de todas as Emendas de Plenário.",
+        "dataApresentacao": "2026-05-27T15:00"
+    },
+    {
+        "id": 2628481,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628481",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 199/2019 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:23"
+    },
+    {
+        "id": 2628482,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628482",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 1827/2019 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:25"
+    },
+    {
+        "id": 2628483,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628483",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Hildo Rocha (MDB-MA), pela aprovação do Projeto de Lei 4768/20, do PL 1390/2024, apensado, e da Emenda 1/2023 apresentada nesta comissão, com substitutivo.",
+        "dataApresentacao": "2026-05-27T16:34"
+    },
+    {
+        "id": 2628484,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628484",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 3391/2019 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:28"
+    },
+    {
+        "id": 2628485,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628485",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-27T18:29"
+    },
+    {
+        "id": 2628486,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628486",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 583/2021 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:30"
+    },
+    {
+        "id": 2628487,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628487",
+        "siglaTipo": "PPP",
+        "codTipo": 192,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Leitura realizada em Plenário pelo Dep. Arnaldo Jardim (CIDADANIA-SP) do parecer do Relator pela: • Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, que conclui pela aprovação do Projeto de Lei nº 2.951, de 2024, na forma do Substitutivo adotado. • Comissão de Finanças e Tributação, que conclui pela adequação orçamentária e financeira; e, no mérito, pela aprovação do Projeto de Lei nº 2.951, de 2024, na forma do Substitutivo adotado pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 2.951, de 2024, e do Substitutivo adotado pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural.",
+        "dataApresentacao": "2026-05-27T15:00"
+    },
+    {
+        "id": 2628488,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628488",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 4177/2021 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:31"
+    },
+    {
+        "id": 2628489,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628489",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 2071/2022 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:33"
+    },
+    {
+        "id": 2628490,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628490",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Altera a Lei nº 12.587, de 2012, para estabelecer diretrizes para a prestação do serviço de transporte remunerado privado individual de passageiros, e a Lei nº 8.989, de 1995, para instituir isenção do Imposto sobre Produtos Industrializados – IPI –, na aquisição de automóveis por motoristas que prestem esse serviço.",
+        "dataApresentacao": "2026-05-27T16:34"
+    },
+    {
+        "id": 2628492,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628492",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 292/2023 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:34"
+    },
+    {
+        "id": 2628493,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628493",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PDL 518/2023 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:35"
+    },
+    {
+        "id": 2628494,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628494",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 580/2023 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:37"
+    },
+    {
+        "id": 2628495,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628495",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 2898/2023 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:38"
+    },
+    {
+        "id": 2628496,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628496",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CE) ao PL 537/2026",
+        "dataApresentacao": "2026-05-27T18:38"
+    },
+    {
+        "id": 2628497,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628497",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 2981/2023 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:39"
+    },
+    {
+        "id": 2628498,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628498",
+        "siglaTipo": "REQ",
+        "codTipo": 354,
+        "numero": 3227,
+        "ano": 2026,
+        "ementa": "Requer Moção de Louvor e Regozijo ao GCM Maicon Vitorino da Silva pelos excelentes serviços prestados ao Município de Quatis.",
+        "dataApresentacao": "2026-05-27T18:35"
+    },
+    {
+        "id": 2628499,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628499",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 3138/2023 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:40"
+    },
+    {
+        "id": 2628500,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628500",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 4309/2023 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:41"
+    },
+    {
+        "id": 2628501,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628501",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PDL 426/2024 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:43"
+    },
+    {
+        "id": 2628502,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628502",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PDL 609/2024 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:44"
+    },
+    {
+        "id": 2628503,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628503",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 1108/2024 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:45"
+    },
+    {
+        "id": 2628504,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628504",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 1512/2024 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:46"
+    },
+    {
+        "id": 2628505,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628505",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CE) ao PL 1628/2021",
+        "dataApresentacao": "2026-05-27T18:46"
+    },
+    {
+        "id": 2628506,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628506",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 150,
+        "ano": 2026,
+        "ementa": "Requer o aditamento do Requerimento nº 146/2026 – CSAUDE para inclusão de representante da Sociedade Brasileira de Pediatria em Audiência Pública.",
+        "dataApresentacao": "2026-05-27T15:14"
+    },
+    {
+        "id": 2628507,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628507",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 1513/2024 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:49"
+    },
+    {
+        "id": 2628508,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628508",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 2180/2024 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:50"
+    },
+    {
+        "id": 2628509,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628509",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 402/2024",
+        "dataApresentacao": "2026-05-27T18:51"
+    },
+    {
+        "id": 2628510,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628510",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 3367/2024 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:51"
+    },
+    {
+        "id": 2628511,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628511",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 616/2024",
+        "dataApresentacao": "2026-05-27T18:52"
+    },
+    {
+        "id": 2628512,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628512",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 4929/2024 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:53"
+    },
+    {
+        "id": 2628513,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628513",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PDL 249/2025 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:54"
+    },
+    {
+        "id": 2628514,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628514",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PDL 259/2025 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:54"
+    },
+    {
+        "id": 2628515,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628515",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 617/2024",
+        "dataApresentacao": "2026-05-27T18:54"
+    },
+    {
+        "id": 2628516,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628516",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PDL 369/2025 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:55"
+    },
+    {
+        "id": 2628517,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628517",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 690/2024",
+        "dataApresentacao": "2026-05-27T18:55"
+    },
+    {
+        "id": 2628518,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628518",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PDL 371/2025 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:56"
+    },
+    {
+        "id": 2628519,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628519",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 158/2025",
+        "dataApresentacao": "2026-05-27T18:57"
+    },
+    {
+        "id": 2628520,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628520",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PDL 382/2025 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:57"
+    },
+    {
+        "id": 2628521,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628521",
+        "siglaTipo": "RPD",
+        "codTipo": 331,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "Requerimento de Encerramento da Discussão - Plenário - PEC 221/2019 Turno 1",
+        "dataApresentacao": "2026-05-27T16:03"
+    },
+    {
+        "id": 2628522,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628522",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PDL 395/2025 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T18:59"
+    },
+    {
+        "id": 2628523,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628523",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CCJC) ao PDL 186/2025",
+        "dataApresentacao": "2026-05-27T18:59"
+    },
+    {
+        "id": 2628525,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628525",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CE) ao PL 1519/2024",
+        "dataApresentacao": "2026-05-27T19:00"
+    },
+    {
+        "id": 2628526,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628526",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1523,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministério da Justiça e de Segurança Pública, por meio do Senhor Diretor-Geral da Polícia Rodoviária Federal, acerca de suposto monitoramento irregular de parlamentares e ex-parlamentares por estruturas de inteligência da PRF.",
+        "dataApresentacao": "2026-05-27T18:44"
+    },
+    {
+        "id": 2628527,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628527",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1524,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro da Defesa acerca de posicionamento institucional do Comando do Exército contrário ao reconhecimento de facções criminosas armadas, como PCC e Comando Vermelho, como organizações terroristas.",
+        "dataApresentacao": "2026-05-27T18:44"
+    },
+    {
+        "id": 2628528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628528",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 832,
+        "ano": 2026,
+        "ementa": "Sugere ao Poder Executivo Federal, por intermédio do Ministério das Cidades, a adoção de medidas destinadas ao fortalecimento das ações de saneamento básico e monitoramento ambiental no Estado da Bahia.",
+        "dataApresentacao": "2026-05-27T18:46"
+    },
+    {
+        "id": 2628529,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628529",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2676,
+        "ano": 2026,
+        "ementa": "\"Dispõe sobre a fiscalização da classificação do tabaco em folha curado no Brasil e institui penalidades por descumprimento da Instrução Normativa MAPA nº 10, de 13 de abril de 2007.\"",
+        "dataApresentacao": "2026-05-27T18:47"
+    },
+    {
+        "id": 2628530,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628530",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 833,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministério da Previdência Social a adoção de medidas para aperfeiçoamento, transparência, monitoramento e avaliação do programa PREVMóvel.",
+        "dataApresentacao": "2026-05-27T18:49"
+    },
+    {
+        "id": 2628531,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628531",
+        "siglaTipo": "RDF",
+        "codTipo": 197,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Redação Final, Dep. Pompeo de Mattos (PDT-RS), pela aprovação deste.",
+        "dataApresentacao": "2026-05-27T19:06"
+    },
+    {
+        "id": 2628532,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628532",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PDL 400/2025 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T19:07"
+    },
+    {
+        "id": 2628533,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628533",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PDL 471/2025 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T19:08"
+    },
+    {
+        "id": 2628534,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628534",
+        "siglaTipo": "DOC",
+        "codTipo": 1024,
+        "numero": 823,
+        "ano": 2026,
+        "ementa": "",
+        "dataApresentacao": "2026-05-27T18:57"
+    },
+    {
+        "id": 2628535,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628535",
+        "siglaTipo": "DOC",
+        "codTipo": 1024,
+        "numero": 824,
+        "ano": 2026,
+        "ementa": "",
+        "dataApresentacao": "2026-05-27T19:02"
+    },
+    {
+        "id": 2628536,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628536",
+        "siglaTipo": "REQ",
+        "codTipo": 354,
+        "numero": 3228,
+        "ano": 2026,
+        "ementa": "Requer Moção de Louvor e Regozijo a GCM Andréia Pereira Barbosa pelos excelentes serviços prestados ao Município de Quatis.",
+        "dataApresentacao": "2026-05-27T19:08"
+    },
+    {
+        "id": 2628537,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628537",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PDL 491/2025 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T19:09"
+    },
+    {
+        "id": 2628538,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628538",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PL 539/2025 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T19:11"
+    },
+    {
+        "id": 2628539,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628539",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PDL 607/2025 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T19:14"
+    },
+    {
+        "id": 2628540,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628540",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PDL 609/2025 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T19:16"
+    },
+    {
+        "id": 2628541,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628541",
+        "siglaTipo": "PARF",
+        "codTipo": 669,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "PARF PDL 622/2025 Parecer da Comissão (CCJC)",
+        "dataApresentacao": "2026-05-27T19:17"
+    }
+]

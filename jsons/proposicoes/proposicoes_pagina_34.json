@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 2621008,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621008",
+        "siglaTipo": "REQ",
+        "codTipo": 1017,
+        "numero": 71,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministério da Agricultura e Pecuária acerca da implementação, critérios técnicos, execução orçamentária e impactos da segunda fase do Zoneamento Agrícola de Risco Climático – Níveis de Manejo (ZarcNM), instituída pela Resolução nº 111 do Comitê Gestor Interministerial do Seguro Rural (CGSR).",
+        "dataApresentacao": "2026-05-05T09:58"
+    },
+    {
+        "id": 2621019,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621019",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 685,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas, no âmbito do Ministério da Educação, para viabilizar política nacional de apoio ao transporte de estudantes do ensino superior residentes em municípios limítrofes que necessitam de deslocamento diário para instituições localizadas em unidade da Federação diversa.",
+        "dataApresentacao": "2026-05-05T11:14"
+    },
+    {
+        "id": 2621020,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621020",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 686,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Estado da Justiça e Segurança Pública a inclusão dos Princípios de Méndez e das diretrizes do Caso Fernández Prieto e Tumbeiro (Corte Interamericana de Direitos Humanos) como componentes curriculares na formação de profissionais de segurança pública.",
+        "dataApresentacao": "2026-05-05T11:23"
+    },
+    {
+        "id": 2621060,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621060",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1191,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministério da Saúde informações sobre a execução da Política Nacional de Saúde Bucal — Brasil Sorridente, especialmente quanto aos recursos, ações, protocolos, indicadores e serviços destinados ao atendimento odontológico de pessoas com Transtorno do Espectro Autista — TEA e demais pessoas com deficiência.",
+        "dataApresentacao": "2026-05-05T11:38"
+    },
+    {
+        "id": 2621073,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621073",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 687,
+        "ano": 2026,
+        "ementa": "Sugere ao Excelentíssimo Ministro do Tribunal de Contas da União - TCU, Senhor Odair Cunha, a destinação mais adequadas dos recursos de origem pública e compulsória, ainda que geridos por entidades de natureza privada ao Sistema S.",
+        "dataApresentacao": "2026-05-05T12:13"
+    },
+    {
+        "id": 2621091,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621091",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 688,
+        "ano": 2026,
+        "ementa": "Sugere ao Excelentíssimo Ministro da Controladoria Geral da União - CGU, Senhor Vinícius Marques de Carvalho, a destinação mais adequadas dos recursos de origem pública e compulsória, ainda que geridos por entidades de natureza privada ao Sistema S.",
+        "dataApresentacao": "2026-05-05T12:34"
+    },
+    {
+        "id": 2621095,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621095",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 41,
+        "ano": 2026,
+        "ementa": "Requer aditamento ao Requerimento nº 37/2026 - CTRAB, destinado a debater os impactos dos jogos e apostas eletrônicas (as Bets), sobre a renda e a saúde mental dos trabalhadores e de suas famílias.",
+        "dataApresentacao": "2026-05-05T12:31"
+    },
+    {
+        "id": 2621123,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621123",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1192,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Senhor Ministro da Advocacia-Geral da União acerca da celebração de acordos, no âmbito da AGU, que possam ter implicado renúncia de receitas, reconfiguração de passivos e eventual transferência indireta de ativos estratégicos da União, com destaque para o setor de telecomunicações.",
+        "dataApresentacao": "2026-05-05T13:26"
+    },
+    {
+        "id": 2621285,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621285",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 31,
+        "ano": 2026,
+        "ementa": "Requer a realização de Audiência Pública para debater a instituição do Dia Nacional do Gestor Público e do Dia Nacional do Campo de Públicas.",
+        "dataApresentacao": "2026-05-05T14:02"
+    },
+    {
+        "id": 2621287,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621287",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1193,
+        "ano": 2026,
+        "ementa": "Solicita ao Exmo. Sr. Ministro de Estado da Educação, Leonardo Osvaldo Barchini Rosa, informações sobre os resultados do Programa Escola em Tempo Integral, a partir do ano de 2025, em que houve mudança estrutural de financiamento por meio da vinculação constitucional de recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb) à criação de matrículas em tempo integral.",
+        "dataApresentacao": "2026-05-05T14:28"
+    },
+    {
+        "id": 2621288,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621288",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1194,
+        "ano": 2026,
+        "ementa": "Solicita ao Exmo. Sr. Ministro de Estado da Educação, Leonardo Osvaldo Barchini Rosa, informações sobre o resultado dos trabalhos do Grupo Interinstitucional e o atual estágio desenvolvimento das ações de implementação da Política Nacional de Educação Profissional e Tecnológica, prevista na Lei nº 14.645, de 2 de agosto de 2023 e no Decreto nº 12.603, de 28 de agosto de 2025.",
+        "dataApresentacao": "2026-05-05T14:28"
+    },
+    {
+        "id": 2621302,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621302",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1195,
+        "ano": 2026,
+        "ementa": "Solicita ao Ministro de Estado de Minas e Energia, informações sobre o Memorando de Entendimento celebrado entre o Estado de Goiás e o Departamento de Estado dos Estados Unidos da América e sobre a operação de aquisição da Serra Verde Pesquisa e Mineração pela USA Rare Earth, Inc.",
+        "dataApresentacao": "2026-05-05T14:52"
+    },
+    {
+        "id": 2621398,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621398",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1196,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Senhor Ministro de Estado de Minas e Energia sobre as recentes alterações no Regimento Interno da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), especificamente quanto à suspensão de transmissões ao vivo e centralização de competências administrativas.",
+        "dataApresentacao": "2026-05-05T15:53"
+    },
+    {
+        "id": 2621421,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621421",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 275,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza o Instituto Guaramiranga a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Guaramiranga, Estado do Ceará.",
+        "dataApresentacao": "2026-05-05T16:00"
+    },
+    {
+        "id": 2621422,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621422",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 276,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação de Comunicação Comunitária dos Moradores de São Roberto-MA a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de São Roberto, Estado do Maranhão.",
+        "dataApresentacao": "2026-05-05T16:00"
+    },
+    {
+        "id": 2621423,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621423",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 277,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação Cultural Macaparana FM para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Macaparana, Estado de Pernambuco.",
+        "dataApresentacao": "2026-05-05T16:00"
+    },
+    {
+        "id": 2621424,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621424",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 278,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação de Desenvolvimento Cultural e Social de Belém do Piauí a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Belém do Piauí, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:00"
+    },
+    {
+        "id": 2621425,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621425",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 279,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a concessão outorgada à Rádio Curimã Ltda. para explorar serviço de radiodifusão de sons e imagens em tecnologia digital, no Município de Imperatriz, Estado do Maranhão.",
+        "dataApresentacao": "2026-05-05T16:00"
+    },
+    {
+        "id": 2621426,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621426",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 280,
+        "ano": 2026,
+        "ementa": "Aprova o ato que outorga permissão à A2 Comunicações Ltda. para explorar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão sonora em frequência modulada no Município de Aurora do Pará, Estado do Pará.",
+        "dataApresentacao": "2026-05-05T16:00"
+    },
+    {
+        "id": 2621427,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621427",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 281,
+        "ano": 2026,
+        "ementa": "Aprova o ato que outorga permissão à A2 Comunicações Ltda. para explorar serviço de radiodifusão sonora em frequência modulada no Município de Água Azul do Norte, Estado do Pará.",
+        "dataApresentacao": "2026-05-05T16:00"
+    },
+    {
+        "id": 2621428,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621428",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 282,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Atlântico Sul Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Fortaleza, Estado do Ceará.",
+        "dataApresentacao": "2026-05-05T16:01"
+    },
+    {
+        "id": 2621429,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621429",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 283,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Comunitária de Radiodifusão e Cultural de Santo Antônio de Jesus a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Santo Antônio de Jesus, Estado da Bahia.",
+        "dataApresentacao": "2026-05-05T16:01"
+    },
+    {
+        "id": 2621430,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621430",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 284,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação de Radiodifusão de Nossa Senhora de Nazaré a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Nossa Senhora de Nazaré, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:01"
+    },
+    {
+        "id": 2621431,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621431",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 285,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação de Radiodifusão de Boqueirão do Piauí – PI a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Boqueirão do Piauí, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:01"
+    },
+    {
+        "id": 2621432,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621432",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 286,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Comunitária de Radiodifusão e Cultura de Oeiras - Rádio Cidade FM a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Oeiras, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:01"
+    },
+    {
+        "id": 2621433,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621433",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 287,
+        "ano": 2026,
+        "ementa": "Aprova o ato que outorga permissão à Fundação Glória para executar serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município de Iconha, Estado do Espírito Santo.",
+        "dataApresentacao": "2026-05-05T16:01"
+    },
+    {
+        "id": 2621434,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621434",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 288,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação de Radiodifusão Comunitária de Camutanga a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Camutanga, Estado de Pernambuco.",
+        "dataApresentacao": "2026-05-05T16:01"
+    },
+    {
+        "id": 2621435,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621435",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 289,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação das Mulheres de Nazaré da Mata para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Nazaré da Mata, Estado de Pernambuco.",
+        "dataApresentacao": "2026-05-05T16:01"
+    },
+    {
+        "id": 2621436,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621436",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 290,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação Comunitária do Periperi e Adjacências para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Caetité, Estado da Bahia.",
+        "dataApresentacao": "2026-05-05T16:01"
+    },
+    {
+        "id": 2621437,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621437",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 291,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Cultural Cidade Luz a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Marcolândia, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:01"
+    },
+    {
+        "id": 2621438,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621438",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 292,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Comunitária de Comunicação e Cultura Vozes da Resistência a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Mombaça, Estado do Ceará.",
+        "dataApresentacao": "2026-05-05T16:02"
+    },
+    {
+        "id": 2621439,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621439",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 293,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação da Rádio Comunitária Batateira a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Belém de Maria, Estado de Pernambuco.",
+        "dataApresentacao": "2026-05-05T16:02"
+    },
+    {
+        "id": 2621440,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621440",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 294,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação de Desenvolvimento Comunitário de Cabeceiras para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Cabeceiras do Piauí, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:02"
+    },
+    {
+        "id": 2621441,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621441",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 295,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza o Instituto Rodeador a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Santo Antônio de Lisboa, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:02"
+    },
+    {
+        "id": 2621442,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621442",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 296,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Rádio Comunitária Lima FM a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Várzea Branca, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:02"
+    },
+    {
+        "id": 2621443,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621443",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 297,
+        "ano": 2026,
+        "ementa": "Aprova o ato que outorga permissão à Empresa de Comunicação Encontro dos Rios Ltda. para explorar serviço de radiodifusão sonora em frequência modulada, no Município de Eirunepé, Estado do Amazonas.",
+        "dataApresentacao": "2026-05-05T16:02"
+    },
+    {
+        "id": 2621444,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621444",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 298,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza o Instituto Juá a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Paes Landim, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:02"
+    },
+    {
+        "id": 2621445,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621445",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 299,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Antônia Dora a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Sigefredo Pacheco, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:02"
+    },
+    {
+        "id": 2621446,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621446",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 300,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Educativa de Acauã - PI a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Acauã, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:02"
+    },
+    {
+        "id": 2621447,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621447",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 301,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação Cultural Comunitária da Paz para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de São Paulo, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-05T16:02"
+    },
+    {
+        "id": 2621448,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621448",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 302,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a outorga à Rádio Cultura Araraquara Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Araraquara, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621449,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621449",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 303,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a outorga à Rádio Marcelino Ramos Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Marcelino Ramos, Estado do Rio Grande do Sul.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621450,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621450",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 304,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Rede CBJA de Radiodifusão Ltda., atualmente denominada de Rádio Musical de São Paulo Ltda., para executar serviço de radiodifusão sonora em frequência modulada no Município de Itapecerica da Serra, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621451,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621451",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 305,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Clube de Botucatu Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Botucatu, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621452,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621452",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 306,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a outorga à Rádio Clube de Itaúna S.A., atualmente Rádio Clube de Itaúna Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Itaúna, Estado de Minas Gerais.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621453,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621453",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 307,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Comunitária Pró-Cultura e Comunicação de Primavera a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Rosana, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621454,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621454",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 308,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Cultural e Social de Paulistana - ASCOP a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Paulistana, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621455,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621455",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 309,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação de Desenvolvimento Comunitário de Guaraciaba do Norte a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Guaraciaba do Norte, Estado do Ceará.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621456,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621456",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 310,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a outorga à Rádio Clube São Domingos Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de São Domingos, Estado de Santa Catarina.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621457,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621457",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 311,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a ADAF – Associação Desportiva Avenida de Futebol a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Morro do Chapéu do Piauí, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621458,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621458",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 312,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação de Rádio Comunitária de São Francisco de Assis do Piauí - PI para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de São Francisco de Assis do Piauí, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621460,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621460",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 313,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza o Conselho Nacional de Defesa do Cidadão a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Cotia, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621463,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621463",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 314,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Jovem Pira Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Piracaia, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621464,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621464",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 315,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Rádio A Voz do Vale Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Fartura, Estado de São Paulo",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621468,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621468",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 316,
+        "ano": 2026,
+        "ementa": "Aprova o ato que outorga concessão à Rádio FM Serrote Ltda. para explorar serviço de radiodifusão sonora em onda média, no Município de Viçosa do Ceará, Estado do Ceará.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621469,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621469",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 317,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação de Comunicação e Cultura de Atalaia Paraná a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Atalaia, Estado do Paraná.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621470,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621470",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 318,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação e Movimento Comunitário Cultural Beneficiente Studio para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Peruíbe, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621472,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621472",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 319,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Rondovisão Rondônia Rádio e Televisão Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Ji-Paraná, Estado de Rondônia.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621473,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621473",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 320,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a outorga à Rádio Modelo Ltda. para explorar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Modelo, Estado de Santa Catarina.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621474,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621474",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 321,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Cidade FM de Lauro Muller Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Lauro Muller, Estado de Santa Catarina.",
+        "dataApresentacao": "2026-05-05T16:03"
+    },
+    {
+        "id": 2621475,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621475",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 322,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação Comunitária Esperança de Iguatemi para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Iguatemi, Estado do Mato Grosso do Sul.",
+        "dataApresentacao": "2026-05-05T16:04"
+    },
+    {
+        "id": 2621476,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621476",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 323,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação Cultural Rafardense - ACR para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Rafard, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-05T16:04"
+    },
+    {
+        "id": 2621477,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621477",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 324,
+        "ano": 2026,
+        "ementa": "Aprova o ato que outorga permissão à Fundação Glória para executar serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município de Santa Teresa, Estado do Espírito Santo.",
+        "dataApresentacao": "2026-05-05T16:04"
+    },
+    {
+        "id": 2621478,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621478",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 325,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Fundação Cristiano Varella para executar serviço de radiodifusão sonora em frequência modulada no Município de Muriaé, Estado de Minas Gerais.",
+        "dataApresentacao": "2026-05-05T16:04"
+    },
+    {
+        "id": 2621479,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621479",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 326,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a outorga à Fundação Cristiano Varella para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Muriaé, Estado de Minas Gerais.",
+        "dataApresentacao": "2026-05-05T16:04"
+    },
+    {
+        "id": 2621481,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621481",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 327,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a outorga à Empresa Rádio Difusora Cidade Jardim Ltda., posteriormente transferida à Rede Fronteira de Comunicação Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Blumenau, Estado de Santa Catarina.",
+        "dataApresentacao": "2026-05-05T16:04"
+    },
+    {
+        "id": 2621482,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621482",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 328,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza o Instituto Olho D'Água dos Milagres a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Santa Cruz dos Milagres, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:04"
+    },
+    {
+        "id": 2621483,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621483",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 329,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Comunitária de Desenvolvimento do Bairro Malvinas a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Barbalha, Estado do Ceará.",
+        "dataApresentacao": "2026-05-05T16:04"
+    },
+    {
+        "id": 2621485,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621485",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 330,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a concessão outorgada à Fundação João Paulo II para executar, pelo prazo de quinze anos, sem direito de exclusividade, serviço de radiodifusão de sons e imagens com fins exclusivamente educativos no Município de Cachoeira Paulista, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-05T16:04"
+    },
+    {
+        "id": 2621486,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621486",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 331,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação Comunitária de Madalena para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Madalena, Estado do Ceará.",
+        "dataApresentacao": "2026-05-05T16:06"
+    },
+    {
+        "id": 2621487,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621487",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 332,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação de Radiodifusão e Comunicação Comunitária Águas de Lindóia para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Águas de Lindóia, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-05T16:04"
+    },
+    {
+        "id": 2621488,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621488",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 333,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação de Desenvolvimento e Comunicação Comunitária de Campo Alegre do Fidalgo-PI a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Campo Alegre do Fidalgo, Estado do Piauí.",
+        "dataApresentacao": "2026-05-05T16:05"
+    },
+    {
+        "id": 2621490,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621490",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 334,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada ao Sistema Meridional de Radiodifusão Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Sorocaba, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-05T16:06"
+    },
+    {
+        "id": 2621492,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621492",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 335,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada ao Sistema de Radiodifusão Veredas de Unaí Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Unaí, Estado de Minas Gerais.",
+        "dataApresentacao": "2026-05-05T16:05"
+    },
+    {
+        "id": 2621496,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621496",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 336,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Capital de Fortaleza Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Aquiraz, Estado do Ceará.",
+        "dataApresentacao": "2026-05-05T16:05"
+    },
+    {
+        "id": 2621499,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621499",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 337,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Instituto Tribuna a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Campestre do Maranhão, Estado do Maranhão.",
+        "dataApresentacao": "2026-05-05T16:05"
+    },
+    {
+        "id": 2621500,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621500",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 338,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Cultural Comunitária Cruzaltense-RS a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Cruzaltense, Estado do Rio Grande do Sul.",
+        "dataApresentacao": "2026-05-05T16:05"
+    },
+    {
+        "id": 2621503,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621503",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 339,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Cultural de Jenipapo de Minas a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Jenipapo de Minas, Estado de Minas Gerais.",
+        "dataApresentacao": "2026-05-05T16:05"
+    },
+    {
+        "id": 2621504,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621504",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 340,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Cultural e Comunitária Norte Ponte Altense a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Ponte Alta do Norte, Estado de Santa Catarina.",
+        "dataApresentacao": "2026-05-05T16:05"
+    },
+    {
+        "id": 2621505,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621505",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 341,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Fundação Cultural Aurora do Povo - FUNCAP para executar serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município de Aurora, Estado do Ceará.",
+        "dataApresentacao": "2026-05-05T16:05"
+    },
+    {
+        "id": 2621506,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621506",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 342,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação Comunitária de Comunicação de Matões do Norte para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Matões do Norte, Estado do Maranhão.",
+        "dataApresentacao": "2026-05-05T16:05"
+    },
+    {
+        "id": 2621507,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621507",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 343,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação de Radiodifusão Comunitária de Godofredo Viana para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Godofredo Viana, Estado do Maranhão.",
+        "dataApresentacao": "2026-05-05T16:05"
+    },
+    {
+        "id": 2621508,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621508",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 344,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Comunitária Educacional e Cultural de Radiodifusão de Franca a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Franca, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-05T16:06"
+    },
+    {
+        "id": 2621510,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621510",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 345,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Rádio Cultural a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Concórdia, Estado de Santa Catarina.",
+        "dataApresentacao": "2026-05-05T16:06"
+    },
+    {
+        "id": 2621511,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621511",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 346,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Movimento de Atividade Recreativa e Cultural de Cachoeirinha a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Cachoeirinha, Estado do Rio Grande do Sul.",
+        "dataApresentacao": "2026-05-05T16:06"
+    },
+    {
+        "id": 2621512,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621512",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 347,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Matoqueimadense de Radiodifusão - AMARD a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Mato Queimado, Estado do Rio Grande do Sul.",
+        "dataApresentacao": "2026-05-05T16:06"
+    },
+    {
+        "id": 2621514,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621514",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 348,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação de Comunicação Popular de Apoio às Comunidades de Canindé a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Canindé, Estado do Ceará.",
+        "dataApresentacao": "2026-05-05T16:06"
+    },
+    {
+        "id": 2621518,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621518",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 349,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Fundação Canal 20 para executar serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município de Cascavel, Estado do Paraná.",
+        "dataApresentacao": "2026-05-05T16:06"
+    },
+    {
+        "id": 2621520,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621520",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 350,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação Comunitária Rádio Unisul FM para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de União do Sul, Estado do Mato Grosso.",
+        "dataApresentacao": "2026-05-05T16:06"
+    },
+    {
+        "id": 2621523,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621523",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 351,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Cacique de Araguari Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Araguari, Estado de Minas Gerais.",
+        "dataApresentacao": "2026-05-05T16:06"
+    },
+    {
+        "id": 2621597,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621597",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1197,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Senhor Ministro de Estado da Saúde, acerca de indícios de falhas administrativas, atraso na aquisição e desperdício de imunizantes contra a Covid-19, com potencial prejuízo de até R$ 330 milhões aos cofres públicos, conforme apontamentos do Tribunal de Contas da União (TCU).",
+        "dataApresentacao": "2026-05-05T17:48"
+    },
+    {
+        "id": 2621598,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621598",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1198,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Senhor Ministro de Estado de Minas e Energia, acerca de estudos técnicos, avaliação de impacto regulatório e medidas de proteção ao consumidor relacionadas à proposta de elevação do percentual de etanol anidro na gasolina para até 32%.",
+        "dataApresentacao": "2026-05-05T17:48"
+    },
+    {
+        "id": 2621614,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621614",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1199,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado da Fazenda, Sr. Dario Durigan sobre a atuação da Secretaria Especial da Receita Federal do Brasil, acerca da aplicação da Lei Complementar nº 224/2025 sobre a isenção de IPI na aquisição de veículos automotores 0km por pessoas com deficiência, nos termos da Lei Federal nº 8.989/1995.",
+        "dataApresentacao": "2026-05-05T17:57"
+    },
+    {
+        "id": 2621662,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621662",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 689,
+        "ano": 2026,
+        "ementa": "Sugere ao Poder Executivo, por intermédio do Ministério da Gestão e da Inovação em Serviços Públicos (MGI), a adoção de providências administrativas destinadas à inclusão de 33 (trinta e três) candidatos (as) excedentes do concurso do Ministério das Relações Exteriores (MRE) de 2023, no próximo decreto presidencial que autoriza nomeações no âmbito da Administração Pública Federal.",
+        "dataApresentacao": "2026-05-05T19:34"
+    },
+    {
+        "id": 2621680,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621680",
+        "siglaTipo": "PDL",
+        "codTipo": 554,
+        "numero": 353,
+        "ano": 2026,
+        "ementa": "Aprova o texto do Acordo de Cooperação entre a República Federativa do Brasil e a República Portuguesa no Domínio da Investigação e Combate à Criminalidade Organizada Transnacional e ao Terrorismo, assinado em Brasília, em 19 de fevereiro de 2025.",
+        "dataApresentacao": "2026-05-05T19:54"
+    },
+    {
+        "id": 2621685,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621685",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1200,
+        "ano": 2026,
+        "ementa": "Requer informações sobre a atuação de delegados da Polícia Federal brasileira em território dos Estados Unidos. Questiona a colaboração com autoridades estrangeiras em investigações envolvendo cidadãos brasileiros.",
+        "dataApresentacao": "2026-05-05T20:07"
+    },
+    {
+        "id": 2621686,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621686",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1201,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado da Defesa acerca de indícios de desperdício de recursos públicos no âmbito da Força Aérea Brasileira. Apura a realização de voos oficiais com baixa ocupação, incluindo registros de viagens com apenas um passageiro.",
+        "dataApresentacao": "2026-05-05T20:07"
+    },
+    {
+        "id": 2621689,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621689",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1202,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministério da Justiça e Segurança Pública acerca das medidas adotadas pelo governo federal diante da possível classificação de facções criminosas brasileiras como organizações terroristas estrangeiras, bem como sobre a adequação da política nacional de enfrentamento ao crime organizado.",
+        "dataApresentacao": "2026-05-05T20:07"
+    },
+    {
+        "id": 2621690,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621690",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 690,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de providências para atualização da Classificação Brasileira de Ocupações (CBO), em adequação à Lei nº 14.967, de 9 de setembro de 2024.",
+        "dataApresentacao": "2026-05-05T20:07"
+    },
+    {
+        "id": 2621691,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2621691",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 691,
+        "ano": 2026,
+        "ementa": "Sugere à Procuradoria-Geral da República a adoção de providências para avaliar o eventual enquadramento de condutas praticadas por organizações criminosas, especialmente o Comando Vermelho e o Primeiro Comando da Capital, nas hipóteses previstas na Lei nº 13.260/2016, bem como a promover a intensificação da cooperação internacional voltada à repressão de suas estruturas financeiras e operacionais.",
+        "dataApresentacao": "2026-05-05T20:07"
+    }
+]

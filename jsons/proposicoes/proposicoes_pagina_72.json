@@ -1,0 +1,752 @@
+[
+    {
+        "id": 2629490,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629490",
+        "siglaTipo": "REQ",
+        "codTipo": 304,
+        "numero": 3241,
+        "ano": 2026,
+        "ementa": "Requer a apensação do Projeto de Lei nº 4.259, de 2021, ao Projeto de Lei nº 1.257, de 2003.",
+        "dataApresentacao": "2026-06-01T16:38"
+    },
+    {
+        "id": 2629491,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629491",
+        "siglaTipo": "REQ",
+        "codTipo": 308,
+        "numero": 3242,
+        "ano": 2026,
+        "ementa": "“Requer o novo despacho do Projeto de Lei nº  2.386/2023, para incluir a Comissão de Trabalho no rol de comissões incumbidas de apreciar o mérito da proposição.”",
+        "dataApresentacao": "2026-06-01T16:42"
+    },
+    {
+        "id": 2629492,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629492",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Acrescenta parágrafo ao art. 15-D da Lei nº 10.260, de 2001, que dispõe sobre o Fundo de Financiamento Estudantil, para autorizar a abertura de linha de financiamento para estudantes em cursos de Medicina em instituições de educação superior do exterior, acreditadas junto ao Arcu-Sul.",
+        "dataApresentacao": "2026-05-28T16:02"
+    },
+    {
+        "id": 2629493,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629493",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Acrescenta parágrafo ao art. 15-D da Lei nº 10.260, de 2001, que dispõe sobre o Fundo de Financiamento Estudantil, para autorizar a abertura de linha de financiamento para estudantes em cursos de Medicina em instituições de educação superior do exterior, acreditadas junto ao Arcu-Sul.",
+        "dataApresentacao": "2026-05-28T16:02"
+    },
+    {
+        "id": 2629494,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629494",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2765,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 12.288, de 20 de julho de 2010, para promover a inclusão digital e a inclusão produtiva das comunidades quilombolas.",
+        "dataApresentacao": "2026-06-01T16:44"
+    },
+    {
+        "id": 2629495,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629495",
+        "siglaTipo": "RDF",
+        "codTipo": 197,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Redação Final ao PEC 5/2023",
+        "dataApresentacao": "2026-05-28T00:00"
+    },
+    {
+        "id": 2629496,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629496",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 870,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Barcarena, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:02"
+    },
+    {
+        "id": 2629497,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629497",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 871,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Belém, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:03"
+    },
+    {
+        "id": 2629498,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629498",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2766,
+        "ano": 2026,
+        "ementa": "Altera a Lei Geral do Esporte, e o Código de Processo Civil, para instituir mecanismo de restrição de acesso e permanência em arenas esportivas os devedores de obrigação alimentar, mediante integração aos sistemas de controle biométrico de acesso, e disciplinar medida executiva coercitiva destinada ao cumprimento da obrigação alimentar.",
+        "dataApresentacao": "2026-06-01T17:04"
+    },
+    {
+        "id": 2629499,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629499",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 41,
+        "ano": 2026,
+        "ementa": "Requer a inclusão de convidada em audiência pública para discutir o tema “Educação domiciliar: liberdade e segurança jurídica”, objeto do REQ 37/2026.",
+        "dataApresentacao": "2026-06-01T17:04"
+    },
+    {
+        "id": 2629500,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629500",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2767,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para ampliar a proteção penal conferida aos animais e instituir causa de aumento de pena para crimes de maus-tratos praticados com finalidade econômica ou para produção e divulgação de conteúdo audiovisual.",
+        "dataApresentacao": "2026-06-01T17:14"
+    },
+    {
+        "id": 2629501,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629501",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 42,
+        "ano": 2026,
+        "ementa": "Requer o aditamento ao Requerimento nº 37, de 2026, da Comissão de Educação, de autoria do Deputado Nikolas Ferreira, para inclusão de convidados na audiência pública destinada a debater educação domiciliar, liberdade educacional e segurança jurídica para crianças e suas famílias.",
+        "dataApresentacao": "2026-06-01T17:22"
+    },
+    {
+        "id": 2629502,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629502",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2768,
+        "ano": 2026,
+        "ementa": "Reconhece como manifestação da cultura nacional a Festa de Corpus Christi de Curitiba, realizada no Município de Curitiba, no Estado do Paraná.",
+        "dataApresentacao": "2026-06-01T17:33"
+    },
+    {
+        "id": 2629503,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629503",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 872,
+        "ano": 2026,
+        "ementa": "Sugere ao Excelentíssimo Senhor Presidente da República e à Casa Civil da Presidência da República a instalação imediata de Sala Interministerial de Coordenação e Ação Antecipatória para o ciclo climático 2026- 027, com foco na prevenção, preparação e resposta a riscos associados ao provável estabelecimento do fenômeno El Niño e à intensificação de eventos climáticos extremos no território nacional.",
+        "dataApresentacao": "2026-06-01T17:33"
+    },
+    {
+        "id": 2629504,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629504",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2769,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional de Busca Ativa para Exames, Consultas e Procedimentos Não Realizados no âmbito do Sistema Único de Saúde (SUS) e dá outras providências.",
+        "dataApresentacao": "2026-06-01T17:34"
+    },
+    {
+        "id": 2629505,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629505",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2770,
+        "ano": 2026,
+        "ementa": "Reconhece o Santuário São Miguel Arcanjo, localizado no Município de Bandeirantes, Estado do Paraná, como de relevante interesse cultural, turístico e religioso nacional, e reconhece as romarias, peregrinações, celebrações e práticas devocionais associadas como manifestação da cultura nacional.",
+        "dataApresentacao": "2026-06-01T17:35"
+    },
+    {
+        "id": 2629506,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629506",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2771,
+        "ano": 2026,
+        "ementa": "Institui a Política Nacional de Desenvolvimento Humano e Capacitação Institucional de Municípios Vulneráveis e dá outras providências.",
+        "dataApresentacao": "2026-06-01T17:35"
+    },
+    {
+        "id": 2629507,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629507",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 873,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Belterra, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:38"
+    },
+    {
+        "id": 2629508,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629508",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 874,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Benevides, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:39"
+    },
+    {
+        "id": 2629509,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629509",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 875,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Bom Jesus do Tocantins, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:40"
+    },
+    {
+        "id": 2629510,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629510",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2772,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional de Interiorização da Reabilitação Especializada e dá outras providências.",
+        "dataApresentacao": "2026-06-01T17:40"
+    },
+    {
+        "id": 2629511,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629511",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 3243,
+        "ano": 2026,
+        "ementa": "Requer Moção de Congratulação à Queijos Pomerode",
+        "dataApresentacao": "2026-06-01T17:41"
+    },
+    {
+        "id": 2629512,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629512",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 876,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Bonito, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:41"
+    },
+    {
+        "id": 2629513,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629513",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 877,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Bragança, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:42"
+    },
+    {
+        "id": 2629514,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629514",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 878,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Brasil Novo, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:43"
+    },
+    {
+        "id": 2629515,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629515",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 879,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Brejo Grande do Araguaia, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:44"
+    },
+    {
+        "id": 2629516,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629516",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 880,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Breu Branco, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:45"
+    },
+    {
+        "id": 2629517,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629517",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 881,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Breves, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:46"
+    },
+    {
+        "id": 2629518,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629518",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 3244,
+        "ano": 2026,
+        "ementa": "Requer a aprovação de Moção de Aplauso à empresa Queijos Possamai, de Pouso Redondo, Santa Catarina, pela eleição do Queijo Reserva do Vale como o melhor queijo do mundo no 4º Mundial do Queijo do Brasil.",
+        "dataApresentacao": "2026-06-01T17:46"
+    },
+    {
+        "id": 2629519,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629519",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 882,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Bujaru, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:47"
+    },
+    {
+        "id": 2629520,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629520",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 883,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Cachoeira do Arari, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:47"
+    },
+    {
+        "id": 2629521,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629521",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 884,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Cachoeira do Piriá, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:48"
+    },
+    {
+        "id": 2629522,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629522",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 3245,
+        "ano": 2026,
+        "ementa": "Requer a aprovação de Moção de Aplauso para a conquista, pela cachaça Extra Premium, produzida pelo Alambique Bylaardt, do primeiro lugar no Ranking da Cúpula da Cachaça 2026.",
+        "dataApresentacao": "2026-06-01T17:49"
+    },
+    {
+        "id": 2629523,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629523",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 885,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Cametá, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:49"
+    },
+    {
+        "id": 2629524,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629524",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2773,
+        "ano": 2026,
+        "ementa": "Institui Política Nacional de Saúde na Escola (PNSE) para as redes públicas da educação básica.",
+        "dataApresentacao": "2026-06-01T17:50"
+    },
+    {
+        "id": 2629525,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629525",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 886,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Canaã dos Carajás, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:50"
+    },
+    {
+        "id": 2629526,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629526",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 43,
+        "ano": 2026,
+        "ementa": "Requer a aprovação de Moção de Aplauso à Associação Brasileira de Estudos da Trans-Homocultura, em reconhecimento aos seus 25 anos de atuação em defesa da produção científica, da promoção dos direitos humanos e do fortalecimento dos estudos de gênero, sexualidade e diversidade no Brasil.",
+        "dataApresentacao": "2026-06-01T17:45"
+    },
+    {
+        "id": 2629527,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629527",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 887,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Capanema, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:51"
+    },
+    {
+        "id": 2629528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629528",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 888,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Capitão Poço, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:51"
+    },
+    {
+        "id": 2629529,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629529",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 889,
+        "ano": 2026,
+        "ementa": "Sugere a adoção de medidas para o fortalecimento das ações da Estratégia Nacional de Prevenção e Atenção à Obesidade Infantil (PROTEJA) no município de Castanhal, no Estado do Pará.",
+        "dataApresentacao": "2026-06-01T17:52"
+    },
+    {
+        "id": 2629530,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629530",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 3246,
+        "ano": 2026,
+        "ementa": "Requer aprovação de Moção de Aplausos pelos 80 anos da Superintendência do Ministério da Agricultura e Pecuária em Santa Catarina.",
+        "dataApresentacao": "2026-06-01T17:55"
+    },
+    {
+        "id": 2629531,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629531",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2774,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 11.738, de 16 de julho de 2008, para estabelecer diretriz nacional de valorização do magistério público da educação básica mediante interstício mínimo de 25% entre os vencimentos iniciais dos profissionais com formação em nível médio e em nível superior.",
+        "dataApresentacao": "2026-06-01T18:21"
+    },
+    {
+        "id": 2629532,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629532",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1653,
+        "ano": 2026,
+        "ementa": "Requer informações ao Senhor Ministro da Educação sobre a não transferência de recursos originários da Emenda de Relator RP9 (identificador de resultado primário 9) para os municípios de Francisco Beltrão e São José dos Pinhais, Paraná.",
+        "dataApresentacao": "2026-06-01T18:21"
+    },
+    {
+        "id": 2629533,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629533",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2776,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a obrigatoriedade da instalação e uso de rampas de acesso para embarque e desembarque de passageiros em aeroportos nacionais na ausência de pontes de embarque.",
+        "dataApresentacao": "2026-06-01T18:34"
+    },
+    {
+        "id": 2629534,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629534",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Delegada Ione (PL-MG), pela aprovação do Projeto de Lei 1.146 de 2026, na forma substitutivo.",
+        "dataApresentacao": "2026-05-27T18:47"
+    },
+    {
+        "id": 2629535,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629535",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Dispõe sobre a obrigatoriedade de sigilo de informações relativas à lotação de servidoras do Poder Executivo, Legislativo e Judiciário da União, Estados e Municípios que estejam sob o alcance de medidas protetivas determinadas pelo Poder Judiciário, nos seus portais de transparência.",
+        "dataApresentacao": "2026-05-27T18:47"
+    },
+    {
+        "id": 2629536,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629536",
+        "siglaTipo": "DOC",
+        "codTipo": 1024,
+        "numero": 828,
+        "ano": 2026,
+        "ementa": "",
+        "dataApresentacao": "2026-06-01T17:40"
+    },
+    {
+        "id": 2629537,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629537",
+        "siglaTipo": "DOC",
+        "codTipo": 1024,
+        "numero": 829,
+        "ano": 2026,
+        "ementa": "",
+        "dataApresentacao": "2026-06-01T19:02"
+    },
+    {
+        "id": 2629538,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629538",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Ana Paula Lima (PT-SC), pela aprovação.",
+        "dataApresentacao": "2026-06-01T15:53"
+    },
+    {
+        "id": 2629539,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629539",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Albuquerque (REPUBLIC-RR), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-06-01T15:14"
+    },
+    {
+        "id": 2629540,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629540",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Institui o Preço Mínimo de Garantia para o cacau produzido no Brasil; cria o Fundo de Estabilização da Cacauicultura — FEC; estabelece mecanismos de intervenção da Companhia Nacional de Abastecimento — Conab em períodos de queda abrupta de preços; e dá outras providências.",
+        "dataApresentacao": "2026-06-01T15:14"
+    },
+    {
+        "id": 2629541,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629541",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 62,
+        "ano": 2026,
+        "ementa": "Requer a realização de audiência pública, no âmbito da Comissão de Cultura, para debater a importância da Semana Nacional da Cultura Evangélica.",
+        "dataApresentacao": "2026-06-01T17:25"
+    },
+    {
+        "id": 2629542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629542",
+        "siglaTipo": "REQ",
+        "codTipo": 1016,
+        "numero": 63,
+        "ano": 2026,
+        "ementa": "Requer que seja encaminhado por essa comissão de Cultura Indicação ao poder executivo que sugere ao Poder Executivo, por intermédio do Ministério da Cultura e do Instituto do Patrimônio Histórico e Artístico Nacional – IPHAN, a adoção das providências necessárias para o reconhecimento da Festa de Corpus Christi de Curitiba, realizada no Município de Curitiba, no Estado do Paraná, como Patrimônio Cultural Imaterial do Brasil.",
+        "dataApresentacao": "2026-06-01T17:32"
+    },
+    {
+        "id": 2629543,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629543",
+        "siglaTipo": "REQ",
+        "codTipo": 1016,
+        "numero": 64,
+        "ano": 2026,
+        "ementa": "Requer que seja encaminhado ao poder executivo, por essa comissão de cultura, indicação que sugere ao Poder Executivo, por intermédio do Ministério da Cultura e do Instituto do Patrimônio Histórico e Artístico Nacional – IPHAN, a adoção das providências necessárias para a instauração de processo de registro das romarias, peregrinações, celebrações religiosas, práticas devocionais e demais expressões comunitárias associadas ao Santuário São Miguel Arcanjo, localizado no Município de Bandeirantes, Estado do Paraná, como Patrimônio Cultural Imaterial do Brasil.",
+        "dataApresentacao": "2026-06-01T17:37"
+    },
+    {
+        "id": 2629544,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629544",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Pastor Henrique Vieira (PSOL-RJ), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-06-01T16:38"
+    },
+    {
+        "id": 2629545,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629545",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Altera o art. 5º da Lei nº 9.610, de 19 de fevereiro de 1998, para ampliar as regras que se aplicam aos direitos do autor para as comunidades étnicas e tradicionais.",
+        "dataApresentacao": "2026-06-01T16:38"
+    },
+    {
+        "id": 2629546,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629546",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2777,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional de Inclusão Digital Rural e dá outras providências.",
+        "dataApresentacao": "2026-06-01T19:12"
+    },
+    {
+        "id": 2629547,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629547",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2778,
+        "ano": 2026,
+        "ementa": "Institui a Política Nacional de Navegação do Paciente no Sistema Único de Saúde (SUS) e dá outras providências.",
+        "dataApresentacao": "2026-06-01T19:19"
+    },
+    {
+        "id": 2629548,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629548",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2779,
+        "ano": 2026,
+        "ementa": "Institui a Política Nacional de Proteção Financeira da Pessoa Idosa e dá outras providências",
+        "dataApresentacao": "2026-06-01T19:21"
+    },
+    {
+        "id": 2629549,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629549",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2780,
+        "ano": 2026,
+        "ementa": "Institui a Política Nacional de Reabilitação Itinerante no âmbito do Sistema Único de Saúde (SUS) e dá outras providências.",
+        "dataApresentacao": "2026-06-01T19:24"
+    },
+    {
+        "id": 2629550,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629550",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2781,
+        "ano": 2026,
+        "ementa": "Institui a Política Nacional de Promoção do Uso Saudável, Seguro e Equilibrado de Tecnologias Digitais por Crianças e Adolescentes e dá outras providências.",
+        "dataApresentacao": "2026-06-01T19:27"
+    },
+    {
+        "id": 2629551,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629551",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2782,
+        "ano": 2026,
+        "ementa": "Estabelece diretrizes para a ampliação da telessaúde especializada no âmbito do Sistema Único de Saúde (SUS) e dá outras providências.",
+        "dataApresentacao": "2026-06-01T19:30"
+    },
+    {
+        "id": 2629552,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629552",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2783,
+        "ano": 2026,
+        "ementa": "Institui a Política Nacional de Transição para a Vida Adulta da Pessoa com Transtorno do Espectro Autista (TEA) e dá outras providências",
+        "dataApresentacao": "2026-06-01T19:33"
+    },
+    {
+        "id": 2629553,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629553",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Tião Medeiros (PP-PR), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-06-01T15:24"
+    },
+    {
+        "id": 2629554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629554",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Dispõe sobre medidas de incentivo à regularização fundiária de pequenos imóveis rurais com até quatro módulos fiscais e dá outras providências.",
+        "dataApresentacao": "2026-06-01T15:24"
+    },
+    {
+        "id": 2629555,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629555",
+        "siglaTipo": "REQ",
+        "codTipo": 392,
+        "numero": 3247,
+        "ano": 2026,
+        "ementa": "Requer regime de urgência para apreciação do Projeto de Lei nº 5.695, de 2023, que “tipifica penalmente a alteração de fotos, vídeos e som com o uso de sistema de Inteligência Artificial para praticar violência contra a mulher.”",
+        "dataApresentacao": "2026-06-01T19:55"
+    },
+    {
+        "id": 2629556,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629556",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2784,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a limitação das taxas de juros aplicáveis às operações de crédito consignado destinadas a servidores públicos civis e militares da União, dos Estados, do Distrito Federal e dos Municípios, amplia o prazo máximo de contratação para até 150 (cento e cinquenta) meses, e dá outras providências.",
+        "dataApresentacao": "2026-06-01T21:59"
+    },
+    {
+        "id": 2629557,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629557",
+        "siglaTipo": "PLP",
+        "codTipo": 140,
+        "numero": 151,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a redução da jornada de trabalho dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios que sejam pais, mães ou responsáveis legais por pessoa com deficiência, transtorno do espectro autista ou condição que demande acompanhamento permanente, sem redução remuneratória, e dá outras providências.",
+        "dataApresentacao": "2026-06-01T22:01"
+    },
+    {
+        "id": 2629558,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629558",
+        "siglaTipo": "PLP",
+        "codTipo": 140,
+        "numero": 152,
+        "ano": 2026,
+        "ementa": "Institui normas gerais sobre a licença-prêmio por assiduidade aos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, e dá outras providências.",
+        "dataApresentacao": "2026-06-01T22:02"
+    },
+    {
+        "id": 2629566,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629566",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Capitão Alden (PL-BA), pela aprovação do PL 1229/26, com substitutivo.",
+        "dataApresentacao": "2026-06-01T14:59"
+    },
+    {
+        "id": 2629567,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629567",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, para conceder isenção do Imposto sobre a Renda da Pessoa Física aos profissionais da segurança pública, nos termos do art. 144 da Constituição Federal.",
+        "dataApresentacao": "2026-06-01T14:59"
+    },
+    {
+        "id": 2629568,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629568",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 85,
+        "ano": 2026,
+        "ementa": "Requer aprovação de convite ao Sr. Márcio Fernando Elias Rosa, Ministro do Desenvolvimento, Indústria, Comércio e Serviços, para prestar esclarecimentos sobre a aprovação do direito antidumping definitivo sobre as importações de leite em pó da Argentina e do Uruguai e a posterior suspensão imediata de sua aplicação por interesse público.",
+        "dataApresentacao": "2026-06-01T17:28"
+    },
+    {
+        "id": 2629569,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629569",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Dispõe sobre a comercialização de sinalizador náutico em todo o território nacional.",
+        "dataApresentacao": "2026-06-01T10:30"
+    },
+    {
+        "id": 2629571,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629571",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Ana Paula Lima (PT-SC), pela rejeição do PL 3161/24 e do PL 4535/24, apensado.",
+        "dataApresentacao": "2026-06-01T16:11"
+    },
+    {
+        "id": 2629588,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629588",
+        "siglaTipo": "REQ",
+        "codTipo": 147,
+        "numero": 6,
+        "ano": 2026,
+        "ementa": "Requer, nos termos regimentais, aditamento ao requerimento Nº 04/2026 - dos Srs. Osmar Terra e Fernando Rodolfo - que \"Requer a realização de Audiência Pública desta Comissão com objetivo de debater o aumento expressivo de crimes sexuais contra crianças e adolescentes e as políticas públicas de enfrentamento”.",
+        "dataApresentacao": "2026-05-26T19:32"
+    }
+]

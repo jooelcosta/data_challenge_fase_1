@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 2615377,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615377",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 822,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado do Desenvolvimento e Assistência Social, Família e Combate à Fome acerca da inscrição de pessoas em situação de rua no Cadastro Único (CadÚnico), do recebimento de benefícios do Programa Bolsa Família por esse público e das medidas de controle e prevenção a fraudes.",
+        "dataApresentacao": "2026-04-13T11:05"
+    },
+    {
+        "id": 2615379,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615379",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1769,
+        "ano": 2026,
+        "ementa": "Declara o Município de São João del Rei, no Estado de Minas Gerais, Capital Nacional da Arte Sacra.",
+        "dataApresentacao": "2026-04-13T11:14"
+    },
+    {
+        "id": 2615382,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615382",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 823,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado do Desenvolvimento e Assistência Social, Família e Combate à Fome acerca da concessão de benefícios do Programa Bolsa Família a estrangeiros residentes no Brasil, incluindo refugiados, solicitantes de refúgio e outros migrantes.",
+        "dataApresentacao": "2026-04-13T11:20"
+    },
+    {
+        "id": 2615389,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615389",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1771,
+        "ano": 2026,
+        "ementa": "Veda a veiculação, nas plataformas de streaming e na programação dos canais de televisão aberta e TV por assinatura, de chamada promocional de obras audiovisuais que forem incompatíveis com o perfil do usuário.",
+        "dataApresentacao": "2026-04-13T11:34"
+    },
+    {
+        "id": 2615390,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615390",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1772,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a restituição em dobro em caso de cobrança de dívida já paga.",
+        "dataApresentacao": "2026-04-13T11:34"
+    },
+    {
+        "id": 2615391,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615391",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1773,
+        "ano": 2026,
+        "ementa": "Assegura o acesso à tutela provisória de urgência, vedando a exigência de garantia do juízo como condição para sua concessão.",
+        "dataApresentacao": "2026-04-13T11:34"
+    },
+    {
+        "id": 2615393,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615393",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1774,
+        "ano": 2026,
+        "ementa": "Altera a Consolidação das Leis do Trabalho – CLT, para dispor a obrigação de aviso de rescisão do contrato de trabalho da gestante antes do fim do prazo de estabilidade no emprego.",
+        "dataApresentacao": "2026-04-13T11:34"
+    },
+    {
+        "id": 2615399,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615399",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1775,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 14.865, de 28 de maio de 2024, que cria o Calendário Turísticos Oficial do Brasil para estabelecer que o evento realizado há mais de 5 (cinco) anos de forma contínua serão considerados permanentes no Calendário Turístico Oficial do Brasil.",
+        "dataApresentacao": "2026-04-13T11:48"
+    },
+    {
+        "id": 2615419,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615419",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1778,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 9.610, de 19 de fevereiro de 1998, para instituir o dever de transparência nas explorações digitais, estabelecer a nulidade de cláusulas impeditivas de regravação, criar o direito de reversão de direitos patrimoniais e proteger atributos da personalidade contra o uso por sistemas de inteligência artificial",
+        "dataApresentacao": "2026-04-13T12:48"
+    },
+    {
+        "id": 2615512,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615512",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1779,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 14.754, de 12 de dezembro de 2023, para excluir da apuração dos lucros de controladas no exterior os resultados decorrentes da avaliação a valor justo de ativos e passivos.",
+        "dataApresentacao": "2026-04-13T14:15"
+    },
+    {
+        "id": 2615555,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615555",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1780,
+        "ano": 2026,
+        "ementa": "Dispõe sobre incentivos tributários e financeiros à produção audiovisual no Brasil, com vistas a fomentar o desenvolvimento econômico, cultural e social do setor audiovisual, a atração de investimentos nacionais e internacionais, a geração de emprego e renda, a promoção da diversidade cultural, a inclusão social, a regionalização e a sustentabilidade ambiental.",
+        "dataApresentacao": "2026-04-13T15:10"
+    },
+    {
+        "id": 2615559,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615559",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1782,
+        "ano": 2026,
+        "ementa": "Institui a Estratégia Nacional “Eles por Elas” de Engajamento de Homens na Prevenção da Violência contra Mulheres.",
+        "dataApresentacao": "2026-04-13T15:14"
+    },
+    {
+        "id": 2615568,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615568",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 824,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Anapu, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:38"
+    },
+    {
+        "id": 2615569,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615569",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 825,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Aurora do Pará, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:38"
+    },
+    {
+        "id": 2615570,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615570",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 826,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Augusto Corrêa, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:38"
+    },
+    {
+        "id": 2615571,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615571",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 827,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Aveiro, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:38"
+    },
+    {
+        "id": 2615572,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615572",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 828,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Bagre, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:38"
+    },
+    {
+        "id": 2615573,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615573",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 829,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Barcarena, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:38"
+    },
+    {
+        "id": 2615574,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615574",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 830,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Belém, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), no mesmo município.",
+        "dataApresentacao": "2026-04-13T15:38"
+    },
+    {
+        "id": 2615575,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615575",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 831,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Bannach, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:38"
+    },
+    {
+        "id": 2615576,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615576",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 832,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Belterra, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:38"
+    },
+    {
+        "id": 2615577,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615577",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 833,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Baião, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:38"
+    },
+    {
+        "id": 2615578,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615578",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 834,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Bom Jesus do Tocantins, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615580,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615580",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 835,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Benevides, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615581,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615581",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 836,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Bragança, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615582,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615582",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 837,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Bonito, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615583,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615583",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 838,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Brasil Novo, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615584,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615584",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 839,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Brejo Grande do Araguaia, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615585,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615585",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 840,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Breves, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615587,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615587",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 841,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Breu Branco, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615588,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615588",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 842,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Bujaru, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615589,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615589",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 843,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Cachoeira do Arari, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615590,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615590",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 844,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Cametá, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615591,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615591",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 845,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Cachoeira do Piriá, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615592,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615592",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 846,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Capanema, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615593",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 847,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Canaã dos Carajás, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615594,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615594",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 848,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Capitão Poço, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615595,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615595",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 849,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Castanhal, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615596,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615596",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 850,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Chaves, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615597,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615597",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 851,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Colares, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615598,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615598",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 852,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Concórdia do Pará, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615599,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615599",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 853,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Conceição do Araguaia, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-13T15:39"
+    },
+    {
+        "id": 2615601,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615601",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1783,
+        "ano": 2026,
+        "ementa": "Altera os arts. 36 e 57-A da Lei nº 9.504, de 30 de setembro de 1997, para ampliar para 60 (sessenta) dias anteriores ao pleito o início da propaganda eleitoral.",
+        "dataApresentacao": "2026-04-13T15:53"
+    },
+    {
+        "id": 2615646,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615646",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1793,
+        "ano": 2026,
+        "ementa": "Acrescenta o art. 29-D à Lei nº 11.445, de 5 de janeiro de 2007, que estabelece as diretrizes nacionais para o saneamento básico e para a política federal de saneamento básico, para vedar a cobrança de tarifa comercial de água e esgoto em imóvel com hidrômetro único que sirva simultaneamente como residência habitual e local de atividade comercial ou de prestação de serviços. Esta Lei é conhecida como \"Lei do Hidrômetro Único\".",
+        "dataApresentacao": "2026-04-13T19:08"
+    },
+    {
+        "id": 2615647,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615647",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1794,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional de Autonomia e Proteção à Mulher em Situação de Violência Doméstica e Familiar – “Recomeçar Mulher” –, cria o Benefício Assistencial Temporário de Proteção à Mulher e autoriza a concessão de parcela emergencial em favor de mulheres vítimas de violência doméstica e familiar.",
+        "dataApresentacao": "2026-04-13T19:08"
+    },
+    {
+        "id": 2615671,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615671",
+        "siglaTipo": "PDL",
+        "codTipo": 554,
+        "numero": 244,
+        "ano": 2026,
+        "ementa": "Aprova o texto do Acordo entre a República Federativa do Brasil e a República Islâmica da Mauritânia sobre Troca e Proteção Mútua de Informações Classificadas, assinado no Rio de Janeiro, em 1º de abril de 2025.",
+        "dataApresentacao": "2026-04-13T21:31"
+    },
+    {
+        "id": 2615672,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615672",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1796,
+        "ano": 2026,
+        "ementa": "Altera a Lei n° 11.346, de 15 de setembro de 2006, que cria o Sistema Nacional de Segurança Alimentar e Nutricional – SISAN com vistas em assegurar o direito humano à alimentação adequada, e dá outras providências, para explicitar que a prevenção e o enfrentamento da obesidade em crianças e adolescentes fazem parte dos objetivos das políticas públicas a serem empregadas no âmbito da promoção da segurança alimentar e nutricional.",
+        "dataApresentacao": "2026-04-13T20:03"
+    },
+    {
+        "id": 2615677,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615677",
+        "siglaTipo": "PDL",
+        "codTipo": 554,
+        "numero": 245,
+        "ano": 2026,
+        "ementa": "Aprova a declaração do reconhecimento da competência do Comitê contra Desaparecimentos Forçados, prevista no Artigo 31 da Convenção Internacional para a Proteção de Todas as Pessoas contra Desaparecimento Forçado, assinada em Paris, em 6 de fevereiro de 2007.",
+        "dataApresentacao": "2026-04-13T21:31"
+    },
+    {
+        "id": 2615678,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615678",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 19,
+        "ano": 2026,
+        "ementa": "Requer o aditamento ao REQ. 10/2026, para inclusão de convidados na audiência pública  para debater o Projeto de Lei nº 6151, de 2025, que institui a Política Nacional de Saúde Mental Climática, com a finalidade de subsidiar a relatoria.",
+        "dataApresentacao": "2026-04-13T17:43"
+    },
+    {
+        "id": 2615680,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615680",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 30,
+        "ano": 2026,
+        "ementa": "Requer a realização de audiência pública na Comissão de Minas e Energia, com o objetivo de discutir a eficiência econômica e fiscal, o impacto social das subvenções e os incentivos ao setor de combustíveis no rol das Medidas Provisórias nº 1340, 1343 e 1349 de 2026 e decretos presidenciais correlatos.",
+        "dataApresentacao": "2026-04-14T08:08"
+    },
+    {
+        "id": 2615683,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615683",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 12,
+        "ano": 2026,
+        "ementa": "Requeiro a realização de Audiência Pública conjunta no âmbito da Comissão de Finanças e Tributação e da Comissão de Desenvolvimento Econômico da Câmara dos Deputados para tratar sobre os PLPs 92, 93, 94, 95/2026 de minha autoria, com o objetivo de debater e aprimorar o novo modelo de tributação sobre o consumo, especialmente, em setores estratégicos da economia nacional, visando a garantia da justiça social e tributária no sistema arrecadatório, possibilitando a competitividade, a manutenção dos negócios, a geração de emprego, renda e riqueza em nosso país.",
+        "dataApresentacao": "2026-04-13T22:28"
+    },
+    {
+        "id": 2615692,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615692",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 580,
+        "ano": 2026,
+        "ementa": "Sugere à Procuradoria-Geral da República a adoção de providências investigativas acerca de possíveis irregularidades na alocação de recursos públicos no âmbito do Ministério da Agricultura e Pecuária, com indícios de superfaturamento, concentração indevida de verbas, ausência de critérios técnicos e possível desvio de finalidade de políticas públicas.",
+        "dataApresentacao": "2026-04-14T09:46"
+    },
+    {
+        "id": 2615696,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615696",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1797,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 13.019, de 31 de julho de 2014, para assegurar a transparência ativa dos documentos de prestação de contas gerados pelos órgãos públicos e coibir a negativa de acesso a esses documentos ao cidadão.",
+        "dataApresentacao": "2026-04-14T10:00"
+    },
+    {
+        "id": 2615718,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615718",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1799,
+        "ano": 2026,
+        "ementa": "Institui a categoria \"Veículo Off-Road de Uso Misto\" no Código de Trânsito Brasileiro, regulamenta a elevação da suspensão de caminhonetes, jipes e veículos utilitários e dá outras providências.",
+        "dataApresentacao": "2026-04-14T11:02"
+    },
+    {
+        "id": 2615894,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615894",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1803,
+        "ano": 2026,
+        "ementa": "Institui o Sistema Nacional Antifraude (SNAF), dispõe sobre o intercâmbio de dados para prevenir, detectar e coibir fraudes e irregularidades no acesso a benefícios ou programas federais de natureza social, inclusive trabalhista, previdenciária ou assistencial, e dá outras providências.",
+        "dataApresentacao": "2026-04-14T14:25"
+    },
+    {
+        "id": 2615896,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615896",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1804,
+        "ano": 2026,
+        "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar a nomeação ou manutenção fraudulenta destinada à percepção de remuneração sem efetivo exercício de atribuições na Administração Pública e a correspondente percepção dolosa de remuneração indevida.",
+        "dataApresentacao": "2026-04-14T14:27"
+    },
+    {
+        "id": 2615911,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615911",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1806,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a vedação à nomeação para cargos em comissão, funções de confiança e à contratação com a Administração Pública de pessoas condenadas por crimes de violência doméstica e familiar contra a mulher, bem como por crimes praticados contra crianças, adolescentes, idosos e pessoas com deficiência.",
+        "dataApresentacao": "2026-04-14T14:48"
+    },
+    {
+        "id": 2615946,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615946",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1810,
+        "ano": 2026,
+        "ementa": "Confere ao Município de Lindolfo Collor, no Estado do Rio Grande do Sul, o título de Capital Nacional do Tapete de Couro.",
+        "dataApresentacao": "2026-04-14T15:31"
+    },
+    {
+        "id": 2615961,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615961",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 864,
+        "ano": 2026,
+        "ementa": "Requer do Excelentíssimo Ministro da Pesca e Aquicultura, informações a respeito das populações de peixes migratórios de água doce.",
+        "dataApresentacao": "2026-04-14T15:59"
+    },
+    {
+        "id": 2615973,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615973",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1814,
+        "ano": 2026,
+        "ementa": "Denomina “Rodovia Pastor Gedelti Victalino Teixeira Gueiros” o trecho da rodovia federal BR-447 compreendido entre os Municípios de Viana e Vila Velha, no Estado do Espirito Santo.",
+        "dataApresentacao": "2026-04-14T16:25"
+    },
+    {
+        "id": 2615980,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615980",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1816,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional de Autonomia e Prevenção da Violência contra a Mulher (Recomeçar), e dá outras providências.",
+        "dataApresentacao": "2026-04-14T16:48"
+    },
+    {
+        "id": 2615981,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615981",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1817,
+        "ano": 2026,
+        "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar como crime o exercício ilegal da profissão de corretor de imóveis.",
+        "dataApresentacao": "2026-04-14T16:55"
+    },
+    {
+        "id": 2615998,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615998",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 867,
+        "ano": 2026,
+        "ementa": "Requer a Excelentíssima Ministra dos Direitos Humanos e da Cidadania, Senhora Janine Mello, informações sobre ações de capacitação de agentes comunitários de saúde para a identificação de sinais de Transtorno do Espectro Autista (TEA).",
+        "dataApresentacao": "2026-04-14T17:08"
+    },
+    {
+        "id": 2616005,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616005",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1819,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, para instituir faixas progressivas de isenção do imposto de renda sobre rendimentos de aposentadoria e pensão em razão da idade do beneficiário.",
+        "dataApresentacao": "2026-04-14T17:28"
+    },
+    {
+        "id": 2616011,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616011",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1820,
+        "ano": 2026,
+        "ementa": "Reconhece a Capela de Nossa Senhora da Boa Viagem, localizada na Praia do Saco, no Município de Estância, Estado de Sergipe, como patrimônio cultural material do Brasil.",
+        "dataApresentacao": "2026-04-14T17:36"
+    },
+    {
+        "id": 2616014,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616014",
+        "siglaTipo": "MSC",
+        "codTipo": 411,
+        "numero": 289,
+        "ano": 2026,
+        "ementa": "Submete à consideração do Congresso Nacional o Texto do Acordo entre a República Federativa do Brasil e a República Portuguesa sobre o Reconhecimento Mútuo dos Títulos de Condução, assinado em Lisboa, em 22 de setembro de 2023.",
+        "dataApresentacao": "2026-04-14T17:16"
+    },
+    {
+        "id": 2616016,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616016",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1821,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional de Segurança Econômica do Produtor Rural – PRONASEP e estabelece medidas para o fortalecimento do crédito rural, proteção contra endividamento e estabilização da renda no setor agropecuário, e dá outras providências.",
+        "dataApresentacao": "2026-04-14T17:50"
+    },
+    {
+        "id": 2616017,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616017",
+        "siglaTipo": "REQ",
+        "codTipo": 392,
+        "numero": 2092,
+        "ano": 2026,
+        "ementa": "Requer a urgência, nos termos do art. 155, do Regimento Interno da Câmara dos Deputados, para apreciação do PL 5747/2025",
+        "dataApresentacao": "2026-04-14T17:57"
+    },
+    {
+        "id": 2616024,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616024",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1824,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 13.874, de 20 de setembro de 2019 (Lei da Liberdade Econômica), para garantir a liberdade absoluta de precificação de serviços profissionais e vedar a punição por trabalho voluntário, bem como garantir a sua livre publicidade.",
+        "dataApresentacao": "2026-04-14T18:13"
+    },
+    {
+        "id": 2616025,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616025",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1825,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025 (Estatuto Digital da Criança e do Adolescente), para vedar mecanismos de censura prévia, assegurar a liberdade de expressão, preservar a livre iniciativa e garantir o devido processo legal.",
+        "dataApresentacao": "2026-04-14T18:18"
+    },
+    {
+        "id": 2616033,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616033",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1826,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a obrigatoriedade de cobertura de terapias baseadas em evidências científicas, inclusive a musicoterapia, no âmbito da atenção à saúde suplementar para pessoas com Transtorno do Espectro Autista (TEA), estabelece critérios técnicos para prescrição, execução e auditoria dos tratamentos, altera a Lei nº 9.656, de 3 de junho de 1998, para assegurar a integralidade do cuidado multidisciplinar, reforça a segurança jurídica nas relações contratuais e institui mecanismos de transparência, regulação e fiscalização.",
+        "dataApresentacao": "2026-04-14T18:33"
+    },
+    {
+        "id": 2616055,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616055",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1827,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025, para instituir a Política Nacional de Parentalidade Digital e, estabelecer restrições ao acesso de menores de 16 anos a redes sociais.",
+        "dataApresentacao": "2026-04-14T19:02"
+    },
+    {
+        "id": 2616056,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616056",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1828,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 12.068, de 29 de outubro de 2009, para instituir o Dia Nacional do Pescador Artesanal.",
+        "dataApresentacao": "2026-04-14T19:03"
+    },
+    {
+        "id": 2616057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616057",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1829,
+        "ano": 2026,
+        "ementa": "Reconhece como manifestação da cultura nacional o Festejo do Santuário Diocesano Nossa Senhora do Coco da Aparecida, no Estado do Maranhão",
+        "dataApresentacao": "2026-04-14T19:04"
+    },
+    {
+        "id": 2616065,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616065",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1830,
+        "ano": 2026,
+        "ementa": "Inscreve o nome de Domingos Antônio Raiol, o Barão de Guajará, no “Livro dos Heróis e Heroínas da Pátria”.",
+        "dataApresentacao": "2026-04-14T19:14"
+    },
+    {
+        "id": 2616105,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616105",
+        "siglaTipo": "PDL",
+        "codTipo": 554,
+        "numero": 250,
+        "ano": 2026,
+        "ementa": "Aprova o texto do Termo Aditivo ao Acordo de Cooperação Jurídica Internacional em Matéria Penal entre o Governo da República Federativa do Brasil e o Governo da República Francesa, assinado em Brasília, em 28 de março de 2024.",
+        "dataApresentacao": "2026-04-14T20:14"
+    },
+    {
+        "id": 2616111,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616111",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1834,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional de Apoio ao Jovem Empreendedor Graduado – ProJovem Empreendedor, destinado ao financiamento de iniciativas empreendedoras de profissionais com formação superior, e dá outras providências",
+        "dataApresentacao": "2026-04-14T20:22"
+    },
+    {
+        "id": 2616113,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616113",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1835,
+        "ano": 2026,
+        "ementa": "Institui o “Dia Nacional Família ao Pé da Cruz”, a ser celebrado anualmente na Sexta-Feira Santa, e o inclui no Calendário Oficial da União",
+        "dataApresentacao": "2026-04-14T20:25"
+    },
+    {
+        "id": 2616162,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616162",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 875,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Cumaru do Norte, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616163,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616163",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 876,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Curralinho, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616164,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616164",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 877,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Curuçá, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616165,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616165",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 878,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Curionópolis, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616167,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616167",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 879,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Curuá, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616168,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616168",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 880,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Dom Eliseu, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616170,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616170",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 881,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Eldorado dos Carajás, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616171,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616171",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 882,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Floresta do Araguaia, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616172,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616172",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 883,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Garrafão do Norte, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616174,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616174",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 884,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Faro, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616180,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616180",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 885,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Goianésia do Pará, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616181,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616181",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 886,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Gurupá, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616186,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616186",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 887,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Igarapé-Açu, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616188,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616188",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 888,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Igarapé-Miri, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616190,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616190",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 889,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Inhangapi, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616191,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616191",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 890,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Irituia, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616198,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616198",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 891,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Ipixuna do Pará, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616199,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616199",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 892,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Itaituba, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616200,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616200",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 893,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Itupiranga, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616201,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616201",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 894,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Jacareacanga, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:28"
+    },
+    {
+        "id": 2616202,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616202",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 895,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Jacundá, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:29"
+    },
+    {
+        "id": 2616204,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616204",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 896,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Turismo acerca das políticas públicas e ações previstas para promover o desenvolvimento sustentável e o turismo ecológico no Município de Juruti, no Estado do Pará, considerando as oportunidades e os legados decorrentes da realização da Conferência das Nações Unidas sobre Mudanças Climáticas (COP 30), em Belém.",
+        "dataApresentacao": "2026-04-14T22:29"
+    }
+]

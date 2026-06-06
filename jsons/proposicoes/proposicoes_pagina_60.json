@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 2628232,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628232",
+        "siglaTipo": "RPD",
+        "codTipo": 336,
+        "numero": 13,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Votação - PL 458/2026",
+        "dataApresentacao": "2026-05-27T12:36"
+    },
+    {
+        "id": 2628233,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628233",
+        "siglaTipo": "RPD",
+        "codTipo": 336,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Votação - PL 4878/2024",
+        "dataApresentacao": "2026-05-27T12:36"
+    },
+    {
+        "id": 2628234,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628234",
+        "siglaTipo": "RPD",
+        "codTipo": 329,
+        "numero": 15,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão - PL 66/2026",
+        "dataApresentacao": "2026-05-27T12:37"
+    },
+    {
+        "id": 2628235,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628235",
+        "siglaTipo": "RPD",
+        "codTipo": 329,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão - PL 4878/2024",
+        "dataApresentacao": "2026-05-27T12:37"
+    },
+    {
+        "id": 2628236,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628236",
+        "siglaTipo": "RPD",
+        "codTipo": 329,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão - PL 6178/2025",
+        "dataApresentacao": "2026-05-27T12:37"
+    },
+    {
+        "id": 2628237,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628237",
+        "siglaTipo": "RPD",
+        "codTipo": 329,
+        "numero": 14,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão - PL 458/2026",
+        "dataApresentacao": "2026-05-27T12:37"
+    },
+    {
+        "id": 2628238,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628238",
+        "siglaTipo": "RPD",
+        "codTipo": 329,
+        "numero": 14,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão - PL 5786/2025",
+        "dataApresentacao": "2026-05-27T12:38"
+    },
+    {
+        "id": 2628239,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628239",
+        "siglaTipo": "RPD",
+        "codTipo": 329,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão - PL 5879/2025",
+        "dataApresentacao": "2026-05-27T12:38"
+    },
+    {
+        "id": 2628240,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628240",
+        "siglaTipo": "RPD",
+        "codTipo": 336,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Votação - PL 6178/2025",
+        "dataApresentacao": "2026-05-27T12:36"
+    },
+    {
+        "id": 2628241,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628241",
+        "siglaTipo": "DOC",
+        "codTipo": 1024,
+        "numero": 820,
+        "ano": 2026,
+        "ementa": "",
+        "dataApresentacao": "2026-05-27T12:17"
+    },
+    {
+        "id": 2628242,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628242",
+        "siglaTipo": "RPD",
+        "codTipo": 336,
+        "numero": 15,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Votação - PL 5786/2025",
+        "dataApresentacao": "2026-05-27T12:37"
+    },
+    {
+        "id": 2628243,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628243",
+        "siglaTipo": "RPD",
+        "codTipo": 336,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Votação - PL 5879/2025",
+        "dataApresentacao": "2026-05-27T12:37"
+    },
+    {
+        "id": 2628244,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628244",
+        "siglaTipo": "RPD",
+        "codTipo": 1040,
+        "numero": 16,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 66/2026-Requerimento de Adiamento da Discussão - PL 66/2026",
+        "dataApresentacao": "2026-05-27T12:37"
+    },
+    {
+        "id": 2628245,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628245",
+        "siglaTipo": "RPD",
+        "codTipo": 1040,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 4878/2024-Requerimento de Adiamento da Discussão - PL 4878/2024",
+        "dataApresentacao": "2026-05-27T12:37"
+    },
+    {
+        "id": 2628246,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628246",
+        "siglaTipo": "RPD",
+        "codTipo": 1040,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 6178/2025-Requerimento de Adiamento da Discussão - PL 6178/2025",
+        "dataApresentacao": "2026-05-27T12:37"
+    },
+    {
+        "id": 2628247,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628247",
+        "siglaTipo": "RPD",
+        "codTipo": 1040,
+        "numero": 15,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 458/2026-Requerimento de Adiamento da Discussão - PL 458/2026",
+        "dataApresentacao": "2026-05-27T12:37"
+    },
+    {
+        "id": 2628248,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628248",
+        "siglaTipo": "RPD",
+        "codTipo": 1040,
+        "numero": 16,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 5786/2025-Requerimento de Adiamento da Discussão - PL 5786/2025",
+        "dataApresentacao": "2026-05-27T12:38"
+    },
+    {
+        "id": 2628249,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628249",
+        "siglaTipo": "RPD",
+        "codTipo": 1040,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 5879/2025-Requerimento de Adiamento da Discussão - PL 5879/2025",
+        "dataApresentacao": "2026-05-27T12:38"
+    },
+    {
+        "id": 2628250,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628250",
+        "siglaTipo": "RPD",
+        "codTipo": 1042,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 6178/2025-Requerimento de Adiamento da Votação - PL 6178/2025",
+        "dataApresentacao": "2026-05-27T12:36"
+    },
+    {
+        "id": 2628251,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628251",
+        "siglaTipo": "RPD",
+        "codTipo": 1042,
+        "numero": 16,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 458/2026-Requerimento de Adiamento da Votação - PL 458/2026",
+        "dataApresentacao": "2026-05-27T12:36"
+    },
+    {
+        "id": 2628252,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628252",
+        "siglaTipo": "RPD",
+        "codTipo": 1042,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 5879/2025-Requerimento de Adiamento da Votação - PL 5879/2025",
+        "dataApresentacao": "2026-05-27T12:36"
+    },
+    {
+        "id": 2628253,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628253",
+        "siglaTipo": "RPD",
+        "codTipo": 1042,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 4878/2024-Requerimento de Adiamento da Votação - PL 4878/2024",
+        "dataApresentacao": "2026-05-27T12:36"
+    },
+    {
+        "id": 2628254,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628254",
+        "siglaTipo": "RPD",
+        "codTipo": 1042,
+        "numero": 17,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 5786/2025-Requerimento de Adiamento da Votação - PL 5786/2025",
+        "dataApresentacao": "2026-05-27T12:37"
+    },
+    {
+        "id": 2628255,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628255",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 17,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 66/2026-Requerimento de Retirada de Matéria da Pauta - PL 66/2026",
+        "dataApresentacao": "2026-05-27T12:38"
+    },
+    {
+        "id": 2628256,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628256",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 18,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 66/2026",
+        "dataApresentacao": "2026-05-27T12:41"
+    },
+    {
+        "id": 2628257,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628257",
+        "siglaTipo": "DTQ",
+        "codTipo": 846,
+        "numero": 6,
+        "ano": 0,
+        "ementa": "Destaque para Votação em Separado - PEC 221/2019 -  Art 9º, Inc I",
+        "dataApresentacao": "2026-05-27T12:39"
+    },
+    {
+        "id": 2628258,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628258",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 17,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 458/2026",
+        "dataApresentacao": "2026-05-27T12:41"
+    },
+    {
+        "id": 2628259,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628259",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 5,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 6178/2025",
+        "dataApresentacao": "2026-05-27T12:42"
+    },
+    {
+        "id": 2628260,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628260",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3574/2025",
+        "dataApresentacao": "2026-05-27T12:42"
+    },
+    {
+        "id": 2628261,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628261",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 5,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4878/2024",
+        "dataApresentacao": "2026-05-27T12:42"
+    },
+    {
+        "id": 2628262,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628262",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 5,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 5879/2025",
+        "dataApresentacao": "2026-05-27T12:42"
+    },
+    {
+        "id": 2628263,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628263",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 6,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 4878/2024-Requerimento de Retirada de Matéria da Pauta - PL 4878/2024",
+        "dataApresentacao": "2026-05-27T12:42"
+    },
+    {
+        "id": 2628264,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628264",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3574/2025-Requerimento de Retirada de Matéria da Pauta - PL 3574/2025",
+        "dataApresentacao": "2026-05-27T12:42"
+    },
+    {
+        "id": 2628265,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628265",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 6,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 6178/2025-Requerimento de Retirada de Matéria da Pauta - PL 6178/2025",
+        "dataApresentacao": "2026-05-27T12:42"
+    },
+    {
+        "id": 2628266,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628266",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 18,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 458/2026-Requerimento de Retirada de Matéria da Pauta - PL 458/2026",
+        "dataApresentacao": "2026-05-27T12:42"
+    },
+    {
+        "id": 2628267,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628267",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 18,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 5786/2025-Requerimento de Retirada de Matéria da Pauta - PL 5786/2025",
+        "dataApresentacao": "2026-05-27T12:43"
+    },
+    {
+        "id": 2628268,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628268",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 6,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 5879/2025-Requerimento de Retirada de Matéria da Pauta - PL 5879/2025",
+        "dataApresentacao": "2026-05-27T12:43"
+    },
+    {
+        "id": 2628269,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628269",
+        "siglaTipo": "RPD",
+        "codTipo": 890,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento para Retirada de Tramitação de RPD/DTQ - DTQ 2 PEC22119 => PEC 221/2019",
+        "dataApresentacao": "2026-05-27T12:43"
+    },
+    {
+        "id": 2628270,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628270",
+        "siglaTipo": "RPDR",
+        "codTipo": 889,
+        "numero": 1,
+        "ano": 2026,
+        "ementa": "Requerimento Procedimental Genérico - REQ 14/2026 CTUR",
+        "dataApresentacao": "2026-05-27T10:23"
+    },
+    {
+        "id": 2628271,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628271",
+        "siglaTipo": "RPDR",
+        "codTipo": 889,
+        "numero": 2,
+        "ano": 2026,
+        "ementa": "Requerimento Procedimental Genérico - REQ 15/2026 CTUR",
+        "dataApresentacao": "2026-05-27T10:23"
+    },
+    {
+        "id": 2628272,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628272",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - REQ 14/2026 CTUR",
+        "dataApresentacao": "2026-05-27T12:44"
+    },
+    {
+        "id": 2628273,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628273",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - REQ 15/2026 CTUR",
+        "dataApresentacao": "2026-05-27T12:44"
+    },
+    {
+        "id": 2628274,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628274",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 19,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 5786/2025",
+        "dataApresentacao": "2026-05-27T12:44"
+    },
+    {
+        "id": 2628275,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628275",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Eli Borges (REPUBLIC-TO), pela aprovação.",
+        "dataApresentacao": "2026-05-27T10:40"
+    },
+    {
+        "id": 2628276,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628276",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 8,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do 2373/2023 e do PL 6204/2025, apensado, com substitutivo",
+        "dataApresentacao": "2026-05-27T11:30"
+    },
+    {
+        "id": 2628277,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628277",
+        "siglaTipo": "DOC",
+        "codTipo": 1024,
+        "numero": 821,
+        "ano": 2026,
+        "ementa": "",
+        "dataApresentacao": "2026-05-27T12:43"
+    },
+    {
+        "id": 2628278,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628278",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 6,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL nº 2.373, de 2023, e PL nº 6.204/2025, apensado, com substitutivo.",
+        "dataApresentacao": "2026-05-27T11:30"
+    },
+    {
+        "id": 2628279,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628279",
+        "siglaTipo": "RPD",
+        "codTipo": 1019,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Inclusão de Matéria na Ordem do Dia para Apreciação Imediata - PL 2187/2025",
+        "dataApresentacao": "2026-05-27T13:00"
+    },
+    {
+        "id": 2628280,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628280",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1585/2024",
+        "dataApresentacao": "2026-05-27T13:01"
+    },
+    {
+        "id": 2628281,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628281",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Sargento Portugal (PODE-RJ), pela aprovação do PL 3751/25, com substitutivo.",
+        "dataApresentacao": "2026-05-27T11:03"
+    },
+    {
+        "id": 2628282,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628282",
+        "siglaTipo": "RPD",
+        "codTipo": 876,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Inversão da Pauta - PL 1309/2024",
+        "dataApresentacao": "2026-05-27T13:00"
+    },
+    {
+        "id": 2628283,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628283",
+        "siglaTipo": "RPD",
+        "codTipo": 876,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Inversão da Pauta - PL 4388/2025",
+        "dataApresentacao": "2026-05-27T13:00"
+    },
+    {
+        "id": 2628284,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628284",
+        "siglaTipo": "RPD",
+        "codTipo": 876,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Requerimento de Inversão da Pauta - PL 1585/2024",
+        "dataApresentacao": "2026-05-27T13:00"
+    },
+    {
+        "id": 2628285,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628285",
+        "siglaTipo": "RPD",
+        "codTipo": 876,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Inversão da Pauta - PL 4631/2024",
+        "dataApresentacao": "2026-05-27T13:00"
+    },
+    {
+        "id": 2628286,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628286",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Estabelece a prioridade na destinação de recursos para ações de informação e inteligência no combate aos crimes financeiros virtuais, com ênfase no estelionato digital, phishing, roubo de identidade, fraudes financeiras online e outros crimes cibernéticos, além de implementar a capacitação de profissionais, a utilização de tecnologias avançadas e a criação de um ambiente mais seguro no espaço digital.\nAutor: Deputado DUDA RAMOS\nRelator: Deputado SARGENTO PORTUGAL",
+        "dataApresentacao": "2026-05-27T11:03"
+    },
+    {
+        "id": 2628287,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628287",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2642,
+        "ano": 2026,
+        "ementa": "Altera o Marco Civil da Internet (Lei nº 12.965, de 23 de abril de 2014), para estabelecer garantias de devido processo, segurança jurídica, transparência e limites à responsabilização de provedores de aplicações de internet.",
+        "dataApresentacao": "2026-05-27T13:09"
+    },
+    {
+        "id": 2628288,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628288",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 45,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1182/2023",
+        "dataApresentacao": "2026-05-27T13:15"
+    },
+    {
+        "id": 2628289,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628289",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 42,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta",
+        "dataApresentacao": "2026-05-27T13:15"
+    },
+    {
+        "id": 2628290,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628290",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 46,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1182/2023",
+        "dataApresentacao": "2026-05-27T13:04"
+    },
+    {
+        "id": 2628291,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628291",
+        "siglaTipo": "DTQ",
+        "codTipo": 846,
+        "numero": 7,
+        "ano": 0,
+        "ementa": "Destaque para Votação em Separado - PEC 221/2019 - Art. 9º, Inciso I",
+        "dataApresentacao": "2026-05-27T13:19"
+    },
+    {
+        "id": 2628292,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628292",
+        "siglaTipo": "REQ",
+        "codTipo": 311,
+        "numero": 3213,
+        "ano": 2026,
+        "ementa": "Solicita o arquivamento do Projeto de Lei nº 1363/2026, que “Altera a Lei nº 7.410, de 27 de novembro de 1985, que dispõe sobre a Especialização de Engenheiros e Arquitetos em Engenharia de Segurança do Trabalho, a Profissão de Técnico de Segurança do Trabalho, e dá outras Providências.”.",
+        "dataApresentacao": "2026-05-27T13:17"
+    },
+    {
+        "id": 2628293,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628293",
+        "siglaTipo": "REQ",
+        "codTipo": 305,
+        "numero": 3214,
+        "ano": 2026,
+        "ementa": "Nos termos regimentais aplicáveis, Requer a desapensação do Projeto de Lei nº 1.271, de 2026, do bloco de proposições encabeçado pelo Projeto de Lei nº 5.343, de 2019, ao qual se encontra vinculado por força de sua apensação ao Projeto de Lei nº 67, de 2026.",
+        "dataApresentacao": "2026-05-27T13:18"
+    },
+    {
+        "id": 2628294,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628294",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2643,
+        "ano": 2026,
+        "ementa": "Altera os arts. 2º e 3º da Lei nº 14.790, de 29 de dezembro de 2023, e estabelece diretrizes de cooperação institucional entre o Ministério da Fazenda e a Comissão de Valores Mobiliários (CVM), para incluir os mercados de previsão como categoria regulável, definir competências de supervisão sobre plataformas híbridas e fortalecer os mecanismos de proteção ao consumidor e de integridade de mercado.",
+        "dataApresentacao": "2026-05-27T13:18"
+    },
+    {
+        "id": 2628295,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628295",
+        "siglaTipo": "RPD",
+        "codTipo": 329,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão - PL 2765/2025",
+        "dataApresentacao": "2026-05-27T13:30"
+    },
+    {
+        "id": 2628296,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628296",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 7009/2025",
+        "dataApresentacao": "2026-05-27T13:32"
+    },
+    {
+        "id": 2628297,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628297",
+        "siglaTipo": "RPD",
+        "codTipo": 329,
+        "numero": 43,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão - PL 1156/2021",
+        "dataApresentacao": "2026-05-27T13:30"
+    },
+    {
+        "id": 2628298,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628298",
+        "siglaTipo": "RPD",
+        "codTipo": 329,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão",
+        "dataApresentacao": "2026-05-27T13:15"
+    },
+    {
+        "id": 2628299,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628299",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 44,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1156/2021",
+        "dataApresentacao": "2026-05-27T13:35"
+    },
+    {
+        "id": 2628300,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628300",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 45,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta",
+        "dataApresentacao": "2026-05-27T13:15"
+    },
+    {
+        "id": 2628301,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628301",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 47,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1182/2023",
+        "dataApresentacao": "2026-05-27T13:30"
+    },
+    {
+        "id": 2628302,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628302",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 2765/2025",
+        "dataApresentacao": "2026-05-27T13:30"
+    },
+    {
+        "id": 2628303,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628303",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 46,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1156/2021",
+        "dataApresentacao": "2026-05-27T13:31"
+    },
+    {
+        "id": 2628304,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628304",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 10,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4057/2015",
+        "dataApresentacao": "2026-05-27T13:31"
+    },
+    {
+        "id": 2628305,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628305",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4212/2021",
+        "dataApresentacao": "2026-05-27T13:33"
+    },
+    {
+        "id": 2628306,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628306",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 5,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 2765/2025",
+        "dataApresentacao": "2026-05-27T13:34"
+    },
+    {
+        "id": 2628307,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628307",
+        "siglaTipo": "RPD",
+        "codTipo": 336,
+        "numero": 48,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Votação - PL 1182/2023",
+        "dataApresentacao": "2026-05-27T13:04"
+    },
+    {
+        "id": 2628308,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628308",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 49,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1182/2023",
+        "dataApresentacao": "2026-05-27T13:34"
+    },
+    {
+        "id": 2628309,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628309",
+        "siglaTipo": "RPD",
+        "codTipo": 336,
+        "numero": 47,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Votação - PL 1156/2021",
+        "dataApresentacao": "2026-05-27T13:30"
+    },
+    {
+        "id": 2628310,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628310",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4358/2021",
+        "dataApresentacao": "2026-05-27T13:35"
+    },
+    {
+        "id": 2628311,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628311",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 7009/2025",
+        "dataApresentacao": "2026-05-27T13:42"
+    },
+    {
+        "id": 2628312,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628312",
+        "siglaTipo": "RPD",
+        "codTipo": 1042,
+        "numero": 48,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 1156/2021-Requerimento de Adiamento da Votação - PL 1156/2021",
+        "dataApresentacao": "2026-05-27T13:30"
+    },
+    {
+        "id": 2628313,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628313",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 7009/2025-Requerimento de Retirada de Matéria da Pauta - PL 7009/2025",
+        "dataApresentacao": "2026-05-27T13:42"
+    },
+    {
+        "id": 2628314,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628314",
+        "siglaTipo": "RPD",
+        "codTipo": 1042,
+        "numero": 50,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 1182/2023-Requerimento de Adiamento da Votação - PL 1182/2023",
+        "dataApresentacao": "2026-05-27T13:04"
+    },
+    {
+        "id": 2628315,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628315",
+        "siglaTipo": "RPD",
+        "codTipo": 332,
+        "numero": 51,
+        "ano": 0,
+        "ementa": "Requerimento de Votação Nominal - PL 1182/2023",
+        "dataApresentacao": "2026-05-27T13:04"
+    },
+    {
+        "id": 2628316,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628316",
+        "siglaTipo": "RPD",
+        "codTipo": 1040,
+        "numero": 49,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 1156/2021-Requerimento de Adiamento da Discussão - PL 1156/2021",
+        "dataApresentacao": "2026-05-27T13:30"
+    },
+    {
+        "id": 2628317,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628317",
+        "siglaTipo": "RPD",
+        "codTipo": 1040,
+        "numero": 6,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 2765/2025-Requerimento de Adiamento da Discussão - PL 2765/2025",
+        "dataApresentacao": "2026-05-27T13:30"
+    },
+    {
+        "id": 2628318,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628318",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 52,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1182/2023-Requerimento de Retirada de Matéria da Pauta - PL 1182/2023",
+        "dataApresentacao": "2026-05-27T13:04"
+    },
+    {
+        "id": 2628319,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628319",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 53,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1182/2023-Requerimento de Retirada de Matéria da Pauta - PL 1182/2023",
+        "dataApresentacao": "2026-05-27T13:30"
+    },
+    {
+        "id": 2628320,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628320",
+        "siglaTipo": "RPD",
+        "codTipo": 1042,
+        "numero": 11,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 4057/2015-Requerimento de Adiamento da Votação - PL 4057/2015",
+        "dataApresentacao": "2026-05-27T13:15"
+    },
+    {
+        "id": 2628321,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628321",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 50,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1156/2021-Requerimento de Retirada de Matéria da Pauta",
+        "dataApresentacao": "2026-05-27T13:15"
+    },
+    {
+        "id": 2628322,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628322",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 51,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1156/2021-Requerimento de Retirada de Matéria da Pauta",
+        "dataApresentacao": "2026-05-27T13:15"
+    },
+    {
+        "id": 2628323,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628323",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 7,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 2765/2025-Requerimento de Retirada de Matéria da Pauta - PL 2765/2025",
+        "dataApresentacao": "2026-05-27T13:30"
+    },
+    {
+        "id": 2628324,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628324",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 52,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1156/2021-Requerimento de Retirada de Matéria da Pauta - PL 1156/2021",
+        "dataApresentacao": "2026-05-27T13:31"
+    },
+    {
+        "id": 2628325,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628325",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 5,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 4212/2021-Requerimento de Retirada de Matéria da Pauta - PL 4212/2021",
+        "dataApresentacao": "2026-05-27T13:35"
+    },
+    {
+        "id": 2628326,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628326",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 12,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 4057/2015-Requerimento de Retirada de Matéria da Pauta - PL 4057/2015",
+        "dataApresentacao": "2026-05-27T13:31"
+    },
+    {
+        "id": 2628327,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628327",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 54,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1182/2023-Requerimento de Retirada de Matéria da Pauta - PL 1182/2023",
+        "dataApresentacao": "2026-05-27T13:33"
+    },
+    {
+        "id": 2628328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628328",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 53,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1156/2021-Requerimento de Retirada de Matéria da Pauta - PL 1156/2021",
+        "dataApresentacao": "2026-05-27T13:35"
+    },
+    {
+        "id": 2628329,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628329",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 8,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 2765/2025-Requerimento de Retirada de Matéria da Pauta - PL 2765/2025",
+        "dataApresentacao": "2026-05-27T13:34"
+    },
+    {
+        "id": 2628330,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628330",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 4358/2021-Requerimento de Retirada de Matéria da Pauta - PL 4358/2021",
+        "dataApresentacao": "2026-05-27T13:35"
+    },
+    {
+        "id": 2628331,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628331",
+        "siglaTipo": "RPD",
+        "codTipo": 332,
+        "numero": 6,
+        "ano": 0,
+        "ementa": "Requerimento de Votação Nominal - PL 4212/2021",
+        "dataApresentacao": "2026-05-27T13:15"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "ano": 2026,
+        "mes": 4,
+        "tipoDespesa": "PASSAGEM AÉREA - RPA",
+        "codDocumento": "1778710",
+        "tipoDocumento": "Nota Fiscal",
+        "codTipoDocumento": 0,
+        "dataDocumento": "2026-04-17T00:00:00",
+        "numDocumento": "Bilhete: 9574470105953",
+        "valorDocumento": 226.8,
+        "urlDocumento": null,
+        "nomeFornecedor": "Cia Aérea - TAM",
+        "cnpjCpfFornecedor": "02012862000160",
+        "valorLiquido": 226.8,
+        "valorGlosa": 0.0,
+        "numRessarcimento": "0",
+        "codLote": 0,
+        "parcela": 0
+    },
+    {
+        "ano": 2026,
+        "mes": 4,
+        "tipoDespesa": "PASSAGEM AÉREA - RPA",
+        "codDocumento": "1778711",
+        "tipoDocumento": "Nota Fiscal",
+        "codTipoDocumento": 0,
+        "dataDocumento": "2026-04-17T00:00:00",
+        "numDocumento": "Bilhete: 9574470105957",
+        "valorDocumento": 226.8,
+        "urlDocumento": null,
+        "nomeFornecedor": "Cia Aérea - TAM",
+        "cnpjCpfFornecedor": "02012862000160",
+        "valorLiquido": 226.8,
+        "valorGlosa": 0.0,
+        "numRessarcimento": "0",
+        "codLote": 0,
+        "parcela": 0
+    }
+]

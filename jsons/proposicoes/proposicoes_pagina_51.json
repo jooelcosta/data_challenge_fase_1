@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 2627291,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627291",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 2253/2024",
+        "dataApresentacao": "2026-05-22T15:13"
+    },
+    {
+        "id": 2627292,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627292",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 69,
+        "ano": 2026,
+        "ementa": "Requer a realização de Audiência Pública na CREDN para discussão do tema: “Defesa Nacional e a Base Industrial de Defesa”.",
+        "dataApresentacao": "2026-05-22T10:51"
+    },
+    {
+        "id": 2627293,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627293",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Socorro Neri (PP-AC), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-05-22T11:21"
+    },
+    {
+        "id": 2627294,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627294",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 4596/2025",
+        "dataApresentacao": "2026-05-22T15:17"
+    },
+    {
+        "id": 2627295,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627295",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CDHMIR) ao PL 4596/2025",
+        "dataApresentacao": "2026-05-22T15:17"
+    },
+    {
+        "id": 2627296,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627296",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Altera a Lei Complementar n° 141, de 13 de janeiro de 2012, para inserir o custo amazônico e dá outras providências.",
+        "dataApresentacao": "2026-05-22T11:21"
+    },
+    {
+        "id": 2627298,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627298",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CDHMIR) ao PL 543/2024",
+        "dataApresentacao": "2026-05-22T15:32"
+    },
+    {
+        "id": 2627299,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627299",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 543/2024",
+        "dataApresentacao": "2026-05-22T15:32"
+    },
+    {
+        "id": 2627300,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627300",
+        "siglaTipo": "MSC",
+        "codTipo": 412,
+        "numero": 428,
+        "ano": 2026,
+        "ementa": "Comunica o Excelentíssimo Senhor Presidente da República a sanção do Projeto de Lei nº 3.257, de 2019, que \"Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para incluir, como causa de afastamento do agressor, o risco à integridade sexual, moral ou patrimonial da mulher ou de seus dependentes\" restitui, para o arquivo do Congresso Nacional, autógrafo do texto ora convertido na Lei nº 15.411, de 20 de maio de 2026.",
+        "dataApresentacao": "2026-05-22T15:00"
+    },
+    {
+        "id": 2627301,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627301",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2562,
+        "ano": 2026,
+        "ementa": "Acrescenta a alínea k ao inciso II do art. 8º da Lei nº 9.250, de 26 de dezembro de 1995, para admitir a dedução de despesas com saúde veterinária, alimentação e bem-estar de animais domésticos na apuração da base de cálculo do Imposto de Renda da Pessoa Física.",
+        "dataApresentacao": "2026-05-22T15:08"
+    },
+    {
+        "id": 2627302,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627302",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1447,
+        "ano": 2026,
+        "ementa": "Requer informações ao Senhor Ministro de Estado da Saúde acerca dos critérios técnicos, científicos, jurídicos e orçamentais que fundamentaram a adoção do termo \"pessoas que gestam\" em substituição ou omissão ao termo \"mãe\" e “mulher”, bem como os custos financeiros envolvidos na revisão editorial e reedição da nova \"Caderneta Brasileira da Gestante\".",
+        "dataApresentacao": "2026-05-22T15:11"
+    },
+    {
+        "id": 2627303,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627303",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2563,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 12.527, de 18 de novembro de 2011, para estabelecer a obrigatoriedade de divulgação de estatísticas de ocupação de cargos, funções e empregos por homens e mulheres na administração pública.",
+        "dataApresentacao": "2026-05-22T15:29"
+    },
+    {
+        "id": 2627304,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627304",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2564,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990, para incluir no rol dos crimes hediondos o crime de venda ou exposição à venda de fotografia, vídeo ou outro registro que contenha cena de sexo explícito ou pornográfica envolvendo criança ou adolescente.",
+        "dataApresentacao": "2026-05-22T15:33"
+    },
+    {
+        "id": 2627307,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627307",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 37,
+        "ano": 2026,
+        "ementa": "Requer a realização de audiência pública para debater educação domiciliar, liberdade educacional e segurança jurídica para crianças e suas famílias.",
+        "dataApresentacao": "2026-05-22T15:42"
+    },
+    {
+        "id": 2627308,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627308",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. André Figueiredo (PDT-CE), pela aprovação.",
+        "dataApresentacao": "2026-05-20T09:40"
+    },
+    {
+        "id": 2627309,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627309",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. André Figueiredo (PDT-CE), pela aprovação.",
+        "dataApresentacao": "2026-05-20T09:40"
+    },
+    {
+        "id": 2627310,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627310",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Julio Cesar Ribeiro (REPUBLIC-DF), pela aprovação.",
+        "dataApresentacao": "2026-05-22T15:29"
+    },
+    {
+        "id": 2627311,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627311",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2565,
+        "ano": 2026,
+        "ementa": "Acrescenta os §§ 1º-D e 1º-E ao art. 32 da Lei nº 9.605, de 12 de fevereiro de 1998, para prever causa de aumento de pena para o crime de maus-tratos a animais quando a conduta for gravada, transmitida ao vivo ou divulgada em meios digitais com finalidade de promoção, incentivo, normalização ou obtenção de vantagem.",
+        "dataApresentacao": "2026-05-22T15:48"
+    },
+    {
+        "id": 2627312,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627312",
+        "siglaTipo": "MSC",
+        "codTipo": 412,
+        "numero": 429,
+        "ano": 2026,
+        "ementa": "Comunica o Excelentíssimo Senhor Presidente da República a sanção do Projeto de Lei nº 5.609, de 2019, que \"Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para dispor sobre a aplicação das medidas protetivas de urgência em geral e estipular que aquelas de natureza cível constituem título executivo judicial de pleno direito e dispensam propositura de ação principal\" restitui, para o arquivo do congresso Nacional, autógrafo do texto ora convertido na Lei nº 15.412, de 20 de maio de 2026.",
+        "dataApresentacao": "2026-05-22T15:53"
+    },
+    {
+        "id": 2627313,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627313",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Ricardo Ayres (REPUBLIC-TO), pela constitucionalidade, juridicidade, técnica legislativa e, no mérito, pela aprovação do PL 3330/24 e do PL 3678/24, apensado, na forma do Substitutivo da Comissão de Viação e Transportes, com subemenda substitutiva.",
+        "dataApresentacao": "2026-05-22T15:55"
+    },
+    {
+        "id": 2627314,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627314",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2566,
+        "ano": 2026,
+        "ementa": "Altera o caput e o § 1º-A do art. 32 da Lei nº 9.605, de 12 de fevereiro de 1998, para aumentar as penas aplicáveis ao crime de maus-tratos contra animais e uniformizar o tratamento penal entre as diferentes espécies.",
+        "dataApresentacao": "2026-05-22T15:55"
+    },
+    {
+        "id": 2627315,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627315",
+        "siglaTipo": "SBR",
+        "codTipo": 709,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-22T16:11"
+    },
+    {
+        "id": 2627316,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627316",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Laura Carneiro (PSD-RJ), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária do PL 3076, de 2024, na forma do Substitutivo da CSAUDE, com as Subemendas de Adequação apresentadas.",
+        "dataApresentacao": "2026-05-22T15:36"
+    },
+    {
+        "id": 2627317,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627317",
+        "siglaTipo": "SBR",
+        "codTipo": 709,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-22T16:26"
+    },
+    {
+        "id": 2627318,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627318",
+        "siglaTipo": "SBR",
+        "codTipo": 709,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-22T16:26"
+    },
+    {
+        "id": 2627319,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627319",
+        "siglaTipo": "SBR",
+        "codTipo": 709,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-22T16:26"
+    },
+    {
+        "id": 2627320,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627320",
+        "siglaTipo": "SBR",
+        "codTipo": 709,
+        "numero": 5,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-22T16:26"
+    },
+    {
+        "id": 2627321,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627321",
+        "siglaTipo": "SBR",
+        "codTipo": 709,
+        "numero": 6,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-22T16:26"
+    },
+    {
+        "id": 2627322,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627322",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 35,
+        "ano": 2026,
+        "ementa": "Requer aditamento de convidado para a reunião de audiência pública para debater a estrutura, a evolução e os impactos das taxas de juros do cartão de crédito no Brasil, especialmente na modalidade rotativo, com foco na avaliação da eficácia das medidas regulatórias vigentes, na análise do spread bancário, do nível de concorrência no sistema financeiro e na proteção do consumidor, objeto do REQUERIMENTO Nº 32, DE 2026, aprovado por este Colegiado em 20 de maio de 2026.",
+        "dataApresentacao": "2026-05-22T13:08"
+    },
+    {
+        "id": 2627323,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627323",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. General Pazuello (PL-RJ), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-05-22T11:14"
+    },
+    {
+        "id": 2627324,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627324",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Dispõe sobre a destinação, para o Ministério da Defesa, das receitas obtidas com a alienação de bens móveis e imóveis das Forças Armadas, com a finalidade de investimento e melhor estruturação da Pasta; e dá outras providências.",
+        "dataApresentacao": "2026-05-22T11:14"
+    },
+    {
+        "id": 2627325,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627325",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Bohn Gass (PT-RS), pela APROVAÇÃO na forma do Projeto de Decreto Legislativo apresentado.",
+        "dataApresentacao": "2026-05-22T16:54"
+    },
+    {
+        "id": 2627331,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627331",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Pastor Henrique Vieira (PSOL-RJ), pela aprovação deste, com substitutivo.",
+        "dataApresentacao": "2026-05-22T15:48"
+    },
+    {
+        "id": 2627332,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627332",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Institui o Dia Nacional do Orgulho Rubro-Negro, a ser celebrado anualmente em 13 de dezembro, em homenagem à conquista do Campeonato Mundial Interclubes de 1981 pelo Clube de Regatas do Flamengo e à relevância cultural do futebol na identidade nacional.",
+        "dataApresentacao": "2026-05-22T15:48"
+    },
+    {
+        "id": 2627333,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627333",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2567,
+        "ano": 2026,
+        "ementa": "Confere ao Município de Mangaratiba, no Estado do Rio de Janeiro, o título de Capital Nacional do Boto-Cinza.",
+        "dataApresentacao": "2026-05-22T17:50"
+    },
+    {
+        "id": 2627334,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627334",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2568,
+        "ano": 2026,
+        "ementa": "Altera o inciso VI do art. 20 da Lei nº 8.036, de 11 de maio de 1990, para reduzir o interstício mínimo entre utilizações do FGTS para amortização ou liquidação de financiamento imobiliário e estender essa faculdade a financiamentos fora do âmbito do Sistema Financeiro da Habitação.",
+        "dataApresentacao": "2026-05-22T18:16"
+    },
+    {
+        "id": 2627335,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627335",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3079,
+        "ano": 2026,
+        "ementa": "Requer a retirada do  apoiamento à Emenda Nº 2, na PEC Nº 221 de 2019.",
+        "dataApresentacao": "2026-05-22T18:57"
+    },
+    {
+        "id": 2627337,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627337",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 49,
+        "ano": 2026,
+        "ementa": "Requer aprovação de Moção de Aplausos a Marina Sena, por sua trajetória artística e por seu compromisso com a valorização das culturas populares, das ancestralidades e da diversidade dos povos do Brasil.",
+        "dataApresentacao": "2026-05-24T11:47"
+    },
+    {
+        "id": 2627338,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627338",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 50,
+        "ano": 2026,
+        "ementa": "Requer aprovação de Moção de Aplausos à Mídia Indígena, pela trajetória e compromisso com a comunicação indígena no Brasil e pelas campanhas “Brasil Indígena, Terra Demarcada” e “Brasil Merece Respeito”, em defesa dos povos originários e dos territórios tradicionais.",
+        "dataApresentacao": "2026-05-24T12:07"
+    },
+    {
+        "id": 2627339,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627339",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 51,
+        "ano": 2026,
+        "ementa": "Requer a aprovação de Moção de Aplausos à Sueli Maxakali, por sua trajetória de valorização da cultura, da língua e dos saberes ancestrais do povo Tikm?’?n-Maxakali, e por sua atuação na defesa dos direitos dos povos indígenas, das mulheres indígenas e dos territórios tradicionais.",
+        "dataApresentacao": "2026-05-24T13:54"
+    },
+    {
+        "id": 2627340,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627340",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 52,
+        "ano": 2026,
+        "ementa": "Requer aprovação de Moção de Aplausos à Mídia Ninja, pelo compromisso e trajetória na democratização da comunicação e na visibilização das lutas dos povos indígenas, quilombolas, tradicionais e dos movimentos populares do Brasil.",
+        "dataApresentacao": "2026-05-24T11:56"
+    },
+    {
+        "id": 2627341,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627341",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 53,
+        "ano": 2026,
+        "ementa": "Requer a aprovação de Moção de Aplausos aos Brô MCs, primeiro grupo de rap indígena do mundo a cantar na língua nativa, por sua contribuição à valorização da juventude indígena por meio da cultura do rap.",
+        "dataApresentacao": "2026-05-24T14:19"
+    },
+    {
+        "id": 2627342,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627342",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 54,
+        "ano": 2026,
+        "ementa": "Requer a aprovação de Moção de Aplausos à Djuena Tikuna, cantora, jornalista, ativista, produtora cultural e documentarista indígena do povo Tikuna, por utilizar a arte como ferramenta de valorização das culturas indígenas, da ancestralidade e da defesa dos direitos dos povos originários.",
+        "dataApresentacao": "2026-05-24T14:40"
+    },
+    {
+        "id": 2627343,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627343",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 55,
+        "ano": 2026,
+        "ementa": "Requer a aprovação de Moção de Aplausos à Gean Pankararu, cantor e compositor indígena, por sua contribuição à música contemporânea e ao fortalecimento da presença originária nos espaços culturais e artísticos do Brasil.",
+        "dataApresentacao": "2026-05-24T15:14"
+    },
+    {
+        "id": 2627344,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627344",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 56,
+        "ano": 2026,
+        "ementa": "Requer a aprovação de Moção de Aplausos à Eric Terena, comunicador, ativista climático, DJ e artista indígena, por sua contribuição à comunicação indígena contemporânea, à valorização das culturas originárias e à defesa da justiça climática, dos territórios indígenas e dos direitos dos povos originários.",
+        "dataApresentacao": "2026-05-24T15:35"
+    },
+    {
+        "id": 2627345,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627345",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 57,
+        "ano": 2026,
+        "ementa": "Requer a aprovação de Moção de Aplausos à Zé Fiuza Xakriabá, por sua trajetória em defesa dos territórios tradicionais, da memória ancestral e dos direitos dos povos originários.",
+        "dataApresentacao": "2026-05-24T16:05"
+    },
+    {
+        "id": 2627346,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627346",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1448,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado Advogado-Geral da União, Sr. Jorge Messias, sobre as providências adotadas pela Advocacia-Geral da União para identificar, impugnar, cancelar e prevenir pagamentos indevidos de precatórios federais expedidos de forma irregular, inclusive aqueles vinculados ao Tribunal Regional Federal da 1ª Região, bem como sobre medidas de governança, controle e cooperação interinstitucional relacionadas ao tema.",
+        "dataApresentacao": "2026-05-22T19:30"
+    },
+    {
+        "id": 2627347,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627347",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2569,
+        "ano": 2026,
+        "ementa": "Altera a Lei no 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para prever a promoção pelos estabelecimentos de ensino de medidas de conscientização sobre os direitos da criança e do adolescente, os mecanismos de proteção infantil e os canais de denúncia e ajuda.",
+        "dataApresentacao": "2026-05-23T17:47"
+    },
+    {
+        "id": 2627348,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627348",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3080,
+        "ano": 2026,
+        "ementa": "Requer a retirada de assinatura das emendas nº 1 e 2 apresentadas à PEC 221, de 2019.",
+        "dataApresentacao": "2026-05-24T16:29"
+    },
+    {
+        "id": 2627349,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627349",
+        "siglaTipo": "REQ",
+        "codTipo": 318,
+        "numero": 3081,
+        "ano": 2026,
+        "ementa": "Requer a inclusão de item na Ordem do Dia.",
+        "dataApresentacao": "2026-05-25T06:45"
+    },
+    {
+        "id": 2627350,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627350",
+        "siglaTipo": "REQ",
+        "codTipo": 1017,
+        "numero": 257,
+        "ano": 2026,
+        "ementa": "solicita informações ao Ministério da Justiça e de Segurança Pública, por meio do Senhor Diretor-Geral da Polícia Rodoviária Federal, acerca de suposto monitoramento irregular de parlamentares e ex-parlamentares por estruturas de inteligência da PRF.",
+        "dataApresentacao": "2026-05-22T15:36"
+    },
+    {
+        "id": 2627351,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627351",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 258,
+        "ano": 2026,
+        "ementa": "Requer a aprovação de Moção de Louvor ao Delegado Alexandre Ramagem Rodrigues, em reconhecimento aos relevantes serviços prestados à Segurança Pública, ao combate ao crime organizado e à defesa da Democracia.",
+        "dataApresentacao": "2026-05-22T15:40"
+    },
+    {
+        "id": 2627352,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627352",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 259,
+        "ano": 2026,
+        "ementa": "Requer o registro de Moção de Louvor e Regozijo aos senhores ALEXANDRE MAGNANI MOTA RICARDO GRECCHI AGUIAR e MATHEUS MELO TEIXEIRA SOARES, do Instituto Brasil Seguro, pelos trabalhos desenvolvidos em favor da Segurança Pública e Defesa Nacional.",
+        "dataApresentacao": "2026-05-25T09:18"
+    },
+    {
+        "id": 2627353,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627353",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 3082,
+        "ano": 2026,
+        "ementa": "Requer, nos termos do art. 117, inciso XIX e § 4º, do Regimento Interno da Câmara dos Deputados, a aprovação de Moção de Repúdio à sentença proferida pelo Juiz Júnior da Luz Miranda, da 2ª Vara Criminal da Comarca de Jales/SP, que condenou casal pelo exercício responsável do ensino domiciliar de suas filhas.",
+        "dataApresentacao": "2026-05-25T09:12"
+    },
+    {
+        "id": 2627354,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627354",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Padre João (PT-MG), pela aprovação do PL 6272/2019 e do PL 372/2020, apensado, e do Substitutivo da Comissão de Educação, com substitutivo.",
+        "dataApresentacao": "2026-05-23T21:48"
+    },
+    {
+        "id": 2627355,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627355",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3083,
+        "ano": 2026,
+        "ementa": "Requer a retirada de assinatura das Emendas EMC nº 1 (CD268682715700) e EMC nº 2 (CD266254769000) à Proposta de Emenda à Constituição nº 221, de 2019.",
+        "dataApresentacao": "2026-05-25T09:37"
+    },
+    {
+        "id": 2627356,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627356",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3084,
+        "ano": 2026,
+        "ementa": "Requer a retirada de assinatura em da EMENDA nº. 01 da PEC nº 221, de 2019..",
+        "dataApresentacao": "2026-05-25T09:44"
+    },
+    {
+        "id": 2627357,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627357",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Altera os arts. 1º, 2º, 8º e 11 da Lei nº 11.947, de 16 de junho de 2009, para especificar definições referentes ao Programa Nacional de Alimentação Escolar (Pnae).",
+        "dataApresentacao": "2026-05-23T21:48"
+    },
+    {
+        "id": 2627358,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627358",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Max Lemos (UNIÃO-RJ), pela aprovação.",
+        "dataApresentacao": "2026-05-25T10:06"
+    },
+    {
+        "id": 2627359,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627359",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 4462/2024",
+        "dataApresentacao": "2026-05-25T10:18"
+    },
+    {
+        "id": 2627360,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627360",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CSAUDE) ao PL 4462/2024",
+        "dataApresentacao": "2026-05-25T10:19"
+    },
+    {
+        "id": 2627361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627361",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CSAUDE) ao PL 4183/2025",
+        "dataApresentacao": "2026-05-25T10:24"
+    },
+    {
+        "id": 2627362,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627362",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 4183/2025",
+        "dataApresentacao": "2026-05-25T10:24"
+    },
+    {
+        "id": 2627363,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627363",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Duda Salabert (PSOL-MG), pela aprovação.",
+        "dataApresentacao": "2026-05-22T16:44"
+    },
+    {
+        "id": 2627364,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627364",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CSAUDE) ao PL 5452/2025",
+        "dataApresentacao": "2026-05-25T10:28"
+    },
+    {
+        "id": 2627365,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627365",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 5452/2025",
+        "dataApresentacao": "2026-05-25T10:29"
+    },
+    {
+        "id": 2627366,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627366",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 3085,
+        "ano": 2026,
+        "ementa": "Requer Requer “Moção de Aplauso” aos 40 anos da Rádio Mantiqueira que nasceu em 17 de dezembro de 1985, tornando-se o primeiro meio de comunicação de Niquelândia, Goiás.",
+        "dataApresentacao": "2026-05-25T09:56"
+    },
+    {
+        "id": 2627367,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627367",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Cezinha de Madureira (PL-SP), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-05-22T10:46"
+    },
+    {
+        "id": 2627368,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627368",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CSAUDE) ao PL 5455/2025",
+        "dataApresentacao": "2026-05-25T10:33"
+    },
+    {
+        "id": 2627369,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627369",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 5455/2025",
+        "dataApresentacao": "2026-05-25T10:33"
+    },
+    {
+        "id": 2627370,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627370",
+        "siglaTipo": "REQ",
+        "codTipo": 392,
+        "numero": 3086,
+        "ano": 2026,
+        "ementa": "Requer, nos termos do art. 155 do RICD, urgência para o Projeto de Lei nº 3.505/2023, que dispõe sobre a criação da Universidade Federal de Rio Verde (UFRV), por desmembramento do campus Rio Verde do Instituto Federal Goiano.",
+        "dataApresentacao": "2026-05-25T10:11"
+    },
+    {
+        "id": 2627371,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627371",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Duda Salabert (PSOL-MG), pela aprovação do PL 260/2026, com substitutivo.",
+        "dataApresentacao": "2026-05-22T16:47"
+    },
+    {
+        "id": 2627372,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627372",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CSAUDE) ao PL 5981/2025",
+        "dataApresentacao": "2026-05-25T10:36"
+    },
+    {
+        "id": 2627373,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627373",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Institui o Protocolo Nacional de Atendimento Humanizado às Mulheres em Situação de Violência a ser adotado, em todo o território nacional, pelas Delegacias Especializadas de Atendimento à Mulher (DEAMs) e demais unidades policiais que dispensam atendimento às mulheres em situação de violência.",
+        "dataApresentacao": "2026-05-22T16:47"
+    },
+    {
+        "id": 2627374,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627374",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CSAUDE) ao PL 6207/2025",
+        "dataApresentacao": "2026-05-25T10:38"
+    },
+    {
+        "id": 2627375,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627375",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CSAUDE) ao PL 6385/2025",
+        "dataApresentacao": "2026-05-25T10:40"
+    },
+    {
+        "id": 2627376,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627376",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1449,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado de Minas e Energia, Sr. Alexandre Silveira de Oliveira, a respeito da campanha publicitária veiculada pela Petróleo Brasileiro S/A – Petrobras sobre sua atuação e a atuação do Governo Federal na mitigação dos impactos da guerra no Irã no mercado nacional de combustíveis.",
+        "dataApresentacao": "2026-05-25T10:25"
+    },
+    {
+        "id": 2627377,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627377",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Altera a Lei nº 11.442, de 5 de janeiro de 2007, para especificar a responsabilidade pela comunicação prévia da chegada da carga em caso de subcontratação e para dispor sobre o direito à estadia dos Transportadores Autônomos de Cargas.",
+        "dataApresentacao": "2026-05-22T10:46"
+    },
+    {
+        "id": 2627378,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627378",
+        "siglaTipo": "REQ",
+        "codTipo": 625,
+        "numero": 47,
+        "ano": 2026,
+        "ementa": "Requer, nos termos dos incisos I e II do art. 164, do Regimento Interno da Câmara dos Deputados, declaração de prejudicialidade do Projeto de Lei nº 4.881, de 2019, por haver perdido a oportunidade em virtude de prejulgamento da matéria pelo Plenário da Câmara dos Deputados, em outra deliberação, consubstanciada na aprovação do PL nº 399/2025.",
+        "dataApresentacao": "2026-05-25T10:25"
+    },
+    {
+        "id": 2627379,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627379",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CVT) ao PDL 1026/2025",
+        "dataApresentacao": "2026-05-25T10:46"
+    },
+    {
+        "id": 2627380,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627380",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Sargento Fahur (PL-PR), pela aprovação do PL 6.040/2025 e da Emenda 1/2026 da CSPCCO, com substitutivo.",
+        "dataApresentacao": "2026-05-22T17:11"
+    },
+    {
+        "id": 2627381,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627381",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Dispõe sobre a obrigatoriedade de assistência jurídica aos agentes de segurança pública e dá outras providências.",
+        "dataApresentacao": "2026-05-22T17:11"
+    },
+    {
+        "id": 2627382,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627382",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CVT) ao PL 6727/2016",
+        "dataApresentacao": "2026-05-25T10:49"
+    },
+    {
+        "id": 2627383,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627383",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Joaquim Passarinho (PL-PA), pela rejeição.",
+        "dataApresentacao": "2026-05-25T10:25"
+    },
+    {
+        "id": 2627384,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627384",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CVT) ao PL 1471/2022",
+        "dataApresentacao": "2026-05-25T10:52"
+    },
+    {
+        "id": 2627385,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627385",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 1471/2022",
+        "dataApresentacao": "2026-05-25T10:52"
+    },
+    {
+        "id": 2627386,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627386",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CVT) ao PL 490/2023",
+        "dataApresentacao": "2026-05-25T10:53"
+    },
+    {
+        "id": 2627387,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627387",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 490/2023",
+        "dataApresentacao": "2026-05-25T10:53"
+    },
+    {
+        "id": 2627388,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627388",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CVT) ao PL 2433/2024",
+        "dataApresentacao": "2026-05-25T10:55"
+    },
+    {
+        "id": 2627389,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627389",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 2433/2024",
+        "dataApresentacao": "2026-05-25T10:56"
+    },
+    {
+        "id": 2627390,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627390",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CVT) ao PL 2843/2024",
+        "dataApresentacao": "2026-05-25T10:57"
+    },
+    {
+        "id": 2627391,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627391",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 2843/2024",
+        "dataApresentacao": "2026-05-25T10:57"
+    },
+    {
+        "id": 2627392,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627392",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CVT) ao PL 1541/2025",
+        "dataApresentacao": "2026-05-25T10:58"
+    },
+    {
+        "id": 2627393,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627393",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CVT) ao PL 5770/2025",
+        "dataApresentacao": "2026-05-25T10:59"
+    },
+    {
+        "id": 2627394,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627394",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 5770/2025",
+        "dataApresentacao": "2026-05-25T10:59"
+    },
+    {
+        "id": 2627395,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627395",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CVT) ao PL 5920/2025",
+        "dataApresentacao": "2026-05-25T11:00"
+    },
+    {
+        "id": 2627396,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627396",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CVT) ao PL 6300/2025",
+        "dataApresentacao": "2026-05-25T11:00"
+    },
+    {
+        "id": 2627397,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627397",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2570,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 9.503/1997 para dispor sobre a não aplicação da medida administrativa de remoção do veículo em determinadas hipóteses de estacionamento irregular, quando cessada imediatamente a infração antes do início do procedimento de guinchamento.",
+        "dataApresentacao": "2026-05-25T10:39"
+    },
+    {
+        "id": 2627398,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627398",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2571,
+        "ano": 2026,
+        "ementa": "Regulamenta a profissão de Faturista Médico-Hospitalar e dispõe sobre o exercício de suas atividades.",
+        "dataApresentacao": "2026-05-25T11:07"
+    },
+    {
+        "id": 2627399,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627399",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3087,
+        "ano": 2026,
+        "ementa": "Requer a retirada de assinatura das emendas nº 1 e 2 apresentadas à PEC 211, de 2019.",
+        "dataApresentacao": "2026-05-25T11:04"
+    }
+]

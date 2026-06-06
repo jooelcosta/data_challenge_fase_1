@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 2627913,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627913",
+        "siglaTipo": "REQ",
+        "codTipo": 354,
+        "numero": 3195,
+        "ano": 2026,
+        "ementa": "Requer Moção de Louvor e Regozijo ao GCM Sandro Deuslene de Souza pelos excelentes serviços prestados ao Município de Quatis.",
+        "dataApresentacao": "2026-05-26T18:18"
+    },
+    {
+        "id": 2627914,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627914",
+        "siglaTipo": "REQ",
+        "codTipo": 354,
+        "numero": 3196,
+        "ano": 2026,
+        "ementa": "Requer Moção de Louvor e Regozijo ao GCM Sebastião Benedito Reis pelos excelentes serviços prestados ao Município de Quatis.",
+        "dataApresentacao": "2026-05-26T18:19"
+    },
+    {
+        "id": 2627915,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627915",
+        "siglaTipo": "REQ",
+        "codTipo": 354,
+        "numero": 3197,
+        "ano": 2026,
+        "ementa": "Requer Moção de Louvor e Regozijo ao GCM Sérgio Murilo de Castro Silva pelos excelentes serviços prestados ao Município de Quatis.",
+        "dataApresentacao": "2026-05-26T18:20"
+    },
+    {
+        "id": 2627916,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627916",
+        "siglaTipo": "RPD",
+        "codTipo": 890,
+        "numero": 8,
+        "ano": 0,
+        "ementa": "Requerimento Procedimental Genérico - PL 4225/2023",
+        "dataApresentacao": "2026-05-26T18:22"
+    },
+    {
+        "id": 2627917,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627917",
+        "siglaTipo": "REQ",
+        "codTipo": 354,
+        "numero": 3198,
+        "ano": 2026,
+        "ementa": "Requer Moção de Louvor e Regozijo a GCM Thatiane Neves da Silva pelos excelentes serviços prestados ao Município de Quatis.",
+        "dataApresentacao": "2026-05-26T18:22"
+    },
+    {
+        "id": 2627918,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627918",
+        "siglaTipo": "DOC",
+        "codTipo": 1024,
+        "numero": 812,
+        "ano": 2026,
+        "ementa": "",
+        "dataApresentacao": "2026-05-26T17:53"
+    },
+    {
+        "id": 2627919,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627919",
+        "siglaTipo": "REQ",
+        "codTipo": 354,
+        "numero": 3199,
+        "ano": 2026,
+        "ementa": "Requer Moção de Louvor e Regozijo ao GCM Waldecyr Santos Da Costa pelos excelentes serviços prestados ao Município de Quatis.",
+        "dataApresentacao": "2026-05-26T18:24"
+    },
+    {
+        "id": 2627920,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627920",
+        "siglaTipo": "SBR",
+        "codTipo": 709,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Altera o § 1º do art. 1º da Lei nº 7.408, de 25 de novembro de 1985, para dispor sobre a fiscalização de peso em veículos de transporte.",
+        "dataApresentacao": "2026-05-26T17:14"
+    },
+    {
+        "id": 2627921,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627921",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 6153/2025",
+        "dataApresentacao": "2026-05-26T18:32"
+    },
+    {
+        "id": 2627922,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627922",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CPOVOS) ao PL 6153/2025",
+        "dataApresentacao": "2026-05-26T18:33"
+    },
+    {
+        "id": 2627923,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627923",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Aureo Ribeiro (SOLIDARI-RJ).",
+        "dataApresentacao": "2026-05-26T18:25"
+    },
+    {
+        "id": 2627924,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627924",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CPOVOS) ao PL 7094/2025",
+        "dataApresentacao": "2026-05-26T18:37"
+    },
+    {
+        "id": 2627925,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627925",
+        "siglaTipo": "EMP",
+        "codTipo": 870,
+        "numero": 5,
+        "ano": 0,
+        "ementa": "Emenda ao Projeto de Lei Complementar nº 114, de 2026.",
+        "dataApresentacao": "2026-05-26T18:41"
+    },
+    {
+        "id": 2627926,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627926",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Ana Paula Lima (PT-SC), pela rejeição.",
+        "dataApresentacao": "2026-05-26T17:12"
+    },
+    {
+        "id": 2627927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627927",
+        "siglaTipo": "REQ",
+        "codTipo": 304,
+        "numero": 3200,
+        "ano": 2026,
+        "ementa": "Requer a apensação do Projeto de Lei nº 562/2026 ao Projeto de Lei nº 101/2026, por tratarem de matérias correlatas e se encontrarem em fase em que se permite apensação, nos termos regimentais.",
+        "dataApresentacao": "2026-05-26T18:45"
+    },
+    {
+        "id": 2627928,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627928",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2618,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 — Código de Trânsito Brasileiro, para autorizar a substituição dos sistemas de iluminação veicular por tecnologia LED, observados critérios técnicos de segurança, certificação e regulagem, e dá outras providências.",
+        "dataApresentacao": "2026-05-26T18:45"
+    },
+    {
+        "id": 2627929,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627929",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2619,
+        "ano": 2026,
+        "ementa": "Altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração), para assegurar os direitos do proprietário ou possuidor do solo, limitar os efeitos do requerimento de autorização de pesquisa mineral e vedar a imposição de restrições indevidas ao uso regular da propriedade antes da efetiva implantação da atividade minerária autorizada.",
+        "dataApresentacao": "2026-05-26T18:46"
+    },
+    {
+        "id": 2627930,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627930",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Ana Paula Lima (PT-SC), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-05-26T17:22"
+    },
+    {
+        "id": 2627931,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627931",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2620,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional de Aproveitamento Técnico-Operacional de Militares Egressos das Forças Armadas nas Instituições de Segurança Pública dos Estados, do Distrito Federal e dos Territórios, estabelece normas gerais para ingresso mediante processo seletivo simplificado e curso de formação específico, e dá outras providências.",
+        "dataApresentacao": "2026-05-26T18:47"
+    },
+    {
+        "id": 2627932,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627932",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Dispõe sobre o acréscimo de informações sobre violência de gênero nos componentes curriculares obrigatórios constantes na Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).",
+        "dataApresentacao": "2026-05-26T17:22"
+    },
+    {
+        "id": 2627933,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627933",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2621,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional “Mais Autoestima”, destinado à promoção da autoestima, do bem-estar, da dignidade humana e da inclusão social de mulheres em situação de vulnerabilidade socioeconômica, por meio do acesso gratuito e contínuo a ações de autocuidado, estética social e valorização pessoal, e dá outras providências.",
+        "dataApresentacao": "2026-05-26T18:48"
+    },
+    {
+        "id": 2627936,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627936",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2622,
+        "ano": 2026,
+        "ementa": "Institui a Política Nacional de Apoio e Proteção às Famílias Atípicas, cria o Auxílio Nacional de Apoio à Pessoa com Transtorno do Espectro Autista e outras deficiências que demandem cuidados permanentes, e dá outras providências.",
+        "dataApresentacao": "2026-05-26T18:49"
+    },
+    {
+        "id": 2627937,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627937",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2623,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional CNH Social, destinado à gratuidade da formação, qualificação e habilitação de condutores de baixa renda em todo o território nacional, e dá outras providências;",
+        "dataApresentacao": "2026-05-26T18:50"
+    },
+    {
+        "id": 2627938,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627938",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2624,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional de Passe Livre Temporário para Trabalhadores Desempregados, destinado à garantia de gratuidade no transporte público coletivo urbano e semiurbano às pessoas em situação de desemprego involuntário, e dá outras providências",
+        "dataApresentacao": "2026-05-26T18:52"
+    },
+    {
+        "id": 2627939,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627939",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2625,
+        "ano": 2026,
+        "ementa": "Institui a Política Nacional de Universalização da Internet de Alta Velocidade nas Escolas Públicas da Educação Básica, e dá outras providências.",
+        "dataApresentacao": "2026-05-26T18:52"
+    },
+    {
+        "id": 2627940,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627940",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2626,
+        "ano": 2026,
+        "ementa": "Estabelece mecanismos de transparência, controle, limitação e proteção do consumidor contra reajustes abusivos nas tarifas de energia elétrica, altera a Lei nº 8.987, de 13 de fevereiro de 1995, a Lei nº 9.427, de 26 de dezembro de 1996, e dá outras providências.",
+        "dataApresentacao": "2026-05-26T18:53"
+    },
+    {
+        "id": 2627941,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627941",
+        "siglaTipo": "REQ",
+        "codTipo": 448,
+        "numero": 16,
+        "ano": 2026,
+        "ementa": "Requer o envio de ofício da Comissão de Turismo ao Ministério do Turismo para incluir, no calendário oficial de eventos daquela pasta, a Romaria de Nossa Senhora de Lourdes, que ocorre em Veranópolis, no Estado do Rio Grande do Sul.",
+        "dataApresentacao": "2026-05-26T18:37"
+    },
+    {
+        "id": 2627942,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627942",
+        "siglaTipo": "REQ",
+        "codTipo": 448,
+        "numero": 17,
+        "ano": 2026,
+        "ementa": "Requer o envio de ofício da Comissão de Turismo ao Ministério do Turismo para incluir, no calendário oficial de eventos daquela pasta, a Romaria de Nossa Senhora Consoladora de Ibiaçá, no Estado do Rio Grande do Sul.",
+        "dataApresentacao": "2026-05-26T18:39"
+    },
+    {
+        "id": 2627943,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627943",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, sobre solicitação de alteração de programação orçamentária decorrente de emenda de comissão à Lei Orçamentária Anual de 2026 (Lei nº 15.346, de 14 de janeiro de 2026).",
+        "dataApresentacao": "2026-05-26T18:52"
+    },
+    {
+        "id": 2627944,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627944",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Duda Ramos (PODE-RR), pela aprovação, com emendas.",
+        "dataApresentacao": "2026-05-26T18:23"
+    },
+    {
+        "id": 2627945,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627945",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Estabelece a Campanha Nacional de Estímulo ao Empreendedorismo Jovem, dispõe sobre a criação de ações e programas direcionados ao fomento do empreendedorismo entre os jovens, e dá outras providências.",
+        "dataApresentacao": "2026-05-26T18:23"
+    },
+    {
+        "id": 2627946,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627946",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Estabelece a Campanha Nacional de Estímulo ao Empreendedorismo Jovem, dispõe sobre a criação de ações e programas direcionados ao fomento do empreendedorismo entre os jovens, e dá outras providências.",
+        "dataApresentacao": "2026-05-26T18:23"
+    },
+    {
+        "id": 2627947,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627947",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Estabelece a Campanha Nacional de Estímulo ao Empreendedorismo Jovem, dispõe sobre a criação de ações e programas direcionados ao fomento do empreendedorismo entre os jovens, e dá outras providências.",
+        "dataApresentacao": "2026-05-26T18:23"
+    },
+    {
+        "id": 2627948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627948",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2627,
+        "ano": 2026,
+        "ementa": "Institui a Semana Niemeyer e dá outras providências.",
+        "dataApresentacao": "2026-05-26T19:03"
+    },
+    {
+        "id": 2627950,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627950",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Capitão Alden (PL-BA), pela aprovação do PL 302/26, com substitutivo.",
+        "dataApresentacao": "2026-05-26T17:43"
+    },
+    {
+        "id": 2627951,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627951",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Amplia o direito ao porte de arma de fogo para Guardas Civis Municipais e vigilantes, reduz exigências burocráticas, reconhece o risco permanente da atividade e fortalece a segurança pública por meio do armamento responsável.",
+        "dataApresentacao": "2026-05-26T17:43"
+    },
+    {
+        "id": 2627952,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627952",
+        "siglaTipo": "REQ",
+        "codTipo": 354,
+        "numero": 3201,
+        "ano": 2026,
+        "ementa": "Requer Moção de Louvor e Regozijo ao GCM Wallace Orlandino Ramos Da Silva pelos excelentes serviços prestados ao Município de Quatis.",
+        "dataApresentacao": "2026-05-26T19:06"
+    },
+    {
+        "id": 2627953,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627953",
+        "siglaTipo": "REQ",
+        "codTipo": 311,
+        "numero": 3202,
+        "ano": 2026,
+        "ementa": "Requer a retirada de tramitação e o arquivamento do PL 2093/2026, que institui o Programa Nacional de Reconhecimento Funcional do Período da Emergência Sanitária e altera a Lei Complementar nº 173, de 27 de maio de 2020, para assegurar o cômputo do tempo de serviço prestado entre 28 de maio de 2020 e 31 de dezembro de 2021 para fins de evolução funcional, adicionais por tempo de serviço e demais direitos correlatos dos servidores públicos civis e militares da União, dos Estados, do Distrito Federal e dos Municípios.",
+        "dataApresentacao": "2026-05-26T19:11"
+    },
+    {
+        "id": 2627954,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627954",
+        "siglaTipo": "PLP",
+        "codTipo": 140,
+        "numero": 145,
+        "ano": 2026,
+        "ementa": "Institui o Programa de Reconhecimento Funcional do Período da Emergência Sanitária e altera a Lei Complementar nº 173, de 27 de maio de 2020, para assegurar o cômputo do tempo de serviço prestado entre 28 de maio de 2020 e 31 de dezembro de 2021 para fins de evolução funcional, adicionais por tempo de serviço e demais direitos correlatos dos servidores públicos civis e militares da União, dos Estados, do Distrito Federal e dos Municípios.",
+        "dataApresentacao": "2026-05-26T19:11"
+    },
+    {
+        "id": 2627955,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627955",
+        "siglaTipo": "PPP",
+        "codTipo": 192,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Yury do Paredão (MDB-CE) pela: • Comissão de Turismo, que conclui pela aprovação do Projeto de Lei nº 1.602, de 2026, na forma do Substitutivo adotado. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 1.602, de 2026 e do Substitutivo adotado pelo relator da Comissão de Turismo.",
+        "dataApresentacao": "2026-05-26T13:55"
+    },
+    {
+        "id": 2627956,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627956",
+        "siglaTipo": "REQ",
+        "codTipo": 318,
+        "numero": 3203,
+        "ano": 2026,
+        "ementa": "Requer a inclusão na Ordem do Dia do PLP 185/2024.",
+        "dataApresentacao": "2026-05-26T19:15"
+    },
+    {
+        "id": 2627957,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627957",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-26T19:17"
+    },
+    {
+        "id": 2627958,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627958",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1472,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministro de Estado das Relações Exteriores sobre a lista de hóspedes das residências oficiais brasileiras no exterior e o cumprimento de decisão da Controladoria-Geral da União.",
+        "dataApresentacao": "2026-05-26T19:16"
+    },
+    {
+        "id": 2627959,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627959",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Sargento Portugal (PODE-RJ), pela aprovação do PL 6370/25, com substitutivo.",
+        "dataApresentacao": "2026-05-26T18:11"
+    },
+    {
+        "id": 2627960,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627960",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Zé Trovão (PL-SC), pela aprovação do PL 2816/25 e do PL 2857/25, apensado, com substitutivo.",
+        "dataApresentacao": "2026-05-26T18:42"
+    },
+    {
+        "id": 2627961,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627961",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Dispõe sobre medidas mínimas de segurança para motoristas e usuários de plataformas digitais de transporte individual remunerado e estabelece diretrizes para incentivo à atuação do poder público.",
+        "dataApresentacao": "2026-05-26T18:11"
+    },
+    {
+        "id": 2627962,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627962",
+        "siglaTipo": "REQ",
+        "codTipo": 448,
+        "numero": 48,
+        "ano": 2026,
+        "ementa": "Requer a criação de Subcomissão Especial destinada a debater e acompanhar a aplicação da norma Regulamentadora nº 1 (NR1) nas relações de trabalho, no âmbito da Comissão de Trabalho.",
+        "dataApresentacao": "2026-05-26T19:11"
+    },
+    {
+        "id": 2627963,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627963",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Altera o art. 181, inciso XVII, da Lei nº 9.503, de 23 de setembro de 1997 — Código de Trânsito Brasileiro — para estabelecer que a infração de estacionamento em desacordo com a sinalização regulamentadora seja punida apenas com multa, sem aplicação de pontos na Carteira Nacional de Habilitação.",
+        "dataApresentacao": "2026-05-26T18:42"
+    },
+    {
+        "id": 2627964,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627964",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Kiko Celeguim (PT-SP), pela aprovação, com emenda.",
+        "dataApresentacao": "2026-05-26T18:47"
+    },
+    {
+        "id": 2627965,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627965",
+        "siglaTipo": "EMR",
+        "codTipo": 257,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Denomina “Deputado Roberto Orro” a ponte sobre o rio Aquidauana localizada na rodovia BR-419, entre os Municípios de Aquidauana e Anastácio, no Estado de Mato Grosso do Sul",
+        "dataApresentacao": "2026-05-26T18:47"
+    },
+    {
+        "id": 2627966,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627966",
+        "siglaTipo": "REQ",
+        "codTipo": 311,
+        "numero": 3204,
+        "ano": 2026,
+        "ementa": "Requer a retirada do Projeto de Lei nº 2.597, de 2026.",
+        "dataApresentacao": "2026-05-26T19:20"
+    },
+    {
+        "id": 2627967,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627967",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2628,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a transferência da União para o Município de Nanuque, no Estado de Minas Gerais, de trecho da rodovia BR-418.",
+        "dataApresentacao": "2026-05-26T19:21"
+    },
+    {
+        "id": 2627968,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627968",
+        "siglaTipo": "DTQ",
+        "codTipo": 1011,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Destaque de Emenda - PLP 114/2026",
+        "dataApresentacao": "2026-05-26T19:26"
+    },
+    {
+        "id": 2627969,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627969",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1473,
+        "ano": 2026,
+        "ementa": "Requer informações à Excelentíssima Senhora Ministra de Estado da Igualdade Racial, Rachel Barros, acerca dos critérios técnicos, metodológicos e de segurança jurídica adotados pelas bancas de heteroidentificação em concursos públicos federais.",
+        "dataApresentacao": "2026-05-26T19:26"
+    },
+    {
+        "id": 2627970,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627970",
+        "siglaTipo": "DOC",
+        "codTipo": 1024,
+        "numero": 813,
+        "ano": 2026,
+        "ementa": "",
+        "dataApresentacao": "2026-05-26T19:32"
+    },
+    {
+        "id": 2627971,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627971",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2629,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a possibilidade de restrição judicial de acesso a estádios, arenas e eventos esportivos por pessoas condenadas por violência contra a mulher, crimes sexuais, maus-tratos aos animais e devedores de obrigação alimentar em situação de inadimplência reiterada, voluntária e injustificada, institui medidas socioeducativas de responsabilização, prevenção e reparação cívica, estabelece diretrizes de controle de acesso, proteção de dados pessoais e cooperação institucional, em consonância com a Lei Geral do Esporte, e dá outras providências.",
+        "dataApresentacao": "2026-05-26T19:30"
+    },
+    {
+        "id": 2627972,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627972",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1474,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado da Educação, Senhor Leonardo Barchini, acerca da aprovação de política de cotas para pessoas trans, travestis, transexuais, transgêneros e não binários pela Universidade Federal de Alagoas (UFAL), visando esclarecer a conformidade da medida com a Lei nº 12.711/2012 e os possíveis impactos na isonomia dos processos seletivos de ingresso ao ensino superior federal.",
+        "dataApresentacao": "2026-05-26T19:30"
+    },
+    {
+        "id": 2627973,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627973",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2630,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências, para estabelecer medidas de proteção da infância e da adolescência contra a publicidade, promoção comercial e oferta de alimentos ultraprocessados.",
+        "dataApresentacao": "2026-05-26T19:33"
+    },
+    {
+        "id": 2627974,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627974",
+        "siglaTipo": "DOC",
+        "codTipo": 1024,
+        "numero": 814,
+        "ano": 2026,
+        "ementa": "",
+        "dataApresentacao": "2026-05-26T19:40"
+    },
+    {
+        "id": 2627975,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627975",
+        "siglaTipo": "DOC",
+        "codTipo": 1024,
+        "numero": 815,
+        "ano": 2026,
+        "ementa": "",
+        "dataApresentacao": "2026-05-26T19:43"
+    },
+    {
+        "id": 2627977,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627977",
+        "siglaTipo": "REQ",
+        "codTipo": 313,
+        "numero": 3205,
+        "ano": 2026,
+        "ementa": "Requer a coautoria do Projeto de Lei nº 68 de 2025 que \"Altera a Lei nº 14.192, de 2021, e a Lei nº 4.737, de 1965 (Código Eleitoral)” para incluir medidas específicas de proteção e apoio a mulheres em espaços de poder que sofram violência política de gênero.",
+        "dataApresentacao": "2026-05-26T19:44"
+    },
+    {
+        "id": 2627978,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627978",
+        "siglaTipo": "REQ",
+        "codTipo": 311,
+        "numero": 3206,
+        "ano": 2026,
+        "ementa": "Solicito retirada de tramitação do PL 1083/2026 baseado no Art. 104 do RICD",
+        "dataApresentacao": "2026-05-26T19:48"
+    },
+    {
+        "id": 2627979,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627979",
+        "siglaTipo": "PRLP",
+        "codTipo": 891,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Dispõe sobre o tempo máximo de espera para atendimento de crianças e adolescentes no âmbito da saúde.",
+        "dataApresentacao": "2026-05-26T20:14"
+    },
+    {
+        "id": 2627980,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627980",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Sâmia Bomfim (PSOL-SP), pela aprovação do PL 2823/2025, do PL 5279/2025, e do PL 6039/2025, apensados, com substitutivo.",
+        "dataApresentacao": "2026-05-26T20:10"
+    },
+    {
+        "id": 2627981,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627981",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1475,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado das Relações Exteriores sobre a recusa de suporte institucional e cessão de espaço pela Embaixada do Brasil em Washington para atendimento à imprensa pelo Senador Flávio Bolsonaro, após reunião com o Presidente dos Estados Unidos da América, Donald Trump, ocorrida em 26 de maio de 2026.",
+        "dataApresentacao": "2026-05-26T20:18"
+    },
+    {
+        "id": 2627983,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627983",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Altera a Lei nº 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) para dispor sobre a inclusão do tema da violência contra as mulheres nos currículos escolares.",
+        "dataApresentacao": "2026-05-26T20:10"
+    },
+    {
+        "id": 2627984,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627984",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL 6638/2016, do PL 1413/2024, apensado, com substitutivo.",
+        "dataApresentacao": "2026-05-26T19:02"
+    },
+    {
+        "id": 2627985,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627985",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL nº 6.638/2016, e do PL nº 1.413/2024, apensado, na forma do Substitutivo anexo.",
+        "dataApresentacao": "2026-05-26T19:02"
+    },
+    {
+        "id": 2627986,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627986",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação.",
+        "dataApresentacao": "2026-05-26T19:12"
+    },
+    {
+        "id": 2627987,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627987",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Silvio Antonio (PL-MA), pela aprovação.",
+        "dataApresentacao": "2026-05-26T20:02"
+    },
+    {
+        "id": 2627988,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627988",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Erika Kokay (PT-DF), pela aprovação do Projeto de Lei 1761/2025 e do PL 5067/2025, apensado, com Substitutivo.",
+        "dataApresentacao": "2026-05-26T15:56"
+    },
+    {
+        "id": 2627989,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627989",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Dispõe sobre a obrigatoriedade do acompanhamento psicológico pós-parto nas unidades de saúde públicas e privadas, visando à promoção da saúde mental materna no período do puerpério.",
+        "dataApresentacao": "2026-05-26T15:56"
+    },
+    {
+        "id": 2627990,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627990",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Marcel van Hattem (NOVO-RS), pela aprovação.",
+        "dataApresentacao": "2026-05-26T21:31"
+    },
+    {
+        "id": 2627991,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627991",
+        "siglaTipo": "ATA",
+        "codTipo": 810,
+        "numero": 98,
+        "ano": 2026,
+        "ementa": "Ata nº 98 de 2026",
+        "dataApresentacao": "2026-05-27T07:47"
+    },
+    {
+        "id": 2627992,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627992",
+        "siglaTipo": "ATA",
+        "codTipo": 810,
+        "numero": 98,
+        "ano": 2026,
+        "ementa": "Ata da Sessão nº 98 de 2026",
+        "dataApresentacao": "2026-05-27T07:49"
+    },
+    {
+        "id": 2627993,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627993",
+        "siglaTipo": "ATA",
+        "codTipo": 810,
+        "numero": 99,
+        "ano": 2026,
+        "ementa": "Termo Solene nº 99 de 2026",
+        "dataApresentacao": "2026-05-27T07:51"
+    },
+    {
+        "id": 2627994,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627994",
+        "siglaTipo": "ATA",
+        "codTipo": 810,
+        "numero": 99,
+        "ano": 2026,
+        "ementa": "Termo de Solene nº 99 de 2026",
+        "dataApresentacao": "2026-05-27T07:55"
+    },
+    {
+        "id": 2627995,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627995",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PLP 118/2024",
+        "dataApresentacao": "2026-05-27T08:00"
+    },
+    {
+        "id": 2627996,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627996",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PLP 118/2024-Requerimento de Retirada de Matéria da Pauta - PLP 118/2024",
+        "dataApresentacao": "2026-05-27T08:00"
+    },
+    {
+        "id": 2627997,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627997",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 12,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3263/2025",
+        "dataApresentacao": "2026-05-27T08:00"
+    },
+    {
+        "id": 2627998,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627998",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 13,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3263/2025-Requerimento de Retirada de Matéria da Pauta - PL 3263/2025",
+        "dataApresentacao": "2026-05-27T08:00"
+    },
+    {
+        "id": 2627999,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2627999",
+        "siglaTipo": "DOC",
+        "codTipo": 1024,
+        "numero": 816,
+        "ano": 2026,
+        "ementa": "",
+        "dataApresentacao": "2026-05-26T21:35"
+    },
+    {
+        "id": 2628000,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628000",
+        "siglaTipo": "RPD",
+        "codTipo": 876,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Inversão da Pauta - PL 3728/2021",
+        "dataApresentacao": "2026-05-27T09:00"
+    },
+    {
+        "id": 2628001,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628001",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 2289/2022",
+        "dataApresentacao": "2026-05-27T09:01"
+    },
+    {
+        "id": 2628002,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628002",
+        "siglaTipo": "RPD",
+        "codTipo": 876,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Inversão da Pauta - PL 4176/2024",
+        "dataApresentacao": "2026-05-27T09:00"
+    },
+    {
+        "id": 2628003,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628003",
+        "siglaTipo": "RPD",
+        "codTipo": 876,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Inversão da Pauta - PL 2589/2025",
+        "dataApresentacao": "2026-05-27T09:00"
+    },
+    {
+        "id": 2628004,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628004",
+        "siglaTipo": "RPD",
+        "codTipo": 876,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Inversão da Pauta - PL 472/2026",
+        "dataApresentacao": "2026-05-27T09:00"
+    },
+    {
+        "id": 2628005,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628005",
+        "siglaTipo": "RPD",
+        "codTipo": 876,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Inversão da Pauta - REQ 37/2026 CE",
+        "dataApresentacao": "2026-05-27T09:00"
+    },
+    {
+        "id": 2628006,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628006",
+        "siglaTipo": "EMC",
+        "codTipo": 130,
+        "numero": 1,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a instituição do Cadastro Nacional de Celulares (CNC), do Cadastro Nacional de Celulares com Restrição (CNCR) e a formalização do Programa Celular Seguro, visando o combate ao furto, roubo e receptação de dispositivos móveis, a formalização do mercado de usados e a segurança dos cidadãos.",
+        "dataApresentacao": "2026-05-26T20:16"
+    },
+    {
+        "id": 2628007,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628007",
+        "siglaTipo": "RPD",
+        "codTipo": 876,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Inversão da Pauta - PL 4079/2023",
+        "dataApresentacao": "2026-05-27T09:00"
+    },
+    {
+        "id": 2628008,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628008",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 2289/2022-Requerimento de Retirada de Matéria da Pauta - PL 2289/2022",
+        "dataApresentacao": "2026-05-27T09:01"
+    },
+    {
+        "id": 2628009,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628009",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4215/2021",
+        "dataApresentacao": "2026-05-27T09:01"
+    },
+    {
+        "id": 2628010,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628010",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 2823/2025",
+        "dataApresentacao": "2026-05-27T09:00"
+    },
+    {
+        "id": 2628011,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628011",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4215/2021",
+        "dataApresentacao": "2026-05-27T09:01"
+    },
+    {
+        "id": 2628012,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628012",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - REQ 35/2026 CE",
+        "dataApresentacao": "2026-05-27T09:00"
+    },
+    {
+        "id": 2628013,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628013",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 936/2025",
+        "dataApresentacao": "2026-05-27T09:01"
+    },
+    {
+        "id": 2628014,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628014",
+        "siglaTipo": "RPD",
+        "codTipo": 876,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Inversão da Pauta - PL 2400/2024",
+        "dataApresentacao": "2026-05-27T09:04"
+    },
+    {
+        "id": 2628015,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628015",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4176/2024",
+        "dataApresentacao": "2026-05-27T09:01"
+    },
+    {
+        "id": 2628016,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628016",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 544/2025",
+        "dataApresentacao": "2026-05-27T09:06"
+    },
+    {
+        "id": 2628017,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2628017",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4309/2025",
+        "dataApresentacao": "2026-05-27T09:01"
+    }
+]

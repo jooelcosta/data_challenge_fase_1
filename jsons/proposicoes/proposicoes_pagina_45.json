@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 2626625,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626625",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CMULHER) ao PL 3379/2025",
+        "dataApresentacao": "2026-05-20T20:11"
+    },
+    {
+        "id": 2626626,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626626",
+        "siglaTipo": "DOC",
+        "codTipo": 1024,
+        "numero": 806,
+        "ano": 2026,
+        "ementa": "",
+        "dataApresentacao": "2026-05-20T20:11"
+    },
+    {
+        "id": 2626627,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626627",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Lafayette de Andrada (PL-MG), pela constitucionalidade, juridicidade, técnica legislativa e, no mérito, pela aprovação do PL 2486/22, apensado, com substitutivo; e pela constitucionalidade, juridicidade, técnica legislativa e, no mérito, pela rejeição do Projeto de Lei n° 2791/22 e do PL 2792/22, apensado.",
+        "dataApresentacao": "2026-05-20T19:04"
+    },
+    {
+        "id": 2626629,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626629",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2546,
+        "ano": 2026,
+        "ementa": "Altera a Lei n 13.105, de 16 de março de 2015 – Código de Processo Civil, para assegurar gratuidade da justiça à pessoa física em ações que envolvam o direito à saúde ajuizadas em face da União, Estados, Municípios, Distrito Federal e operadoras de planos privados de assistência à saúde.",
+        "dataApresentacao": "2026-05-20T20:10"
+    },
+    {
+        "id": 2626631,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626631",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2547,
+        "ano": 2026,
+        "ementa": "Permite que as destinações incentivadas realizadas diretamente na Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física possam ser parceladas juntamente com o imposto devido pelo contribuinte.",
+        "dataApresentacao": "2026-05-20T20:16"
+    },
+    {
+        "id": 2626633,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626633",
+        "siglaTipo": "OF",
+        "codTipo": 181,
+        "numero": 8,
+        "ano": 2026,
+        "ementa": "Requer à Presidência da Câmara dos Deputados autorização excepcional para que o registro de presença dos Deputados Federais do Estado de Roraima seja realizado por meio do sistema INFOLEG, durante o período da eleição suplementar direta para o Governo do Estado de Roraima, entre os dias 21 de maio e 21 de junho de 2026.",
+        "dataApresentacao": "2026-05-20T20:00"
+    },
+    {
+        "id": 2626635,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626635",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 23,
+        "ano": 2026,
+        "ementa": "Requer a realização de audiência pública destinada a debater o Projeto de Lei no 3.261, de 2025, que \"altera o Decreto-Lei no 1.804, de 3 de setembro de 1980, para restabelecer a isenção de imposto de importação em compras de até 50 dólares\".",
+        "dataApresentacao": "2026-05-20T20:09"
+    },
+    {
+        "id": 2626636,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626636",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Daniel Agrobom (PSD-GO), pela aprovação deste, com substitutivo, do Substitutivo adotado pela CDE, do PL 4255/2019, do PL 4706/2019, do PL 145/2022, e do PL 184/2024, apensados.",
+        "dataApresentacao": "2026-05-20T19:51"
+    },
+    {
+        "id": 2626637,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626637",
+        "siglaTipo": "DTQ",
+        "codTipo": 846,
+        "numero": 5,
+        "ano": 0,
+        "ementa": "Destaque para Votação em Separado - PL 1625/2026",
+        "dataApresentacao": "2026-05-20T20:31"
+    },
+    {
+        "id": 2626638,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626638",
+        "siglaTipo": "RPD",
+        "codTipo": 1053,
+        "numero": 34,
+        "ano": 0,
+        "ementa": "Votação Nominal do Destaque para Votação em Separado - PL 1625/2026-Destaque para Votação em Separado - PL 1625/2026",
+        "dataApresentacao": "2026-05-20T20:31"
+    },
+    {
+        "id": 2626639,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626639",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer ao PL 2775/2019 que \"estabelece novo marco regulatório para a circulação, a comercialização, a fiscalização e a inspeção de produtos alimentícios artesanais e dos estabelecimentos que os produzem.\"",
+        "dataApresentacao": "2026-05-20T19:51"
+    },
+    {
+        "id": 2626640,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626640",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3046,
+        "ano": 2026,
+        "ementa": "Requer a retirada de assinatura de apoiamento à emenda nº 2 à PEC 221 de 2019",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626641,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626641",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1381/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626642,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626642",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1382/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626643,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626643",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1383/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626644,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626644",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1384/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626645,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626645",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1392/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626646,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626646",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1393/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626647,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626647",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1396/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626648,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626648",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1401/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626649,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626649",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1403/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626650,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626650",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1404/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626651,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626651",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1386/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626652,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626652",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1387/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626653,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626653",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1388/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626654,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626654",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1390/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626655,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626655",
+        "siglaTipo": "PPP",
+        "codTipo": 192,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Merlong Solano (PT-PI) pela: • Comissão de Defesa do Consumidor, que conclui pela aprovação do Projeto de Lei nº 1.625, de 2026. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica; e, no mérito, pela aprovação do Projeto de Lei nº 1.625, de 2026.",
+        "dataApresentacao": "2026-05-20T13:55"
+    },
+    {
+        "id": 2626656,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626656",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1391/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626657,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626657",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1397/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626658,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626658",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1398/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626659,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626659",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1399/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626660,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626660",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1402/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626661,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626661",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1405/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626662,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626662",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1374/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626663,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626663",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1375/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626664,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626664",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1376/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626665,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626665",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1378/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626666,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626666",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1379/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626667,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626667",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1385/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626668,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626668",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1389/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626669,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626669",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1394/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626670,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626670",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1395/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626671,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626671",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1400/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626672,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626672",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1357/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626673,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626673",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1358/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626674,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626674",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1360/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626675,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626675",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1362/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626676,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626676",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1363/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626677,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626677",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1369/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626678,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626678",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1371/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626679,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626679",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1372/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626680,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626680",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1377/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626681,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626681",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1380/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626682,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626682",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1354/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626683,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626683",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1355/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626684,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626684",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1356/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626685,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626685",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1359/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626686,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626686",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1438,
+        "ano": 2026,
+        "ementa": "Requer informações ao Exmo. Sr. Ministro da Saúde sobre as providências adotadas em relação às falhas no financiamento da Atenção Primária à Saúde do SUS, apontadas pelo Tribunal de Contas da União (TCU), no Acórdão 1207, de 2026 – Plenário, decorrente do TC 037.379/2023-2.",
+        "dataApresentacao": "2026-05-20T20:57"
+    },
+    {
+        "id": 2626687,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626687",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1361/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626688,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626688",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1364/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626689,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626689",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1365/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626690,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626690",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1366/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626691,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626691",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1367/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626692,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626692",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1368/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626693,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626693",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1326/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626694,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626694",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1327/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626695,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626695",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1331/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626696,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626696",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1333/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626697,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626697",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1336/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626698,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626698",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1342/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626699,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626699",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1345/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626700,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626700",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1351/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626701,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626701",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1370/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626702,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626702",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1373/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626703,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626703",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1329/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626704,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626704",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1330/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626705,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626705",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1337/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626706,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626706",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1338/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626707,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626707",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1341/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626708",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1343/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626709,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626709",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1344/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626710,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626710",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1346/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626711,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626711",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1349/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626712,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626712",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1350/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626713,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626713",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1328/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626714,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626714",
+        "siglaTipo": "REQ",
+        "codTipo": 293,
+        "numero": 3047,
+        "ano": 2026,
+        "ementa": "Requer realização de Sessão Solene em Homenagem ao Dia do Imigrante Grego, data instituída pela Lei 14884/2024.",
+        "dataApresentacao": "2026-05-20T21:03"
+    },
+    {
+        "id": 2626715,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626715",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1332/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626716,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626716",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1334/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626717,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626717",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1335/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626718,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626718",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1339/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626719,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626719",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1340/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626720,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626720",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1347/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626721,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626721",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1348/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626722,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626722",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1352/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626723,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626723",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1353/2026",
+        "dataApresentacao": "2026-05-20T20:33"
+    },
+    {
+        "id": 2626724,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626724",
+        "siglaTipo": "PEP",
+        "codTipo": 442,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer às Emendas de Plenário proferido pelo Relator, Dep. Merlong Solano (PT-PI) pela: • Comissão de Defesa do Consumidor, que conclui pela aprovação das emendas nºs 1 a 4, na forma da Subemenda Substitutiva adotada. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa; e, no mérito, pela aprovação das emendas nºs 1 a 4, na forma da Subemenda Substitutiva adotada pelo relator da Comissão de Defesa do Consumidor.",
+        "dataApresentacao": "2026-05-20T13:55"
+    },
+    {
+        "id": 2626725,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626725",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1275/2026",
+        "dataApresentacao": "2026-05-20T20:34"
+    },
+    {
+        "id": 2626726,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626726",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1286/2026",
+        "dataApresentacao": "2026-05-20T20:34"
+    },
+    {
+        "id": 2626727,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626727",
+        "siglaTipo": "SSP",
+        "codTipo": 509,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-20T21:17"
+    },
+    {
+        "id": 2626728,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626728",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer exarado no RIC 1290/2026",
+        "dataApresentacao": "2026-05-20T20:34"
+    }
+]

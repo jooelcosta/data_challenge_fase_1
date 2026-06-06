@@ -1,0 +1,40 @@
+[
+    {
+        "ano": 2026,
+        "mes": 4,
+        "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "codDocumento": "8082891",
+        "tipoDocumento": "Recibos/Outros",
+        "codTipoDocumento": 1,
+        "dataDocumento": "2026-04-15T00:00:00",
+        "numDocumento": "02581",
+        "valorDocumento": 12500.0,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3396/2026/8082891.pdf",
+        "nomeFornecedor": "G3 NETO SERVIÇOS EIRELI-ME",
+        "cnpjCpfFornecedor": "11305235000108",
+        "valorLiquido": 12500.0,
+        "valorGlosa": 0.0,
+        "numRessarcimento": "",
+        "codLote": 2226960,
+        "parcela": 0
+    },
+    {
+        "ano": 2026,
+        "mes": 4,
+        "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+        "codDocumento": "8079732",
+        "tipoDocumento": "Recibos/Outros",
+        "codTipoDocumento": 1,
+        "dataDocumento": "2026-04-09T00:00:00",
+        "numDocumento": "SN",
+        "valorDocumento": 60.97,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3396/2026/8079732.pdf",
+        "nomeFornecedor": "UBER DO BRASIL TECNOLOGIA LTDA.",
+        "cnpjCpfFornecedor": "17895646000187",
+        "valorLiquido": 60.97,
+        "valorGlosa": 0.0,
+        "numRessarcimento": "",
+        "codLote": 2225249,
+        "parcela": 0
+    }
+]

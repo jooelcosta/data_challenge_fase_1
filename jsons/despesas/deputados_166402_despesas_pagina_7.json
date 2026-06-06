@@ -1,0 +1,21 @@
+[
+    {
+        "ano": 2026,
+        "mes": 3,
+        "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "codDocumento": "8084484",
+        "tipoDocumento": "Nota Fiscal",
+        "codTipoDocumento": 0,
+        "dataDocumento": "2026-04-01T00:00:00",
+        "numDocumento": "175",
+        "valorDocumento": 3500.0,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2437/2026/8084484.pdf",
+        "nomeFornecedor": "GYN LOCADORA LTDA ME",
+        "cnpjCpfFornecedor": "24113180000186",
+        "valorLiquido": 3500.0,
+        "valorGlosa": 0.0,
+        "numRessarcimento": "",
+        "codLote": 2227810,
+        "parcela": 0
+    }
+]

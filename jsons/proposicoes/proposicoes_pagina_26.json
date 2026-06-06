@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 2611591,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611591",
+        "siglaTipo": "MSC",
+        "codTipo": 411,
+        "numero": 1799,
+        "ano": 2025,
+        "ementa": "Submete à consideração do Congresso Nacional o texto do Acordo Operativo para a Implementação de Mecanismos de Intercâmbio de Informação Migratória entre os Estados Partes do Mercosul, assinado em Santa Fé, República Argentina, em 16 de julho de 2019.",
+        "dataApresentacao": "2026-03-24T14:57"
+    },
+    {
+        "id": 2611628,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611628",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1377,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), para dispor sobre o cancelamento gratuito de passagens aéreas em casos de força maior na forma em que especifica.",
+        "dataApresentacao": "2026-03-24T19:05"
+    },
+    {
+        "id": 2611632,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611632",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1378,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a autorização para os órgãos das forças de segurança pública dos Estados e do Distrito Federal disponibilizarem armas de fogo aos seus integrantes.",
+        "dataApresentacao": "2026-03-24T19:15"
+    },
+    {
+        "id": 2611694,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611694",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1383,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional de Estabelecimentos Parceiros da Segurança Pública (Proneps).",
+        "dataApresentacao": "2026-03-25T09:52"
+    },
+    {
+        "id": 2611708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611708",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1384,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 5.991, de 17 de dezembro de 1973, para dispor sobre a ampliação da oferta de medicamentos para os consumidores.",
+        "dataApresentacao": "2026-03-25T10:17"
+    },
+    {
+        "id": 2611714,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611714",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1385,
+        "ano": 2026,
+        "ementa": "Institui a Política Nacional de Conscientização e Orientação sobre o Uso de Telas por Crianças e Adolescentes, com o objetivo de promover o uso saudável e equilibrado de dispositivos digitais e prevenir prejuízos à saúde mental, ao desenvolvimento e ao bem-estar.",
+        "dataApresentacao": "2026-03-25T10:23"
+    },
+    {
+        "id": 2611720,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611720",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1386,
+        "ano": 2026,
+        "ementa": "Altera a Lei n° 10.973, de 2 de dezembro de 2004, a Lei n° 8.958, de 20 de dezembro de 1994, e a Lei nº 8.032, de 12 de abril de 1990, para aprimorar a definição e a atuação das ICTs nas atividades de ciência, tecnologia e inovação, e dá outras providências.",
+        "dataApresentacao": "2026-03-25T10:48"
+    },
+    {
+        "id": 2611729,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611729",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 15,
+        "ano": 2026,
+        "ementa": "Requer a realização de audiência pública na CPASF/CD para debater a Resolução CMN nº 5.272, de 18 de dezembro de 2025, que dispõe sobre as aplicações dos recursos dos Regimes Próprios de Previdência Social (RPPSs), à luz dos riscos evidenciados pelo caso Banco Master.",
+        "dataApresentacao": "2026-03-25T10:41"
+    },
+    {
+        "id": 2611736,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611736",
+        "siglaTipo": "TVR",
+        "codTipo": 435,
+        "numero": 94,
+        "ano": 2026,
+        "ementa": "Submete à apreciação do Congresso Nacional o ato constante do Decreto nº 12.879, de 13 de março de 2026, publicado no Diário Oficial da União de 16 de março de 2026, que \"Renova a concessão outorgada à Televisão Alto Uruguai Ltda., denominada anteriormente Televisão Erexim Ltda., para executar, sem direito de exclusividade, serviço de radiodifusão de sons e imagens em tecnologia digital, no Município de Erechim, Estado do Rio Grande do Sul.\".",
+        "dataApresentacao": "2026-03-25T07:23"
+    },
+    {
+        "id": 2611750,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611750",
+        "siglaTipo": "TVR",
+        "codTipo": 427,
+        "numero": 96,
+        "ano": 2026,
+        "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 20.445, de 7 de novembro de 2025, publicada no Diário Oficial da União de 15 de dezembro de 2025, que renova, a partir de 1º de março de 2022, a autorização outorgada à Associação de Radiodifusão Comunitária Imigrantes, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Criciúma, Estado de Santa Catarina.",
+        "dataApresentacao": "2026-03-25T07:23"
+    },
+    {
+        "id": 2611754,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611754",
+        "siglaTipo": "TVR",
+        "codTipo": 427,
+        "numero": 97,
+        "ano": 2026,
+        "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 20.995, de 30 de dezembro de 2025, publicada no Diário Oficial da União de 6 de janeiro de 2026, que renova, a partir de 21 de agosto de 2023, a autorização outorgada  à Fundação Santa Rita de Cássia dos Impossíveis - FSRCDI, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Teixeira, Estado da Paraíba.",
+        "dataApresentacao": "2026-03-25T07:23"
+    },
+    {
+        "id": 2611757,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611757",
+        "siglaTipo": "TVR",
+        "codTipo": 1058,
+        "numero": 98,
+        "ano": 2026,
+        "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 21.008, de 31 de dezembro de 2025, publicada no Diário Oficial da União de 6 de janeiro de 2026, que renova, a partir de 6 de fevereiro de 2021, a outorga anteriormente conferida à Rádio Terra FM Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, posteriormente adaptado para radiodifusão sonora em frequência modulada, no Município de João Pinheiro, Estado de Minas Gerais.",
+        "dataApresentacao": "2026-03-25T07:23"
+    },
+    {
+        "id": 2611761,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611761",
+        "siglaTipo": "TVR",
+        "codTipo": 429,
+        "numero": 99,
+        "ano": 2026,
+        "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 20.997, de 31 de dezembro de 2025, publicada no Diário Oficial da União de 6 de janeiro de 2026, que renova, a partir de 29 de maio de 2020, a outorga anteriormente conferida à Fundação Rádio e TV Educativa SEB, para executar, pelo prazo de dez anos, o serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município de Sertãozinho, Estado de São Paulo.",
+        "dataApresentacao": "2026-03-25T07:23"
+    },
+    {
+        "id": 2611768,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611768",
+        "siglaTipo": "TVR",
+        "codTipo": 492,
+        "numero": 100,
+        "ano": 2026,
+        "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 20.365, de 28 de outubro de 2025, publicada no Diário Oficial da União de 12 de novembro de 2025, que outorga autorização à Instituto São José, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Lagoa do Piauí, Estado do Piauí.",
+        "dataApresentacao": "2026-03-25T07:23"
+    },
+    {
+        "id": 2611772,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611772",
+        "siglaTipo": "TVR",
+        "codTipo": 492,
+        "numero": 101,
+        "ano": 2026,
+        "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 19.975, de 7 de outubro de 2025, publicada no Diário Oficial da União de 11 de novembro de 2025, que outorga autorização à Associação Comunitária e Cultural de Izacolândia, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Petrolina, Estado de Pernambuco.",
+        "dataApresentacao": "2026-03-25T07:23"
+    },
+    {
+        "id": 2611775,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611775",
+        "siglaTipo": "TVR",
+        "codTipo": 492,
+        "numero": 102,
+        "ano": 2026,
+        "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 19.974, de 7 de outubro de 2025, publicada no Diário Oficial da União de 11 de novembro de 2025, que outorga autorização à Associação Comunitária Esperança do Sertão, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Presidente Jânio Quadros, Estado da Bahia.",
+        "dataApresentacao": "2026-03-25T07:23"
+    },
+    {
+        "id": 2611791,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611791",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 650,
+        "ano": 2026,
+        "ementa": "Requer do Excelentíssimo Ministro de Minas e Energia, Senhor Alexandre Silveira, informações sobre os seis navios com diesel, com destino ao Brasil, que tiveram rotas alteradas.",
+        "dataApresentacao": "2026-03-25T12:31"
+    },
+    {
+        "id": 2611797,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611797",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 652,
+        "ano": 2026,
+        "ementa": "Solicita esclarecimentos ao Excelentíssimo Senhor Ministro da Educação acerca dos critérios, procedimentos e mudanças recentes na correção das redações do Exame Nacional do Ensino Médio (Enem), especialmente quanto à transparência, padronização e isonomia do processo avaliativo.",
+        "dataApresentacao": "2026-03-25T12:38"
+    },
+    {
+        "id": 2611823,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611823",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 653,
+        "ano": 2026,
+        "ementa": "Requer do Excelentíssimo Ministro das Relações Exteriores, Embaixador Mauro Vieira, informações sobre os seis navios carregados de diesel, com destino ao Brasil, que tiveram suas rotas alteradas.",
+        "dataApresentacao": "2026-03-25T13:21"
+    },
+    {
+        "id": 2611824,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611824",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 654,
+        "ano": 2026,
+        "ementa": "Requer do Excelentíssimo Ministro de Portos e Aeroportos, Senhor Silvio Costa Filho, informações a respeito da suspenção das atividades no Aeroclube do Amazonas, situado no bairro Flores, zona Centro-Sul de Manaus.",
+        "dataApresentacao": "2026-03-25T13:21"
+    },
+    {
+        "id": 2611831,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611831",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 657,
+        "ano": 2026,
+        "ementa": "Requer o encaminhamento de parecer técnico e de estimativa de impacto orçamentário e financeiro acerca do Projeto de Lei nº 4.480, de 2025, que altera o Programa Habite Seguro.",
+        "dataApresentacao": "2026-03-25T13:41"
+    },
+    {
+        "id": 2611834,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611834",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 658,
+        "ano": 2026,
+        "ementa": "Requer o encaminhamento de parecer técnico e de estimativa de impacto orçamentário e financeiro acerca do Projeto de Lei nº 4.480, de 2025, que altera o Programa Habite Seguro.",
+        "dataApresentacao": "2026-03-25T13:44"
+    },
+    {
+        "id": 2611839,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611839",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1395,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a classificação diferenciada do monitoramento eletrônico aplicado a investigados ou condenados por crimes de violência contra a mulher e crimes de natureza sexual, e dá outras providências.",
+        "dataApresentacao": "2026-03-25T13:50"
+    },
+    {
+        "id": 2611850,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611850",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1396,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a obrigatoriedade de fornecimento de estepe com especificações idênticas às rodas originais nos veículos automotores comercializados no Brasil, proibindo a comercialização de veículos com estepe temporário, estepe fino ou de uso limitado, e dá outras providências.",
+        "dataApresentacao": "2026-03-25T13:58"
+    },
+    {
+        "id": 2611866,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611866",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1398,
+        "ano": 2026,
+        "ementa": "Institui o Sistema Nacional de Escolas Públicas de Educação Inclusiva – SNEEI, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios, e dá outras providências.",
+        "dataApresentacao": "2026-03-25T14:19"
+    },
+    {
+        "id": 2611932,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611932",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1403,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a validade por prazo indeterminado da credencial de estacionamento destinada à pessoa com deficiência com comprometimento de mobilidade permanente.",
+        "dataApresentacao": "2026-03-25T16:39"
+    },
+    {
+        "id": 2611948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611948",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 661,
+        "ano": 2026,
+        "ementa": "Solicita ao Ministro da Justiça e Segurança Pública, Wellington César Lima e Silva, informações acerca de orientação administrativa da Polícia Federal que declarou inválidos certificados de cursos de formação de Guardas Municipais emitidos por instituições privadas e determinou a revisão de portes funcionais",
+        "dataApresentacao": "2026-03-25T16:59"
+    },
+    {
+        "id": 2611963,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611963",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1408,
+        "ano": 2026,
+        "ementa": "Institui a Política Nacional de Conectividade Aérea da Amazônia Legal, estabelece mecanismos de compensação dos impactos da transição tributária sobre o transporte aéreo regional, cria instrumentos de equalização tarifária, garantia de oferta e incentivo à operação de rotas estratégicas, e dá outras providências.",
+        "dataApresentacao": "2026-03-25T17:29"
+    },
+    {
+        "id": 2611980,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611980",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 662,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro da Justiça e Segurança Pública acerca da crescente atuação de organizações criminosas brasileiras no exterior.",
+        "dataApresentacao": "2026-03-25T17:54"
+    },
+    {
+        "id": 2611981,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611981",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 663,
+        "ano": 2026,
+        "ementa": "Requer Informações à Ministra dos Povos Indígenas sobre a presença de infraestrutura de treinamento de organizações criminosas na Terra Indígena Tereza Cristina (MT).",
+        "dataApresentacao": "2026-03-25T17:54"
+    },
+    {
+        "id": 2611983,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611983",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 664,
+        "ano": 2026,
+        "ementa": "Requer Informações ao Excelentíssimo Ministro da Justiça e Segurança Pública, acerca da morte de um investigado vinculado às investigações do Banco Master, ocorridas sob a custódia da Polícia Federal, no Estado de Minas Gerais.",
+        "dataApresentacao": "2026-03-25T17:54"
+    },
+    {
+        "id": 2611985,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611985",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 665,
+        "ano": 2026,
+        "ementa": "Requer Informações ao Excelentíssimo Ministro da Justiça e Segurança Pública a adoção de providências destinadas à apuração das circunstâncias da custódia, do atendimento e dos registros relacionados ao óbito e sepultamento de Luiz Phillipi Machado de Moraes Mourão.",
+        "dataApresentacao": "2026-03-25T17:54"
+    },
+    {
+        "id": 2611995,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2611995",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 666,
+        "ano": 2026,
+        "ementa": "Requer ao Sr. Ministro de Estado da Fazenda a estimativa de renúncia de receita decorrente da prorrogação do prazo do art. 24 da Lei nº 14.301, de 7 de janeiro de 2022, até 8 de janeiro de 2032 e informações exigidas pelo art. 14-A da Lei Complementar nº 101, de 4 de maio de 2000.",
+        "dataApresentacao": "2026-03-25T18:12"
+    },
+    {
+        "id": 2612006,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612006",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 667,
+        "ano": 2026,
+        "ementa": "Requer informações ao Senhor Ministro de Estado da Fazenda sobre o endividamento das famílias brasileiras, a inadimplência no crédito ao consumo, a participação do crédito rotativo do cartão de crédito nesse cenário e as possíveis mudanças regulatórias em análise pelo Poder Executivo.",
+        "dataApresentacao": "2026-03-25T18:40"
+    },
+    {
+        "id": 2612010,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612010",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1411,
+        "ano": 2026,
+        "ementa": "Institui a Política Nacional de Apoio ao Translado Funerário de Pessoas em Situação de Vulnerabilidade, com diretrizes para concessão de condições diferenciadas no transporte aéreo nacional, e dá outras providências.",
+        "dataApresentacao": "2026-03-25T18:48"
+    },
+    {
+        "id": 2612016,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612016",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1413,
+        "ano": 2026,
+        "ementa": "Institui a Política Nacional de Reestruturação Financeira das Famílias, com diretrizes para prevenção e tratamento do superendividamento, e dá outras providências.",
+        "dataApresentacao": "2026-03-25T18:53"
+    },
+    {
+        "id": 2612027,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612027",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1416,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a definição, qualificação e prerrogativas das Instituições Municipais de Educação Superior - IMES, institui o Programa de Apoio às Instituições Municipais de Educação Superior (PRO-IMES) e dá outras providências.",
+        "dataApresentacao": "2026-03-25T19:11"
+    },
+    {
+        "id": 2612041,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612041",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 668,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministro da Agricultura e Pecuária acerca dos impactos da suspensão de exportações de fertilizantes pela China. Requer esclarecimentos sobre a elevação dos custos de produção no setor agropecuário.",
+        "dataApresentacao": "2026-03-25T19:38"
+    },
+    {
+        "id": 2612291,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612291",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1419,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 12.009, de 29 de julho de 2009, para modificar requisitos necessários ao exercício das atividades de transporte remunerado de passageiros e de mercadorias, com a utilização de motocicletas e motonetas.",
+        "dataApresentacao": "2026-03-25T22:32"
+    },
+    {
+        "id": 2612309,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612309",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 669,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Senhor Ministro de Estado das Comunicações, acerca da governança, transparência e supervisão da Entidade Administradora da Faixa de 3,5 GHz (EAF), responsável pela execução de obrigações decorrentes do leilão do 5G.",
+        "dataApresentacao": "2026-03-26T09:01"
+    },
+    {
+        "id": 2612327,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612327",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 15,
+        "ano": 2026,
+        "ementa": "Requer a realização de audiência pública para debater o trabalho da CNI e do SENAI no Estado de Pernambuco.",
+        "dataApresentacao": "2026-03-25T20:20"
+    },
+    {
+        "id": 2612333,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612333",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1424,
+        "ano": 2026,
+        "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+        "dataApresentacao": "2026-03-26T10:41"
+    },
+    {
+        "id": 2612334,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612334",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 670,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Minas e Energia, Sr. Alexandre Silveira de Oliveira, acerca dos fundamentos técnicos, econômicos, tarifários, concorrenciais, operacionais e ambientais da contratação de energia da Usina Termelétrica de Candiota III, nos termos do art. 3º-D da Lei nº 10.848, de 2004.",
+        "dataApresentacao": "2026-03-26T10:24"
+    },
+    {
+        "id": 2612335,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612335",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 671,
+        "ano": 2026,
+        "ementa": "Requer informações à Ministra do Meio Ambiente e Mudança do Clima, Sra. Marina Silva, acerca das avaliações ambientais e climáticas relacionadas à contratação de energia da Usina Termelétrica de Candiota III, nos termos do art. 3º-D da Lei nº 10.848, de 15 de março de 2004.",
+        "dataApresentacao": "2026-03-26T10:24"
+    },
+    {
+        "id": 2612336,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612336",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 672,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado das Relações Exteriores, Sr. Embaixador Mauro Vieira, acerca das avaliações diplomáticas, comerciais e reputacionais relacionadas à contratação de energia da Usina Termelétrica de Candiota III, nos termos do art. 3º-D da Lei nº 10.848, de 15 de março de 2004.",
+        "dataApresentacao": "2026-03-26T10:24"
+    },
+    {
+        "id": 2612338,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612338",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 673,
+        "ano": 2026,
+        "ementa": "Requer informações ao Senhor Ministro de Estado da Educação relativas à contratação da Universidade Federal de Goiás – UFG, por intermédio do denominado “Instituto Verbena”, para a realização de concursos públicos e processos seletivos por diversos órgãos da administração pública.",
+        "dataApresentacao": "2026-03-26T10:36"
+    },
+    {
+        "id": 2612340,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612340",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1425,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha) para aprimorar os procedimentos nela previstos e ampliar a disponibilidade de dados para formulação de políticas públicas para coibir a violência doméstica e familiar contra a mulher.",
+        "dataApresentacao": "2026-03-26T10:50"
+    },
+    {
+        "id": 2612347,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612347",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 674,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado da Justiça e Segurança Pública acerca do posicionamento técnico, jurídico e orçamentário do Ministério sobre o Projeto de Lei nº 4.234/2025, que institui o Programa Nacional de Valorização Institucional dos Defensores da Pátria e da Ordem Pública – PRONAVID.",
+        "dataApresentacao": "2026-03-26T11:50"
+    },
+    {
+        "id": 2612348,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612348",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 675,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado da Justiça e Segurança Pública acerca do posicionamento técnico, jurídico e orçamentário do Ministério sobre o Projeto de Lei nº 899, de 2026.",
+        "dataApresentacao": "2026-03-26T11:58"
+    },
+    {
+        "id": 2612367,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612367",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1437,
+        "ano": 2026,
+        "ementa": "Dispõe sobre os padrões cromáticos e a utilização dos símbolos nacionais nos uniformes oficiais das seleções brasileiras de futebol e dá outras providências",
+        "dataApresentacao": "2026-03-26T12:40"
+    },
+    {
+        "id": 2612396,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612396",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1439,
+        "ano": 2026,
+        "ementa": "Institui normas de proteção especial para o tratamento de dados e utilização de serviços digitais por crianças e adolescentes, determinando medidas de privacy-by-design e safety-by-design, preferência por mecanismos não identificadores de aferição de idade interoperáveis (sinal de idade), critérios técnicos para verificações reforçadas, proibição de perfilamento comportamental e publicidade direcionada a menores,\nminimização de dados coletados de crianças, controles de supervisão parental configurados como padrão, avaliação de impacto específica para tratamento infantil, auditorias regulares certificadas pela Autoridade Nacional de Proteção de Dados (ANPD) e padrões abertos de interoperabilidade; estabelece salvaguardas contra exclusão digital e concentração de mercado, competência fiscalizatória da ANPD e sanções proporcionais ao porte da empresa; e dá outras providências.",
+        "dataApresentacao": "2026-03-26T14:08"
+    },
+    {
+        "id": 2612399,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612399",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1440,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 14.192, de 4 de agosto de 2021, para dispor sobre o combate à violência política de gênero e raça, inclusive em meios digitais, e dá outras providências.",
+        "dataApresentacao": "2026-03-26T14:16"
+    },
+    {
+        "id": 2612417,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612417",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1443,
+        "ano": 2026,
+        "ementa": "Dispõe sobre medidas de prevenção e responsabilização no uso de sistemas de in-teligência artificial generativa para a criação de conteúdo sintético não consentido, e dá outras providências.",
+        "dataApresentacao": "2026-03-26T14:52"
+    },
+    {
+        "id": 2612445,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612445",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 676,
+        "ano": 2026,
+        "ementa": "Requer do Excelentíssimo Sr Ministro de Minas e Energia, Senhor Alexandre Silveira, informações sobre acerca da execução do Programa Luz para Todos e da operacionalização da Tarifa Social de Energia Elétrica, diante de indícios de baixa transparência, possíveis ineficiências e risco de distorções na aplicação de recursos públicos.",
+        "dataApresentacao": "2026-03-26T16:01"
+    },
+    {
+        "id": 2612459,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612459",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 677,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Senhor Ministro de Estado Chefe da Secretaria de Comunicação Social da Presidência da República, acerca do acordo de cooperação firmado entre a Empresa Brasil de Comunicação e o China Media Group, envolvendo intercâmbio de conteúdo, cooperação tecnológica com uso de inteligência artificial e atuação internacional conjunta.",
+        "dataApresentacao": "2026-03-26T16:23"
+    },
+    {
+        "id": 2612460,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612460",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 678,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Sr. Ministro-chefe da Casa Civil, acerca da participação, análise e validação institucional do acordo de cooperação firmado entre a Empresa Brasil de Comunicação e o China Media Group, com foco na governança, avaliação de riscos e conformidade jurídica do instrumento.",
+        "dataApresentacao": "2026-03-26T16:23"
+    },
+    {
+        "id": 2612461,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612461",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 679,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Senhor Ministro de Estado das Comunicações, acerca dos impactos regulatórios, tecnológicos e de política pública, decorrentes do acordo de cooperação firmado entre a Empresa Brasil de Comunicação e o China Media Group, com ênfase no uso de inteligência artificial, intercâmbio de conteúdo e desenvolvimento da TV 3.0 no Brasil.",
+        "dataApresentacao": "2026-03-26T16:24"
+    },
+    {
+        "id": 2612463,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612463",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1448,
+        "ano": 2026,
+        "ementa": "Institui o Programa Nacional de Assentamentos Periurbanos e Semirrurais (PNPAS), e dá outras providências.",
+        "dataApresentacao": "2026-03-26T16:28"
+    },
+    {
+        "id": 2612528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612528",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 680,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Excelentíssimo Senhor Ministro de Estado da Justiça e Segurança Pública, Wellington César Lima e Silva informações relacionadas à população carcerária brasileira e o contingente de jovens egressos do serviço militar obrigatório.",
+        "dataApresentacao": "2026-03-26T17:43"
+    },
+    {
+        "id": 2612581,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612581",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 682,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Excelentíssimo Senhor Ministro de Estado da Secretaria de Comunicação Social da Presidência da República Sidônio Cardoso Palmeira informações relacionadas veiculação de publicidade federal no estado de Sergipe.",
+        "dataApresentacao": "2026-03-27T14:12"
+    },
+    {
+        "id": 2612583,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612583",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1459,
+        "ano": 2026,
+        "ementa": "Torna o dia 17 de agosto Feriado Nacional, dia Nacional de Bernadete Pacífico e da Consciência Quilombola",
+        "dataApresentacao": "2026-03-27T14:36"
+    },
+    {
+        "id": 2612586,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612586",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 683,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Sr. Ministro da Fazenda, acerca da composição, dos fatores determinantes e das medidas normativas associadas ao aumento da arrecadação federal verificado no primeiro bimestre de 2026, com ênfase na variação de tributos incidentes sobre crédito, consumo, renda e folha de pagamentos.",
+        "dataApresentacao": "2026-03-27T15:02"
+    },
+    {
+        "id": 2612587,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612587",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 684,
+        "ano": 2026,
+        "ementa": "Solicita informações a Senhora Ministra do Planejamento e Orçamento, acerca da evolução das despesas públicas federais, da composição do gasto primário e das medidas de ajuste fiscal adotadas no exercício de 2026, em face do crescimento da arrecadação federal no período.",
+        "dataApresentacao": "2026-03-27T15:03"
+    },
+    {
+        "id": 2612588,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612588",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1460,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a proteção da identidade pessoal contra a criação e a difusão não autorizadas de réplicas digitais.",
+        "dataApresentacao": "2026-03-27T15:27"
+    },
+    {
+        "id": 2612601,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612601",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 685,
+        "ano": 2026,
+        "ementa": "Requer, nos termos constitucionais e regimentais, o encaminhamento, por meio da Mesa Diretora desta Casa, de pedido de informações ao Ministro de Estado das Relações Exteriores acerca de eventual atuação, omissão ou posicionamento diplomático do Brasil, diante de denúncias de submissão de trabalhadores estrangeiros a condições análogas à escravidão na construção da fábrica da BYD, no município de Camaçari/BA, e seus impactos na imagem internacional do país.",
+        "dataApresentacao": "2026-03-27T15:31"
+    },
+    {
+        "id": 2612604,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612604",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 686,
+        "ano": 2026,
+        "ementa": "Requer, nos termos constitucionais e regimentais, o encaminhamento, por meio da Mesa Diretora desta Casa, de pedido de informações ao Ministro de Estado das Relações Exteriores acerca da decisão do Itamaraty de revogar o visto de assessor ligado ao governo do Presidente Donald Trump que visitaria o ex-Presidente Jair Bolsonaro no Brasil.",
+        "dataApresentacao": "2026-03-27T15:31"
+    },
+    {
+        "id": 2612605,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612605",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 687,
+        "ano": 2026,
+        "ementa": "Requer, nos termos constitucionais e regimentais, o encaminhamento, por meio da Mesa Diretora desta Casa, de pedido de informações ao Ministro de Estado da Defesa acerca da eventual adoção de medidas de apoio logístico, humanitário e de repatriação de cidadãos brasileiros retidos no exterior em razão de cancelamentos de voos internacionais decorrentes da escalada do conflito no Oriente Médio",
+        "dataApresentacao": "2026-03-27T15:31"
+    },
+    {
+        "id": 2612609,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612609",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 688,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Excelentíssimo Senhor Advogado-Geral da União, Jorge Rodrigo Araújo Messias acerca da atuação, estrutura e critérios de funcionamento da Procuradoria Nacional da União de Defesa da Democracia, instituída pelo Decreto nº 11.328/2023.",
+        "dataApresentacao": "2026-03-27T15:49"
+    },
+    {
+        "id": 2612615,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612615",
+        "siglaTipo": "REQ",
+        "codTipo": 293,
+        "numero": 1731,
+        "ano": 2026,
+        "ementa": "Requer a realização de Sessão Solene em homenagem aos 60 anos do Salário Mínimo Profissional da Engenharia e da Agronomia.",
+        "dataApresentacao": "2026-03-27T16:18"
+    },
+    {
+        "id": 2612619,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612619",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1462,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 13.756, de 12 de dezembro de 2018, para garantir o repasse obrigatório de recursos do Fundo Nacional de Segurança Pública (FNSP) aos Municípios.",
+        "dataApresentacao": "2026-03-27T16:31"
+    },
+    {
+        "id": 2612620,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612620",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1463,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 13.022, de 8 de agosto de 2014, para estabelecer critérios de responsabilidade fiscal na criação de guardas municipais e readequar os limites de seus efetivos.",
+        "dataApresentacao": "2026-03-27T16:33"
+    },
+    {
+        "id": 2612621,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612621",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 689,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministro de Estado do Desenvolvimento, Indústria, Comércio e Serviços acerca dos incentivos públicos, das contrapartidas sociais e da efetiva geração de empregos no âmbito do empreendimento da empresa BYD no município de Camaçari/BA.",
+        "dataApresentacao": "2026-03-27T17:06"
+    },
+    {
+        "id": 2612622,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612622",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 690,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministro de Estado da Justiça e Segurança Pública acerca da concessão de vistos, do controle migratório e de eventuais irregularidades relacionadas à entrada e permanência de trabalhadores estrangeiros no âmbito das obras vinculadas à instalação da empresa BYD no município de Camaçari/BA.",
+        "dataApresentacao": "2026-03-27T17:06"
+    },
+    {
+        "id": 2612623,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612623",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 691,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministro de Estado das Relações Exteriores acerca de eventuais acordos internacionais, cooperação bilateral e participação diplomática na instalação do empreendimento da empresa BYD no município de Camaçari/BA, especialmente no que se refere à entrada de trabalhadores estrangeiros no Brasil.",
+        "dataApresentacao": "2026-03-27T17:06"
+    },
+    {
+        "id": 2612625,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612625",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 692,
+        "ano": 2026,
+        "ementa": "Solicita informações à Ministra de Estado dos Direitos Humanos e da Cidadania acerca de possíveis violações de direitos humanos, condições degradantes de trabalho e restrição de liberdade de trabalhadores estrangeiros no âmbito das obras relacionadas à instalação da empresa BYD no município de Camaçari/BA.",
+        "dataApresentacao": "2026-03-27T17:06"
+    },
+    {
+        "id": 2612626,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612626",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 693,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministro de Estado do Trabalho e Emprego acerca das condições de trabalho, da fiscalização laboral e da contratação de trabalhadores estrangeiros no âmbito das obras e atividades relacionadas à instalação da empresa BYD no município de Camaçari/BA.",
+        "dataApresentacao": "2026-03-27T17:06"
+    },
+    {
+        "id": 2612631,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612631",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1465,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 9.795, de 27 de abril de 1999, que institui a Política Nacional de Educação Ambiental, e a Lei nº 14.133, de 1º de abril de 2021, Lei de Licitações e Contratos Administrativos, para dispor sobre a substituição progressiva de produtos plásticos descartáveis de uso único e materiais escolares plásticos por alternativas renováveis ou reutilizáveis na Administração Pública e nas instituições de ensino públicas e privadas.",
+        "dataApresentacao": "2026-03-27T17:37"
+    },
+    {
+        "id": 2612632,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612632",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 694,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministro da Educação acerca de determinações do TCU sobre a suspensão de pagamentos do programa Pé-de-Meia a CPFs de pessoas falecidas.",
+        "dataApresentacao": "2026-03-27T17:35"
+    },
+    {
+        "id": 2612635,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612635",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1466,
+        "ano": 2026,
+        "ementa": "Altera o art. 36 da Lei no 9.394, de 20 de dezembro de 1996, Esta Lei altera a lei que estabelece as diretrizes e bases da educação nacional, para incluir a Filosofia e a Sociologia como componentes curriculares obrigatórios nos currículos do ensino médio.",
+        "dataApresentacao": "2026-03-27T19:10"
+    },
+    {
+        "id": 2612643,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612643",
+        "siglaTipo": "REQ",
+        "codTipo": 313,
+        "numero": 1733,
+        "ano": 2026,
+        "ementa": "Requer retirada de assinatura do Projeto de Lei nº 1.424, de 2026, da Deputada Tabata Amaral, que “Define antissemitismo com a finalidade de instruir as políticas públicas nacionais”.",
+        "dataApresentacao": "2026-03-30T10:24"
+    },
+    {
+        "id": 2612644,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612644",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1469,
+        "ano": 2026,
+        "ementa": "Institui o Programa de Crédito Emergencial Imediato para Famílias (Socorre Brasil), garantindo acesso rápido a crédito com juros reduzidos para trabalhadores, autônomos e famílias em situação de crise, com proteção contra o superendividamento e mecanismos de responsabilização das instituições financeiras.",
+        "dataApresentacao": "2026-03-30T10:32"
+    },
+    {
+        "id": 2612648,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612648",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1470,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre práticas abusivas em interfaces digitais (“dark patterns”), instituir o direito à interface justa e estabelecer sanções.",
+        "dataApresentacao": "2026-03-30T10:44"
+    },
+    {
+        "id": 2612649,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612649",
+        "siglaTipo": "REQ",
+        "codTipo": 313,
+        "numero": 1734,
+        "ano": 2026,
+        "ementa": "Requer a retirada da assinatura no Projeto de Lei nº 1424/2026 que define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+        "dataApresentacao": "2026-03-30T10:46"
+    },
+    {
+        "id": 2612657,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612657",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 695,
+        "ano": 2026,
+        "ementa": "Requer do Excelentíssimo Ministro de Minas e Energia, Senhor, informações sobre a suspensão temporária das exportações de nitrato de amônio.",
+        "dataApresentacao": "2026-03-30T11:42"
+    },
+    {
+        "id": 2612659,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612659",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 697,
+        "ano": 2026,
+        "ementa": "Requer informações para Excelentíssimo Ministro do Desenvolvimento e Assistência Social, Família e Combate à Fome.    Ministro Welington Dias, sobre a possibilidade de fome aguda como consequência direta do prolongamento do conflito no Oriente Médio e do bloqueio de rotas estratégicas de abastecimento alimentar.",
+        "dataApresentacao": "2026-03-30T11:42"
+    },
+    {
+        "id": 2612660,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612660",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 698,
+        "ano": 2026,
+        "ementa": "Requer informações para Excelentíssima Ministra de Meio Ambiente, a Senhora Marina Silva, sobre cargas devolvidas pela China.",
+        "dataApresentacao": "2026-03-30T11:42"
+    },
+    {
+        "id": 2612661,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612661",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 699,
+        "ano": 2026,
+        "ementa": "Requer informações para Excelentíssimo Ministro da Justiça, o Senhor Wellington César Lima e Silva, informações sobre o uso de drones armados por facções criminosas.",
+        "dataApresentacao": "2026-03-30T11:42"
+    },
+    {
+        "id": 2612669,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612669",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 700,
+        "ano": 2026,
+        "ementa": "Requer do Ministro de Estado do Trabalho e Emprego informações acerca do aumento da taxa de desemprego no trimestre encerrado em fevereiro de 2026.",
+        "dataApresentacao": "2026-03-30T12:08"
+    },
+    {
+        "id": 2612670,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612670",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 701,
+        "ano": 2026,
+        "ementa": "Requer do Ministro de Estado da Fazenda informações a respeito da queda do investimento direto no Brasil no primeiro bimestre de 2026.",
+        "dataApresentacao": "2026-03-30T12:08"
+    },
+    {
+        "id": 2612671,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612671",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 702,
+        "ano": 2026,
+        "ementa": "Requer do Ministro de Estado do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte informações acerca do crescimento recorde na abertura de Microempreendedores Individuais (MEIs) no Brasil no ano de 2025, especialmente no Amazonas.",
+        "dataApresentacao": "2026-03-30T12:08"
+    },
+    {
+        "id": 2612674,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612674",
+        "siglaTipo": "REQ",
+        "codTipo": 313,
+        "numero": 1738,
+        "ano": 2026,
+        "ementa": "Requer retirada de assinatura do Projeto de Lei nº 1.424, de 2026, da Deputada Tabata Amaral, que “Define antissemitismo com a finalidade de instruir as políticas públicas nacionais”.",
+        "dataApresentacao": "2026-03-30T12:23"
+    },
+    {
+        "id": 2612679,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612679",
+        "siglaTipo": "REQ",
+        "codTipo": 313,
+        "numero": 1739,
+        "ano": 2026,
+        "ementa": "Requeiro a Vossa Excelência a retirada de minha assinatura no PL1424/2026, que ‘’Define antissemitismo com a finalidade de instruir as politicas publicas Nacionais’’.",
+        "dataApresentacao": "2026-03-30T12:32"
+    },
+    {
+        "id": 2612680,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612680",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 705,
+        "ano": 2026,
+        "ementa": "Requer do Excelentíssimo Ministro da Educação, Senhor Camilo Santana , informações sobre o desaparecimento de material biológico do Instituto de Biologia da Universidade Estadual de Campinas.",
+        "dataApresentacao": "2026-03-30T12:32"
+    },
+    {
+        "id": 2612683,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612683",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1473,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para estabelecer parâmetros mínimos obrigatórios de composição das turmas na Educação Infantil, assegurando quantitativo adequado de profissionais para garantia do cuidado, da segurança e do acompanhamento pedagógico das crianças na primeira infância.",
+        "dataApresentacao": "2026-03-30T12:59"
+    },
+    {
+        "id": 2612700,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612700",
+        "siglaTipo": "REQ",
+        "codTipo": 313,
+        "numero": 1749,
+        "ano": 2026,
+        "ementa": "Requer a retirada da assinatura no Projeto de Lei nº 1424/2026 que define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+        "dataApresentacao": "2026-03-30T14:12"
+    },
+    {
+        "id": 2612701,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612701",
+        "siglaTipo": "REQ",
+        "codTipo": 313,
+        "numero": 1750,
+        "ano": 2026,
+        "ementa": "Requer a retirada da assinatura no Projeto de Lei nº 1424/2026 que define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+        "dataApresentacao": "2026-03-30T14:17"
+    },
+    {
+        "id": 2612707,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612707",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1478,
+        "ano": 2026,
+        "ementa": "Institui a Política Nacional de Prioridade Absoluta na Investigação e Julgamento de Crimes contra a Dignidade Sexual de Crianças e Adolescentes, estabelece prazos procedimentais prioritários, mecanismos de produção imediata de prova, responsabilização por atraso injustificado e dá outras providências.",
+        "dataApresentacao": "2026-03-30T14:22"
+    },
+    {
+        "id": 2612708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612708",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 706,
+        "ano": 2026,
+        "ementa": "Solicita ao Exmo. Sr. Ministro de Estado da Educação, Camilo Sobreira de Santana, informações acerca de eventual proposta do Ministério da Educação de alterações das Diretrizes Nacionais para a Formação Inicial em Nível Superior dos Profissionais do Magistério da Educação Escolar Básica.",
+        "dataApresentacao": "2026-03-30T14:22"
+    },
+    {
+        "id": 2612709,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612709",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1479,
+        "ano": 2026,
+        "ementa": "Estabelece critérios técnicos uniformes e procedimento administrativo obrigatório para a classificação fiscal de produtos cosméticos de dupla funcionalidade; exige apresentação de documentação técnica padronizada pelo fabricante para fins de enquadramento tarifário e fiscal (NCM); institui presunção de veracidade da declaração técnica do fabricante salvo prova em contrário pela autoridade fiscal; veda a utilização exclusiva de informações de varejo para reclassificação; disciplina critérios objetivos para identificação da função preponderante (hierarquia de finalidades, parâmetros de formulação, modo de uso e rotulagem); regula a aplicação do Valor Tributável Mínimo (VTM) em processos de fiscalização, com prazos para diligências e vedação à alteração unilateral de critério jurídico durante o lançamento; e dá outras providências.",
+        "dataApresentacao": "2026-03-30T14:24"
+    },
+    {
+        "id": 2612712,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612712",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 1480,
+        "ano": 2026,
+        "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para prever hipótese excepcional e estrita de acesso imediato a dados de conexão e tráfego sem ordem judicial prévia em casos de risco iminente à vida ou integridade física, sequestro, ataque terrorista iminente ou crime cibernético em curso que esteja causando dano imediato; exige autorização fundamentada de autoridade policial de alto escalão, comunicação imediata ao Ministério Público e homologação judicial no prazo máximo de 48 horas; veda o acesso a conteúdo de comunicações; impõe requisitos de proporcionalidade, minimização dos dados acessados, prazo máximo de retenção, registro detalhado das diligências, auditoria externa periódica e sanções para uso indevido; e dá outras providências.",
+        "dataApresentacao": "2026-03-30T14:29"
+    }
+]

@@ -30,12 +30,6 @@
         "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37901"
     },
     {
-        "id": 37907,
-        "sigla": "PATRIOTA",
-        "nome": "Patriota",
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37907"
-    },
-    {
         "id": 36779,
         "sigla": "PCdoB",
         "nome": "Partido Comunista do Brasil",
@@ -76,12 +70,6 @@
         "sigla": "PSB",
         "nome": "Partido Socialista Brasileiro",
         "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832"
-    },
-    {
-        "id": 36833,
-        "sigla": "PSC",
-        "nome": "Partido Social Cristão",
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833"
     },
     {
         "id": 36834,

@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 2626521,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626521",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Alex Manente (CIDADANIA-SP), pela constitucionalidade, juridicidade e técnica legislativa do PL 2093/2022, com emenda, e do Substitutivo da Comissão de Defesa dos Direitos das Pessoas com Deficiência.",
+        "dataApresentacao": "2026-05-20T18:06"
+    },
+    {
+        "id": 2626522,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626522",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. José Medeiros (PL-MT), pela constitucionalidade, juridicidade e técnica legislativa do Projeto de Lei nº 3.499/2024 e do Substitutivo da Comissão de Meio Ambiente e Desenvolvimento Sustentável.",
+        "dataApresentacao": "2026-05-20T18:16"
+    },
+    {
+        "id": 2626523,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626523",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2532,
+        "ano": 2026,
+        "ementa": "Acrescenta o art. 31-A à Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para exigir que as imagens dos produtos impressas em suas embalagens correspondam ao tamanho real do produto e para vedar o uso de embalagens que induzam o consumidor a erro quanto às suas dimensões.",
+        "dataApresentacao": "2026-05-20T18:18"
+    },
+    {
+        "id": 2626524,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626524",
+        "siglaTipo": "PEP",
+        "codTipo": 442,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer à Emenda de Plenário proferido pelo Relator, Dep. José Priante (MDB-PA) pela: • Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, que conclui pela rejeição da Emenda de Plenário nº 2. • Comissão da Amazônia e dos Povos Originários e Tradicionais, que conclui pela rejeição da Emenda de Plenário nº 2. • Comissão de Meio Ambiente e Desenvolvimento Sustentável, que conclui pela rejeição da Emenda de Plenário nº 2. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela inconstitucionalidade, injuridicidade e boa técnica legislativa da Emenda de Plenário nº 2.",
+        "dataApresentacao": "2026-05-20T13:55"
+    },
+    {
+        "id": 2626525,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626525",
+        "siglaTipo": "REQ",
+        "codTipo": 356,
+        "numero": 3037,
+        "ano": 2026,
+        "ementa": "Requer a convocação do Ministro de Estado das Comunicações para prestar esclarecimentos acerca da ampliação das atividades da Empresa Brasileira de Correios e Telégrafos (ECT) promovida pela Portaria MCOM nº 22.651/2026, bem como sobre a situação econômico-financeira da estatal e as irregularidades apontadas pela área técnica do Tribunal de Contas da União (TCU) em operação de garantia do Tesouro Nacional relacionada aos Correios.",
+        "dataApresentacao": "2026-05-20T18:25"
+    },
+    {
+        "id": 2626526,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626526",
+        "siglaTipo": "ESB",
+        "codTipo": 258,
+        "numero": 1,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a classificação, rotulagem e regulação de conteúdos digitais com características hipersensoriais e potencial efeito viciante, e dá outras providências.",
+        "dataApresentacao": "2026-05-20T13:36"
+    },
+    {
+        "id": 2626527,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626527",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3240/2025",
+        "dataApresentacao": "2026-05-20T18:27"
+    },
+    {
+        "id": 2626528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626528",
+        "siglaTipo": "RPD",
+        "codTipo": 892,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão - PL 3240/2025",
+        "dataApresentacao": "2026-05-20T18:27"
+    },
+    {
+        "id": 2626529,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626529",
+        "siglaTipo": "RPD",
+        "codTipo": 467,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Votação",
+        "dataApresentacao": "2026-05-20T18:27"
+    },
+    {
+        "id": 2626530,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626530",
+        "siglaTipo": "RPD",
+        "codTipo": 332,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "Requerimento de Votação Nominal",
+        "dataApresentacao": "2026-05-20T18:27"
+    },
+    {
+        "id": 2626531,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626531",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 5,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3240/2025-Requerimento de Retirada de Matéria da Pauta - PL 3240/2025",
+        "dataApresentacao": "2026-05-20T18:27"
+    },
+    {
+        "id": 2626532,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626532",
+        "siglaTipo": "RPD",
+        "codTipo": 1042,
+        "numero": 6,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 3240/2025-Requerimento de Adiamento da Votação",
+        "dataApresentacao": "2026-05-20T18:27"
+    },
+    {
+        "id": 2626533,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626533",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2533,
+        "ano": 2026,
+        "ementa": "Acresce parágrafo único ao art. 1.831 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para estender a herdeiro, na hipótese excepcional que especifica, o direito real de habitação relativamente ao imóvel destinado à residência da família.",
+        "dataApresentacao": "2026-05-20T18:29"
+    },
+    {
+        "id": 2626534,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626534",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2534,
+        "ano": 2026,
+        "ementa": "Assegura o direito ao recomeço (fresh start), promovendo a reabilitação do falido e garantindo a superação de restrições que impeçam sua reintegração econômica e social.",
+        "dataApresentacao": "2026-05-20T18:29"
+    },
+    {
+        "id": 2626535,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626535",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2535,
+        "ano": 2026,
+        "ementa": "Altera o art. 147-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para explicitar que a perseguição pode se configurar mesmo quando dirigida a pessoas próximas da vítima.",
+        "dataApresentacao": "2026-05-20T18:29"
+    },
+    {
+        "id": 2626536,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626536",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2536,
+        "ano": 2026,
+        "ementa": "Garante a efetividade do direito à convivência familiar e estabelece multa pelo descumprimento injustificado de regime de visitas fixado judicialmente ou por acordo homologado.",
+        "dataApresentacao": "2026-05-20T18:29"
+    },
+    {
+        "id": 2626537,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626537",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2537,
+        "ano": 2026,
+        "ementa": "Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para estabelecer os requisitos e procedimento para o redirecionamento do cumprimento de sentença trabalhista em face de pessoa jurídica que não participou da fase de conhecimento.",
+        "dataApresentacao": "2026-05-20T18:29"
+    },
+    {
+        "id": 2626538,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626538",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2538,
+        "ano": 2026,
+        "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para incluir novo Título no Livro I, referente aos direitos da vítima; a Lei nº 8.742, de 7 de dezembro de 1993, para prever expressamente as vítimas como destinatárias de ações na área de assistência social; e a Lei nº 13.756, de 12 de dezembro de 2018, para priorizar entes federativos que disponibilizarem núcleos de acolhimento às vítimas na destinação de recursos.",
+        "dataApresentacao": "2026-05-20T18:29"
+    },
+    {
+        "id": 2626539,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626539",
+        "siglaTipo": "PLP",
+        "codTipo": 140,
+        "numero": 143,
+        "ano": 2026,
+        "ementa": "Confere segurança jurídica ao setor de autoarmazenamento ao estabelecer que o self storage, por consistir em locação de espaço, não está sujeito ao Imposto sobre Serviços (ISS).",
+        "dataApresentacao": "2026-05-20T18:29"
+    },
+    {
+        "id": 2626540,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626540",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2539,
+        "ano": 2026,
+        "ementa": "Responsabiliza penalmente a disseminação de imputações ofensivas à honra em meios digitais e redes sociais.",
+        "dataApresentacao": "2026-05-20T18:29"
+    },
+    {
+        "id": 2626541,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626541",
+        "siglaTipo": "EMP",
+        "codTipo": 870,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos decorrentes de choques extraordinários no mercado internacional de energia.",
+        "dataApresentacao": "2026-05-20T18:34"
+    },
+    {
+        "id": 2626542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626542",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2540,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a descentralização da realização de perícias médicas do INSS em municípios de difícil acesso e dá outras providências.",
+        "dataApresentacao": "2026-05-20T18:34"
+    },
+    {
+        "id": 2626543,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626543",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2541,
+        "ano": 2026,
+        "ementa": "Dispõe sobre campanhas educativas nas instituições de ensino acerca da prevenção e identificação de situações de violência e abuso sexual contra crianças e adolescentes, e dá outras providências.",
+        "dataApresentacao": "2026-05-20T18:35"
+    },
+    {
+        "id": 2626544,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626544",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Alex Manente (CIDADANIA-SP), pela constitucionalidade, juridicidade e técnica legislativa do PL 3445/2025, com emenda, e do Substitutivo da Comissão de Defesa dos Direitos das Pessoas com Deficiência.",
+        "dataApresentacao": "2026-05-20T18:31"
+    },
+    {
+        "id": 2626545,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626545",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Institui o Programa de Reabilitação e Inclusão Social via Esporte para jovens em situação de vulnerabilidade social e dá outras providências.",
+        "dataApresentacao": "2026-05-20T13:10"
+    },
+    {
+        "id": 2626546,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626546",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CTUR) ao PL 768/2024",
+        "dataApresentacao": "2026-05-20T18:42"
+    },
+    {
+        "id": 2626547,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626547",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 768/2024",
+        "dataApresentacao": "2026-05-20T18:42"
+    },
+    {
+        "id": 2626548,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626548",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CTUR) ao PL 4407/2024",
+        "dataApresentacao": "2026-05-20T18:44"
+    },
+    {
+        "id": 2626549,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626549",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Tabata Amaral (PSB-SP), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T18:41"
+    },
+    {
+        "id": 2626550,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626550",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CTUR) ao PL 3176/2025",
+        "dataApresentacao": "2026-05-20T18:44"
+    },
+    {
+        "id": 2626552,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626552",
+        "siglaTipo": "DTQ",
+        "codTipo": 846,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Destaque para Votação em Separado - PL 3240/2025",
+        "dataApresentacao": "2026-05-20T18:44"
+    },
+    {
+        "id": 2626553,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626553",
+        "siglaTipo": "RPD",
+        "codTipo": 1053,
+        "numero": 7,
+        "ano": 0,
+        "ementa": "Votação Nominal do Destaque para Votação em Separado - PL 3240/2025-Destaque para Votação em Separado - PL 3240/2025",
+        "dataApresentacao": "2026-05-20T18:44"
+    },
+    {
+        "id": 2626554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626554",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CTUR) ao PL 5201/2025",
+        "dataApresentacao": "2026-05-20T18:45"
+    },
+    {
+        "id": 2626555,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626555",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Tabata Amaral (PSB-SP), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T18:41"
+    },
+    {
+        "id": 2626556,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626556",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 5201/2025",
+        "dataApresentacao": "2026-05-20T18:45"
+    },
+    {
+        "id": 2626557,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626557",
+        "siglaTipo": "PPP",
+        "codTipo": 192,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer proferido em Plenário pela Relatora, Dep. Lídice da Mata (PSB-BA) pela: • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, pela juridicidade e pela boa técnica legislativa do Projeto de Lei n. 4.733, de 2020.",
+        "dataApresentacao": "2026-05-20T13:55"
+    },
+    {
+        "id": 2626558,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626558",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2542,
+        "ano": 2026,
+        "ementa": "Institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais e dispõe sobre seus princípios, diretrizes e objetivos.",
+        "dataApresentacao": "2026-05-20T18:46"
+    },
+    {
+        "id": 2626559,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626559",
+        "siglaTipo": "DTQ",
+        "codTipo": 846,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Destaque para Votação em Separado - PL 3240/2025",
+        "dataApresentacao": "2026-05-20T18:48"
+    },
+    {
+        "id": 2626560,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626560",
+        "siglaTipo": "RPD",
+        "codTipo": 1053,
+        "numero": 8,
+        "ano": 0,
+        "ementa": "Votação Nominal do Destaque para Votação em Separado - PL 3240/2025-Destaque para Votação em Separado - PL 3240/2025",
+        "dataApresentacao": "2026-05-20T18:48"
+    },
+    {
+        "id": 2626561,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626561",
+        "siglaTipo": "DTQ",
+        "codTipo": 846,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Destaque para Votação em Separado - PL 3240/2025",
+        "dataApresentacao": "2026-05-20T18:49"
+    },
+    {
+        "id": 2626562,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626562",
+        "siglaTipo": "RPD",
+        "codTipo": 1053,
+        "numero": 9,
+        "ano": 0,
+        "ementa": "Votação Nominal do Destaque para Votação em Separado - PL 3240/2025-Destaque para Votação em Separado - PL 3240/2025",
+        "dataApresentacao": "2026-05-20T18:49"
+    },
+    {
+        "id": 2626563,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626563",
+        "siglaTipo": "DTQ",
+        "codTipo": 846,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "Destaque para Votação em Separado - PL 3240/2025",
+        "dataApresentacao": "2026-05-20T18:51"
+    },
+    {
+        "id": 2626564,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626564",
+        "siglaTipo": "RPD",
+        "codTipo": 1053,
+        "numero": 10,
+        "ano": 0,
+        "ementa": "Votação Nominal do Destaque para Votação em Separado - PL 3240/2025-Destaque para Votação em Separado - PL 3240/2025",
+        "dataApresentacao": "2026-05-20T18:51"
+    },
+    {
+        "id": 2626565,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626565",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CE) ao PL 3938/2025",
+        "dataApresentacao": "2026-05-20T18:51"
+    },
+    {
+        "id": 2626566,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626566",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 3938/2025",
+        "dataApresentacao": "2026-05-20T18:51"
+    },
+    {
+        "id": 2626567,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626567",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 2564/2025",
+        "dataApresentacao": "2026-05-20T18:50"
+    },
+    {
+        "id": 2626568,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626568",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 4,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 2564/2025-Requerimento de Retirada de Matéria da Pauta - PL 2564/2025",
+        "dataApresentacao": "2026-05-20T18:50"
+    },
+    {
+        "id": 2626569,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626569",
+        "siglaTipo": "RPD",
+        "codTipo": 892,
+        "numero": 11,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão - PL 3240/2025",
+        "dataApresentacao": "2026-05-20T18:53"
+    },
+    {
+        "id": 2626570,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626570",
+        "siglaTipo": "RPD",
+        "codTipo": 1040,
+        "numero": 12,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 3240/2025-Requerimento de Adiamento da Discussão - PL 3240/2025",
+        "dataApresentacao": "2026-05-20T18:53"
+    },
+    {
+        "id": 2626571,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626571",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CMULHER) ao PL 1328/2022",
+        "dataApresentacao": "2026-05-20T18:56"
+    },
+    {
+        "id": 2626572,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626572",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Bruno Ganem (PODE-SP), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-05-20T18:24"
+    },
+    {
+        "id": 2626573,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626573",
+        "siglaTipo": "SBT-A",
+        "codTipo": 701,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Substitutivo adotado pela Comissão ao PL 1328/2022",
+        "dataApresentacao": "2026-05-20T18:57"
+    },
+    {
+        "id": 2626574,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626574",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Dispõe sobre isenção da tarifa de energia elétrica de entidades filantrópicas no território nacional.",
+        "dataApresentacao": "2026-05-20T18:24"
+    },
+    {
+        "id": 2626575,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626575",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CMULHER) ao PL 2237/2024",
+        "dataApresentacao": "2026-05-20T18:59"
+    },
+    {
+        "id": 2626576,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626576",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3038,
+        "ano": 2026,
+        "ementa": "Requer a retirada de assinatura da emenda 1/2026 à PEC 221/2019.",
+        "dataApresentacao": "2026-05-20T18:58"
+    },
+    {
+        "id": 2626577,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626577",
+        "siglaTipo": "ESB",
+        "codTipo": 258,
+        "numero": 2,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a classificação, rotulagem e regulação de conteúdos digitais com características hipersensoriais e potencialmente efeito viciante, e dá outras providências.",
+        "dataApresentacao": "2026-05-20T18:57"
+    },
+    {
+        "id": 2626578,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626578",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3039,
+        "ano": 2026,
+        "ementa": "Requer a retirada de assinatura da emenda 2/2026 à PEC 221/2019.",
+        "dataApresentacao": "2026-05-20T18:58"
+    },
+    {
+        "id": 2626579,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626579",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Franciane Bayer (REPUBLIC-RS), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-05-20T18:08"
+    },
+    {
+        "id": 2626580,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626580",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3040,
+        "ano": 2026,
+        "ementa": "Solicita a retirada de assinatura das emendas EMC nº 1 e EMC nº 2 da PEC 221/2019.",
+        "dataApresentacao": "2026-05-20T18:59"
+    },
+    {
+        "id": 2626581,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626581",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Acrescenta o art. 64-A à Lei nº 9.394, de 20 de dezembro de 1996, para dispor que os profissionais de educação contratados ou designados para exercer funções de administração, planejamento, inspeção, supervisão ou orientação educacional na educação básica deverão comprovar noções básicas de Língua Brasileira de Sinais (Libras).",
+        "dataApresentacao": "2026-05-20T18:08"
+    },
+    {
+        "id": 2626582,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626582",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 147,
+        "ano": 2026,
+        "ementa": "Solicita a realização de audiência pública sobre a dificuldade de acesso ao diagnóstico e ao tratamento adequado das doenças cardiovasculares e renais e as jornadas do paciente no SUS.",
+        "dataApresentacao": "2026-05-20T16:21"
+    },
+    {
+        "id": 2626583,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626583",
+        "siglaTipo": "PRLE",
+        "codTipo": 1001,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Altera os limites da Floresta Nacional do Jamanxim e cria a Área de Proteção Ambiental do Jamanxim, localizadas no Município de Novo Progresso, Estado do Pará.",
+        "dataApresentacao": "2026-05-20T19:07"
+    },
+    {
+        "id": 2626584,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626584",
+        "siglaTipo": "PPP",
+        "codTipo": 192,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer proferido em Plenário pela Relatora, Dep. Marussa Boldrin (REPUBLIC-GO) pela: • Comissão de Meio Ambiente e Desenvolvimento Sustentável, que conclui pela aprovação do Projeto de Lei nº 2.564, de 2025, na forma do Substitutivo adotado. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 2.564, de 2025, e do Substitutivo adotado pela relatora da Comissão de Meio Ambiente e Desenvolvimento Sustentável.",
+        "dataApresentacao": "2026-05-20T13:55"
+    },
+    {
+        "id": 2626585,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626585",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3041,
+        "ano": 2026,
+        "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA nº 01 à PEC nº 221 de 2019.",
+        "dataApresentacao": "2026-05-20T19:15"
+    },
+    {
+        "id": 2626586,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626586",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1434,
+        "ano": 2026,
+        "ementa": "Requer informações ao Ministro de Estado da Advocacia-Geral da União acerca da ampliação do auxílio-saúde destinado aos membros das carreiras jurídicas da AGU, incluindo cobertura para academia, práticas esportivas, fertilização in vitro e despesas médicas de parentes por afinidade.",
+        "dataApresentacao": "2026-05-20T19:17"
+    },
+    {
+        "id": 2626587,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626587",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-20T19:23"
+    },
+    {
+        "id": 2626588,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626588",
+        "siglaTipo": "RPD",
+        "codTipo": 328,
+        "numero": 27,
+        "ano": 0,
+        "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1625/2026",
+        "dataApresentacao": "2026-05-20T19:22"
+    },
+    {
+        "id": 2626589,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626589",
+        "siglaTipo": "RPD",
+        "codTipo": 892,
+        "numero": 28,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Discussão Matéria Urgente - PL 1625/2026",
+        "dataApresentacao": "2026-05-20T19:22"
+    },
+    {
+        "id": 2626590,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626590",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 3,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. José Medeiros (PL-MT), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T19:07"
+    },
+    {
+        "id": 2626591,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626591",
+        "siglaTipo": "RPD",
+        "codTipo": 467,
+        "numero": 29,
+        "ano": 0,
+        "ementa": "Requerimento de Adiamento da Votação Matéria Urgente - PL 1625/2026",
+        "dataApresentacao": "2026-05-20T19:22"
+    },
+    {
+        "id": 2626592,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626592",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1435,
+        "ano": 2026,
+        "ementa": "Requer informações ao Excelentíssimo Senhor Ministro de Estado da Saúde, Alexandre Rocha Santos Padilha, sobre a fundamentação técnica, jurídica e ética das inovações conceituais introduzidas na \"Caderneta Brasileira da Gestante\" (Edição 2026).",
+        "dataApresentacao": "2026-05-20T19:23"
+    },
+    {
+        "id": 2626593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626593",
+        "siglaTipo": "RPD",
+        "codTipo": 332,
+        "numero": 30,
+        "ano": 0,
+        "ementa": "Requerimento de Votação Nominal - PL 1625/2026",
+        "dataApresentacao": "2026-05-20T19:22"
+    },
+    {
+        "id": 2626594,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626594",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3042,
+        "ano": 2026,
+        "ementa": "Requer a retirada de assinatura da Emenda nº 2 apresentada à PEC 221/2019",
+        "dataApresentacao": "2026-05-20T19:23"
+    },
+    {
+        "id": 2626595,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626595",
+        "siglaTipo": "RPD",
+        "codTipo": 1051,
+        "numero": 31,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1625/2026-Requerimento de Retirada de Matéria da Pauta - PL 1625/2026",
+        "dataApresentacao": "2026-05-20T19:22"
+    },
+    {
+        "id": 2626596,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626596",
+        "siglaTipo": "RPD",
+        "codTipo": 1041,
+        "numero": 32,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão Matéria Urgente - PL 1625/2026-Requerimento de Adiamento da Discussão Matéria Urgente - PL 1625/2026",
+        "dataApresentacao": "2026-05-20T19:22"
+    },
+    {
+        "id": 2626597,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626597",
+        "siglaTipo": "RPD",
+        "codTipo": 1043,
+        "numero": 33,
+        "ano": 0,
+        "ementa": "Votação Nominal do Requerimento de Adiamento da Votação Matéria Urgente - PL 1625/2026-Requerimento de Adiamento da Votação Matéria Urgente - PL 1625/2026",
+        "dataApresentacao": "2026-05-20T19:22"
+    },
+    {
+        "id": 2626598,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626598",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Dilceu Sperafico (PP-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T19:20"
+    },
+    {
+        "id": 2626599,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626599",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Dilceu Sperafico (PP-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T19:23"
+    },
+    {
+        "id": 2626600,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626600",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação deste, com Substitutivo.",
+        "dataApresentacao": "2026-05-20T19:20"
+    },
+    {
+        "id": 2626601,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626601",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Dilceu Sperafico (PP-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T19:25"
+    },
+    {
+        "id": 2626602,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626602",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-05-20T19:20"
+    },
+    {
+        "id": 2626603,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626603",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Dilceu Sperafico (PP-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T19:26"
+    },
+    {
+        "id": 2626604,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626604",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Dilceu Sperafico (PP-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T19:28"
+    },
+    {
+        "id": 2626605,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626605",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Dilceu Sperafico (PP-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T19:29"
+    },
+    {
+        "id": 2626606,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626606",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Dilceu Sperafico (PP-PR), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T19:31"
+    },
+    {
+        "id": 2626607,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626607",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2543,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a prevenção, a identificação, a vedação e a repressão a ataques de injeção de “prompt” e outras formas de manipulação maliciosa em sistemas de inteligência artificial utilizados no âmbito de processos judiciais ou administrativos, inclui o art. 347-A no Decreto-lei nº 2.848, de 07 de dezembro de 1940 – Código Penal, e dá outras providências.",
+        "dataApresentacao": "2026-05-20T19:39"
+    },
+    {
+        "id": 2626608,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626608",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1436,
+        "ano": 2026,
+        "ementa": "Solicita ao MINISTRO DE ESTADO DA FAZENDA, SR. DARIO DURIGAN, que preste informação a respeito obre a transferência de recursos do Sistema de Informações de Valores a Receber ao Fundo Garantidor de Operações, nos termos dos arts. 12 e 13 da Medida Provisória nº 1.355, de 4 de maio de 2026.",
+        "dataApresentacao": "2026-05-20T19:35"
+    },
+    {
+        "id": 2626609,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626609",
+        "siglaTipo": "REQ",
+        "codTipo": 311,
+        "numero": 3043,
+        "ano": 2026,
+        "ementa": "Requer a retirada definitiva de tramitação do Requerimento nº 3030/2026.",
+        "dataApresentacao": "2026-05-20T19:36"
+    },
+    {
+        "id": 2626610,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626610",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2544,
+        "ano": 2026,
+        "ementa": "Estabelece diretrizes de comunicação social relacionadas à segurança pública no âmbito da União, altera o art. 5º da Lei nº 13.675, de 11 de junho de 2018, e dá outras providências.",
+        "dataApresentacao": "2026-05-20T19:39"
+    },
+    {
+        "id": 2626611,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626611",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3044,
+        "ano": 2026,
+        "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA nº 01 à PEC nº 221 de 2019.",
+        "dataApresentacao": "2026-05-20T19:39"
+    },
+    {
+        "id": 2626613,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626613",
+        "siglaTipo": "PPP",
+        "codTipo": 192,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Leitura realizada em Plenário pelo Dep. Icaro de Valmir (REPUBLIC-SE) do parecer da Relatora pela: • Comissão de Cultura, que conclui pela aprovação do Projeto de Lei nº 4.689, de 2025, na forma do Substitutivo adotado. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 4.689, de 2025, e do Substitutivo adotado pelo relator da Comissão de Cultura.",
+        "dataApresentacao": "2026-05-20T13:55"
+    },
+    {
+        "id": 2626614,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626614",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2545,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a proteção à liberdade religiosa, a inviolabilidade dos locais de culto e à livre manifestação litúrgica e doutrinária das instituições religiosas.",
+        "dataApresentacao": "2026-05-20T19:55"
+    },
+    {
+        "id": 2626615,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626615",
+        "siglaTipo": "REQ",
+        "codTipo": 310,
+        "numero": 3045,
+        "ano": 2026,
+        "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA nº 02 à PEC nº 221 de 2019.",
+        "dataApresentacao": "2026-05-20T19:54"
+    },
+    {
+        "id": 2626617,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626617",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1437,
+        "ano": 2026,
+        "ementa": "Requer que sejam solicitadas informações ao Ministério da Saúde sobre a não incorporação pelo CONITEC da Vacina Adsorvida Meningocócica B (recombinante) para imunização ativa de indivíduos entre 2 meses e 1 ano de idade.",
+        "dataApresentacao": "2026-05-20T19:54"
+    },
+    {
+        "id": 2626618,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626618",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "",
+        "dataApresentacao": "2026-05-20T19:57"
+    },
+    {
+        "id": 2626620,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626620",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Henderson Pinto (UNIÃO-PA), pela aprovação do PL 7.210/25, com substitutivo.",
+        "dataApresentacao": "2026-05-20T15:08"
+    },
+    {
+        "id": 2626621,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626621",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 2,
+        "ano": 0,
+        "ementa": "Cria o Selo Município com Mobilidade Segura, conferido a cidades que adotem ações eficazes de redução de acidentes, monitoramento inteligente de vias e proteção ao pedestre.",
+        "dataApresentacao": "2026-05-20T15:08"
+    },
+    {
+        "id": 2626622,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626622",
+        "siglaTipo": "PAR",
+        "codTipo": 187,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer da Comissão  (CMULHER) ao PL 2570/2022",
+        "dataApresentacao": "2026-05-20T20:09"
+    },
+    {
+        "id": 2626623,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626623",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Julio Arcoverde (PP-PI), pela constitucionalidade, juridicidade e técnica legislativa.",
+        "dataApresentacao": "2026-05-20T19:48"
+    },
+    {
+        "id": 2626624,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2626624",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Julio Arcoverde (PP-PI), pela constitucionalidade, juridicidade e técnica legislativa do PL 4584/2024, na forma do Substitutivo da Comissão de Cultura.",
+        "dataApresentacao": "2026-05-20T19:51"
+    }
+]

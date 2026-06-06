@@ -1,0 +1,21 @@
+[
+    {
+        "ano": 2026,
+        "mes": 4,
+        "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+        "codDocumento": "1D176A18-1F48-4491-9434-015F6F92EBD1",
+        "tipoDocumento": "Nota Fiscal",
+        "codTipoDocumento": 0,
+        "dataDocumento": "2026-04-27T00:00:00",
+        "numDocumento": "VLH7RM",
+        "valorDocumento": 1583.59,
+        "urlDocumento": null,
+        "nomeFornecedor": "Azul Linhas Aéreas",
+        "cnpjCpfFornecedor": "",
+        "valorLiquido": 1583.59,
+        "valorGlosa": 0.0,
+        "numRessarcimento": "0",
+        "codLote": 0,
+        "parcela": 0
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "ano": 2026,
+        "mes": 1,
+        "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+        "codDocumento": "8037476",
+        "tipoDocumento": "Nota Fiscal",
+        "codTipoDocumento": 0,
+        "dataDocumento": "2026-01-07T00:00:00",
+        "numDocumento": "12",
+        "valorDocumento": 280.0,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3681/2026/8037476.pdf",
+        "nomeFornecedor": "Pumas Hotel e Restaurante LTDA",
+        "cnpjCpfFornecedor": "17892875000148",
+        "valorLiquido": 280.0,
+        "valorGlosa": 0.0,
+        "numRessarcimento": "",
+        "codLote": 2201428,
+        "parcela": 0
+    }
+]

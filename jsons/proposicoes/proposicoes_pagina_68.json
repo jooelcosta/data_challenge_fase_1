@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 2629081,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629081",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 527,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação Cultural, Cajuruense, Boca da Mata de Apoio a Comunidade para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Cajuru, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-28T18:01"
+    },
+    {
+        "id": 2629082,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629082",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 528,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação Comunitária Educação Ambiental de Fartura para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Fartura, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-28T18:01"
+    },
+    {
+        "id": 2629083,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629083",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 529,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Comunitária de Radiodifusão Cruzeiro a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Japi, Estado do Rio Grande do Norte.",
+        "dataApresentacao": "2026-05-28T18:01"
+    },
+    {
+        "id": 2629084,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629084",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 530,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Comunitária de Radiodifusão Senador Jader Barbalho - ACRSJB a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Água Azul do Norte, Estado do Pará.",
+        "dataApresentacao": "2026-05-28T18:01"
+    },
+    {
+        "id": 2629085,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629085",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 531,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Cultural Rádio Alphaville a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Barueri, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-28T18:01"
+    },
+    {
+        "id": 2629086,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629086",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 532,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Sucesso FM Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Maracanaú, Estado do Ceará.",
+        "dataApresentacao": "2026-05-28T18:01"
+    },
+    {
+        "id": 2629087,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629087",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 533,
+        "ano": 2026,
+        "ementa": "Aprova o ato que outorga permissão à Rádio Pinhais Ltda. para explorar serviço de radiodifusão sonora em frequência modulada, no Município de Catanduvas, Estado de Santa Catarina.",
+        "dataApresentacao": "2026-05-28T18:01"
+    },
+    {
+        "id": 2629088,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629088",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 534,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a concessão outorgada à Rádio Campo Maior de Quixeramobim Ltda. para explorar serviço de radiodifusão sonora em onda média, no Município de Quixeramobim, Estado do Ceará.",
+        "dataApresentacao": "2026-05-28T18:01"
+    },
+    {
+        "id": 2629089,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629089",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 535,
+        "ano": 2026,
+        "ementa": "Aprova o ato que outorga concessão à JM Sistema de Comunicações Ltda. para explorar serviço de radiodifusão de sons e imagens, no Município de Chupinguaia, Estado de Rondônia.",
+        "dataApresentacao": "2026-05-28T18:01"
+    },
+    {
+        "id": 2629090,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629090",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 536,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Tempo FM Ltda. para executar serviço de radiodifusão sonora em frequência modulada no Município de Juazeiro do Norte, Estado do Ceará.",
+        "dataApresentacao": "2026-05-28T18:05"
+    },
+    {
+        "id": 2629091,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629091",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 537,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Comunitária União Potengi a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de São Paulo do Potengi, Estado do Rio Grande do Norte.",
+        "dataApresentacao": "2026-05-28T18:05"
+    },
+    {
+        "id": 2629092,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629092",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 538,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Amigos de Corumbataí - AMICO a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Corumbataí, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-28T18:05"
+    },
+    {
+        "id": 2629093,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629093",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 539,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a outorga à Rádio Araripe Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Crato, Estado do Ceará.",
+        "dataApresentacao": "2026-05-28T18:05"
+    },
+    {
+        "id": 2629094,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629094",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 540,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Comunitária e Cultural Retiro FM a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Lagarto, Estado de Sergipe.",
+        "dataApresentacao": "2026-05-28T18:05"
+    },
+    {
+        "id": 2629095,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629095",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 541,
+        "ano": 2026,
+        "ementa": "Aprova o ato que outorga concessão à Fundação Educativa Andradense para executar, pelo prazo de quinze anos, sem direito de exclusividade, serviço de radiodifusão de sons e imagens com fins exclusivamente educativos no Município de Andradas, Estado de Minas Gerais.",
+        "dataApresentacao": "2026-05-28T18:05"
+    },
+    {
+        "id": 2629096,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629096",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 542,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a concessão outorgada à NSC TV Criciúma Ltda. para explorar serviço de radiodifusão de sons e imagens, no Município de Criciúma, Estado de Santa Catarina.",
+        "dataApresentacao": "2026-05-28T18:05"
+    },
+    {
+        "id": 2629097,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629097",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 543,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação dos Moradores de Vila Isabel - AMOVI a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Parambu, Estado do Ceará.",
+        "dataApresentacao": "2026-05-28T18:05"
+    },
+    {
+        "id": 2629098,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629098",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 544,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação de Desenvolvimento Social em Radiodifusão Comunitária de Estância - SE a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Estância, Estado de Sergipe.",
+        "dataApresentacao": "2026-05-28T18:05"
+    },
+    {
+        "id": 2629099,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629099",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 545,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação de Radiodifusão Educativa e Comunitária Poço Redondo a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Poço Redondo, Estado de Sergipe.",
+        "dataApresentacao": "2026-05-28T18:05"
+    },
+    {
+        "id": 2629100,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629100",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 546,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Três Climas Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Icapuí, Estado do Ceará.",
+        "dataApresentacao": "2026-05-28T18:08"
+    },
+    {
+        "id": 2629101,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629101",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 547,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a outorga à Empresa Paulista de Radiodifusão Ltda. para explorar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Regente Feijó, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-28T18:08"
+    },
+    {
+        "id": 2629102,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629102",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 548,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Portugal Telecomunicações Ltda., posteriormente transferida à Faxinal Alternativa Ltda., para executar serviço de radiodifusão sonora em frequência modulada no Município de Faxinal dos Guedes, Estado de Santa Catarina.",
+        "dataApresentacao": "2026-05-28T18:08"
+    },
+    {
+        "id": 2629103,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629103",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 549,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a autorização outorgada à Associação de Difusão Comunitária Prefeito Luiz Gonzaga Bonissoni para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Ouro, Estado de Santa Catarina.",
+        "dataApresentacao": "2026-05-28T18:08"
+    },
+    {
+        "id": 2629104,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629104",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 550,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à A W M Monteiro Neto Rádio Ltda. para executar serviço de radiodifusão sonora em frequência modulada no Município de Canindé, Estado do Ceará.",
+        "dataApresentacao": "2026-05-28T18:08"
+    },
+    {
+        "id": 2629105,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629105",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 551,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a outorga à Sociedade Rádio Novo Horizonte Ltda. para executar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Novo Horizonte, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-28T18:08"
+    },
+    {
+        "id": 2629106,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629106",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 552,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a outorga à Rádio Dragão do Norte Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Massapê, Estado do Ceará.",
+        "dataApresentacao": "2026-05-28T18:08"
+    },
+    {
+        "id": 2629107,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629107",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 553,
+        "ano": 2026,
+        "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Eldorado Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de São Paulo, Estado de São Paulo.",
+        "dataApresentacao": "2026-05-28T18:08"
+    },
+    {
+        "id": 2629108,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629108",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 554,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação Beneficente e Cultural de Icapuí a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Icapuí, Estado do Ceará.",
+        "dataApresentacao": "2026-05-28T18:08"
+    },
+    {
+        "id": 2629109,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629109",
+        "siglaTipo": "PDL",
+        "codTipo": 553,
+        "numero": 555,
+        "ano": 2026,
+        "ementa": "Aprova o ato que autoriza a Associação de Radiodifusão e Desenvolvimento Comunitário Planalto da Barra a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Frecheirinha, Estado do Ceará.",
+        "dataApresentacao": "2026-05-28T18:08"
+    },
+    {
+        "id": 2629111,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629111",
+        "siglaTipo": "EMC",
+        "codTipo": 130,
+        "numero": 1,
+        "ano": 2026,
+        "ementa": "Dispõe sobre o reconhecimento jurídico do trabalho doméstico e de cuidado não remunerado, sua inclusão na economia do cuidado no Sistema de Contas Nacionais, e dá outras providências.",
+        "dataApresentacao": "2026-05-28T16:56"
+    },
+    {
+        "id": 2629112,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629112",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Padre João (PT-MG), pela aprovação do PL 2289/2024 e dos PLs 2423/2024, 3897/2024, 694/2025, PL 912/2025, 3599/2025 e 6448/2025, apensados, com substitutivo.",
+        "dataApresentacao": "2026-05-28T20:00"
+    },
+    {
+        "id": 2629113,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629113",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Institui o programa nacional de doação de alimentos e incentivos públicos às empresas de alimentação no combate à fome no Brasil.",
+        "dataApresentacao": "2026-05-28T20:00"
+    },
+    {
+        "id": 2629114,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629114",
+        "siglaTipo": "DOC",
+        "codTipo": 1028,
+        "numero": 637,
+        "ano": 2026,
+        "ementa": "Ofício SF nº 441/26, que comunica remessa de Projeto de Lei à sanção.",
+        "dataApresentacao": "2026-05-28T18:38"
+    },
+    {
+        "id": 2629115,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629115",
+        "siglaTipo": "DOC",
+        "codTipo": 1028,
+        "numero": 638,
+        "ano": 2026,
+        "ementa": "Ofício SF nº 462/26, que comunica remessa de Projeto de Lei à sanção.",
+        "dataApresentacao": "2026-05-28T18:40"
+    },
+    {
+        "id": 2629116,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629116",
+        "siglaTipo": "DOC",
+        "codTipo": 1028,
+        "numero": 639,
+        "ano": 2026,
+        "ementa": "Ofício SF nº 466/26, que comunica remessa de Projeto de Lei à sanção.",
+        "dataApresentacao": "2026-05-28T18:42"
+    },
+    {
+        "id": 2629117,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629117",
+        "siglaTipo": "DOC",
+        "codTipo": 1028,
+        "numero": 640,
+        "ano": 2026,
+        "ementa": "Ofício SF nº 438/26, que comunica remessa de Projeto de Lei à sanção.",
+        "dataApresentacao": "2026-05-28T18:47"
+    },
+    {
+        "id": 2629118,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629118",
+        "siglaTipo": "DOC",
+        "codTipo": 1028,
+        "numero": 641,
+        "ano": 2026,
+        "ementa": "Ofício SF nº 468/26, que comunica remessa de Projeto de Lei à sanção.",
+        "dataApresentacao": "2026-05-28T18:49"
+    },
+    {
+        "id": 2629119,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629119",
+        "siglaTipo": "DOC",
+        "codTipo": 1028,
+        "numero": 642,
+        "ano": 2026,
+        "ementa": "Ofício SF nº 464/26, que comunica remessa de Projeto de Lei à sanção.",
+        "dataApresentacao": "2026-05-28T18:52"
+    },
+    {
+        "id": 2629120,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629120",
+        "siglaTipo": "DOC",
+        "codTipo": 1028,
+        "numero": 643,
+        "ano": 2026,
+        "ementa": "Ofício SF nº 455/2026, que comunica remessa de Projeto de Lei à sanção.",
+        "dataApresentacao": "2026-05-28T18:58"
+    },
+    {
+        "id": 2629121,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629121",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2653,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a concessão de prêmio às jogadoras da Seleção Brasileira da Copa do Mundo Feminina FIFA 1995.",
+        "dataApresentacao": "2026-05-28T18:32"
+    },
+    {
+        "id": 2629122,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629122",
+        "siglaTipo": "ESB",
+        "codTipo": 258,
+        "numero": 1,
+        "ano": 2026,
+        "ementa": "Emenda Supressiva ao Substitutivo apresentado pela relatora ao Projeto de Lei nº 260, de 2026.",
+        "dataApresentacao": "2026-05-28T16:23"
+    },
+    {
+        "id": 2629123,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629123",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1546,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Tracuateua, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:26"
+    },
+    {
+        "id": 2629124,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629124",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1547,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Trairão, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:26"
+    },
+    {
+        "id": 2629125,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629125",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1548,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Tucuruí, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:26"
+    },
+    {
+        "id": 2629126,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629126",
+        "siglaTipo": "EMC",
+        "codTipo": 130,
+        "numero": 2,
+        "ano": 2026,
+        "ementa": "Dispõe sobre as providências a serem adotadas pela autoridade policial em inquérito que conclua por suicídio de mulher.",
+        "dataApresentacao": "2026-05-28T16:50"
+    },
+    {
+        "id": 2629127,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629127",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1549,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Ulianópolis, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:26"
+    },
+    {
+        "id": 2629128,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629128",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1550,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Tucumã, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:26"
+    },
+    {
+        "id": 2629129,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629129",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1551,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Uruará, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:26"
+    },
+    {
+        "id": 2629130,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629130",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1552,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Vigia, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:26"
+    },
+    {
+        "id": 2629131,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629131",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1553,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Vitória do Xingu, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:26"
+    },
+    {
+        "id": 2629132,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629132",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1554,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Viseu, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:26"
+    },
+    {
+        "id": 2629133,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629133",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1555,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Xinguara, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:26"
+    },
+    {
+        "id": 2629134,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629134",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1556,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de São João do Araguaia, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629135,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629135",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1557,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de São Miguel do Guamá, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629136,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629136",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1558,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de São Sebastião da Boa Vista, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629137,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629137",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1559,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Sapucaia, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629138,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629138",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1560,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Senador José Porfírio, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629139,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629139",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1561,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Soure, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629140,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629140",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1562,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Tailândia, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629141,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629141",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1563,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Terra Alta, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629142,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629142",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1564,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Terra Santa, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629143,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629143",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1565,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Tomé-Açu, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629144,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629144",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Sargento Fahur (PL-PR), pela rejeição.",
+        "dataApresentacao": "2026-05-28T17:43"
+    },
+    {
+        "id": 2629145,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629145",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1566,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Salinópolis, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629146,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629146",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1567,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Salvaterra, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629147,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629147",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1568,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Santa Bárbara do Pará, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629148,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629148",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1569,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Santa Cruz do Arari, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629149,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629149",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1570,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Santa Luzia do Pará, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629150,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629150",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1571,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Santa Isabel do Pará, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629151,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629151",
+        "siglaTipo": "PRL",
+        "codTipo": 190,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Parecer do Relator, Dep. Raimundo Costa (PSD-BA), pela aprovação, com substitutivo.",
+        "dataApresentacao": "2026-05-28T11:48"
+    },
+    {
+        "id": 2629152,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629152",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1572,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Santa Maria das Barreiras, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629153,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629153",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1573,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Santa Maria do Pará, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629154,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629154",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1574,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Santana do Araguaia, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629155,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629155",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1575,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Santarém Novo, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629156,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629156",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1576,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Ponta de Pedras, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629157,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629157",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1577,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Portel, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629158,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629158",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1578,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Prainha, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629159,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629159",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1579,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Porto de Moz, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629160,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629160",
+        "siglaTipo": "SBT",
+        "codTipo": 255,
+        "numero": 1,
+        "ano": 0,
+        "ementa": "Altera a Lei nº 10.779, de 25 de novembro de 2003, para dispor sobre a correspondência entre o período de paralisação obrigatória da atividade pesqueira e a duração do Seguro-Desemprego do Pescador Artesanal, instituir o Cadastro Nacional de Pescadores e Marisqueiras e estabelecer sanções por fraude contra programas governamentais",
+        "dataApresentacao": "2026-05-28T11:48"
+    },
+    {
+        "id": 2629161,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629161",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1580,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Primavera, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629162,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629162",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1581,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Quatipuru, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629163,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629163",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1582,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Redenção, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629164,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629164",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1583,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Rio Maria, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629165,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629165",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1584,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Rondon do Pará, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629166,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629166",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1585,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Rurópolis, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629167,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629167",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1586,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Óbidos, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629168,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629168",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1587,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Ourilândia do Norte, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629169,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629169",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1588,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Paragominas, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629170,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629170",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1589,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Pacajá, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629171,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629171",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1590,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Palestina do Pará, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629172,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629172",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1591,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Parauapebas, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629173,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629173",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1592,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Pau d’Arco, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629174,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629174",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1593,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Peixe-Boi, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629175,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629175",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1594,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Piçarra, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629176,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629176",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1595,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Placas, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629177,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629177",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1596,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Santarém, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629178,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629178",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1597,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Santo Antônio do Tauá, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629179,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629179",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1598,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de São Caetano de Odivelas, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629180,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629180",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1599,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de São Domingos do Araguaia, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    },
+    {
+        "id": 2629181,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629181",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1600,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de São Domingos do Capim, no Estado do Pará.",
+        "dataApresentacao": "2026-05-29T00:28"
+    }
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 2625240,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625240",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1337,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Ananindeua, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T21:17"
+    },
+    {
+        "id": 2625241,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625241",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1338,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Goianésia do Pará, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625242,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625242",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1339,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Gurupá, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625244,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625244",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1340,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Igarapé-Açu, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625247,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625247",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1341,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Igarapé-Miri, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625248,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625248",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1342,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Inhangapi, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625249,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625249",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1343,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Ipixuna do Pará, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625250,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625250",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1344,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Irituia, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625252,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625252",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1345,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Itaituba, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625253,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625253",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1346,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Itupiranga, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625257,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625257",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1347,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Jacareacanga, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625258,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625258",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1348,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Cumaru do Norte, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625259,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625259",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1349,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Curionópolis, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625260,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625260",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1350,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Curuçá, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625263,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625263",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1351,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Curralinho, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625264,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625264",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1352,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Curuá, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625265,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625265",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1353,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Dom Eliseu, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625266,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625266",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1354,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Eldorado dos Carajás, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625267,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625267",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1355,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Faro, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625268,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625268",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1356,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Floresta do Araguaia, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625269,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625269",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1357,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Garrafão do Norte, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625270,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625270",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1358,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Cachoeira do Piriá, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625271,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625271",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1359,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Cametá, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625272,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625272",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1360,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Canaã dos Carajás, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625273,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625273",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1361,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Capanema, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625274,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625274",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1362,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Capitão Poço, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625275,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625275",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1363,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Castanhal, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625276,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625276",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1364,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Chaves, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625277,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625277",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1365,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Colares, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625278,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625278",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1366,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Conceição do Araguaia, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625280,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625280",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1367,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Concórdia do Pará, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:02"
+    },
+    {
+        "id": 2625281,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625281",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1368,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Jacundá, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:14"
+    },
+    {
+        "id": 2625282,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625282",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1369,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Juruti, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:14"
+    },
+    {
+        "id": 2625283,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625283",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1370,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Limoeiro do Ajuru, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:14"
+    },
+    {
+        "id": 2625284,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625284",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1371,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Mãe do Rio, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:14"
+    },
+    {
+        "id": 2625285,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625285",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1372,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Magalhães Barata, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:14"
+    },
+    {
+        "id": 2625286,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625286",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1373,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Marabá, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:14"
+    },
+    {
+        "id": 2625287,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625287",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1374,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Maracanã, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:14"
+    },
+    {
+        "id": 2625288,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625288",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1375,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Marapanim, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:14"
+    },
+    {
+        "id": 2625289,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625289",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1376,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Marituba, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:14"
+    },
+    {
+        "id": 2625290,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625290",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 6,
+        "ano": 2026,
+        "ementa": "Requer a realização de Audiência Pública para debater as principais modernizações regulatórias a serem implementadas na Rodovia Fernão Dias no âmbito do novo contrato de concessão firmado com a concessionária Motiva.",
+        "dataApresentacao": "2026-05-15T11:42"
+    },
+    {
+        "id": 2625292,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625292",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 243,
+        "ano": 2026,
+        "ementa": "Requer a aprovação de MOÇÃO DE PESAR pelo falecimento do Comandante Felipe Monteiro Marques, copiloto da Polícia Civil do Rio de Janeiro.",
+        "dataApresentacao": "2026-05-18T09:46"
+    },
+    {
+        "id": 2625293,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625293",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 56,
+        "ano": 2026,
+        "ementa": "Requer a realização de Audiência Pública para discutir as contribuições do setor de remessas expressas nas últimas cinco décadas no Brasil.",
+        "dataApresentacao": "2026-05-16T10:22"
+    },
+    {
+        "id": 2625294,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625294",
+        "siglaTipo": "REQ",
+        "codTipo": 448,
+        "numero": 57,
+        "ano": 2026,
+        "ementa": "Requer a criação de Subcomissão Especial de análise do fim da concessão Ferroviária da Malha Sul, no âmbito desta Comissão de Viação e Transporte.",
+        "dataApresentacao": "2026-05-15T13:55"
+    },
+    {
+        "id": 2625300,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625300",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1377,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Ministério do Trabalho e Emprego  sobre a possível implementação do programa “Inclusão Produtiva e Economia Solidária” no Município de Medicilândia, no Estado do Pará.",
+        "dataApresentacao": "2026-05-17T22:14"
+    },
+    {
+        "id": 2625304,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625304",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1378,
+        "ano": 2026,
+        "ementa": "Requer informações ao  Ministro de Estado da Saúde, por esta Comissão de Saúde, acerca dos fundamentos técnicos, jurídicos e administrativos que embasaram a edição da Resolução-RE nº 1.519, de 13 de abril de 2026, da Agência Nacional de Vigilância Sanitária, especialmente quanto à proibição de importação e uso, por pessoa física, dos produtos Gluconex e Tirzedral.",
+        "dataApresentacao": "2026-05-18T08:22"
+    },
+    {
+        "id": 2625306,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625306",
+        "siglaTipo": "PL",
+        "codTipo": 139,
+        "numero": 2427,
+        "ano": 2026,
+        "ementa": "Dispõe sobre a possibilidade dos fundos constitucionais de que trata o art. 159, inciso I, alínea c da Constituição Federal, e do Fundo de Desenvolvimento do Nordeste (FDNE), instituído pela Medida Provisória 2.156-5, de 24 de agosto de 2001, oferecerem garantias a operações de crédito voltadas à execução de projetos estruturantes.",
+        "dataApresentacao": "2026-05-18T09:57"
+    },
+    {
+        "id": 2625319,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625319",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 245,
+        "ano": 2026,
+        "ementa": "Requer a concessão de Moção de Pesar pelo falecimento do policial civil Felipe Marques Monteiro, de 45 anos, copiloto de helicóptero do Serviço Aeropolicial da Coordenadoria de Recursos Especiais (CORE) da Polícia Civil do Estado do Rio de Janeiro.",
+        "dataApresentacao": "2026-05-18T11:21"
+    },
+    {
+        "id": 2625323,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625323",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 45,
+        "ano": 2026,
+        "ementa": "Requer a realização de audiência pública para debater o Projeto de Lei nº 4.881, de 2019, que dispõe sobre a revogação de autorização de estabelecimentos que, reincidentemente, distribuam, adquiram, comercializem, transportem ou estoquem derivados de petróleo, gás natural e suas frações recuperáveis ou biocombustíveis que estejam em desconformidade com as normas estabelecidas pelo órgão regulador.",
+        "dataApresentacao": "2026-05-18T11:14"
+    },
+    {
+        "id": 2625325,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625325",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 141,
+        "ano": 2026,
+        "ementa": "Requer a realização de Audiência Pública para debater a regulamentação da atuação da Enfermagem na modalidade de Atenção Domiciliar (Home Care), nos termos do Projeto de Lei nº 194/2026.",
+        "dataApresentacao": "2026-05-18T11:33"
+    },
+    {
+        "id": 2625338,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625338",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 52,
+        "ano": 2026,
+        "ementa": "Requer aprovação de Moção de Aplausos  à Conceição Evaristo, por sua contribuição à literatura brasileira, à valorização da cultura negra e à promoção de reflexões sociais por meio da escrita e da educação.",
+        "dataApresentacao": "2026-05-18T11:22"
+    },
+    {
+        "id": 2625341,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625341",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 53,
+        "ano": 2026,
+        "ementa": "Requer aprovação de Moção de Aplausos à Ana Paula Renault, por sua contribuição à comunicação brasileira, à valorização do debate público e à defesa dos direitos de grupos historicamente vulnerabilizados por meio da mídia, da comunicação digital e de sua atuação pública.",
+        "dataApresentacao": "2026-05-18T12:28"
+    },
+    {
+        "id": 2625342,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625342",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 54,
+        "ano": 2026,
+        "ementa": "Requer aprovação de Moção de Aplausos à Milena Moreira Laje, pela representatividade das mulheres de Minas Gerais por meio de sua trajetória de vida.",
+        "dataApresentacao": "2026-05-18T12:29"
+    },
+    {
+        "id": 2625348,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625348",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 142,
+        "ano": 2026,
+        "ementa": "Requer a realização de Audiência Pública para debater o Projeto de Lei nº 4855/2025, que \"Institui o Dia Brasileiro da Enfermagem de Família e Comunidade\".",
+        "dataApresentacao": "2026-05-18T11:59"
+    },
+    {
+        "id": 2625352,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625352",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 42,
+        "ano": 2026,
+        "ementa": "Requer a realização de Audiência Pública para discutir o tema “Mães Atípicas – realidade e desafios”.",
+        "dataApresentacao": "2026-05-15T17:45"
+    },
+    {
+        "id": 2625356,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625356",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 246,
+        "ano": 2026,
+        "ementa": "Requer aprovação de MOÇÃO DE APLAUSOS E LOUVOR aos bombeiros militares integrantes da equipe do 6º Batalhão de Bombeiros Militares de Cariacica, no Estado do Espírito Santo, pela atuação em ocorrência de obstrução de vias aéreas de recém-nascida, com a realização bem-sucedida da manobra de Heimlich, que resultou no salvamento da bebê.",
+        "dataApresentacao": "2026-05-18T12:17"
+    },
+    {
+        "id": 2625361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625361",
+        "siglaTipo": "REQ",
+        "codTipo": 441,
+        "numero": 55,
+        "ano": 2026,
+        "ementa": "Requer aprovação de Moção de Aplausos  a Edgar Kanaykõ Xakriabá, por sua contribuição à arte, à valorização das cosmologias dos povos originários e ao fortalecimento das epistemologias indígenas por meio da fotografia, do audiovisual e da pesquisa.",
+        "dataApresentacao": "2026-05-18T12:52"
+    },
+    {
+        "id": 2625376,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625376",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1379,
+        "ano": 2026,
+        "ementa": "Requer do Excelentíssimo Ministro das Comunicações, Senhor Frederico de Siqueira Filho, informações acerca da cobertura de internet em áreas caracterizadas pela exclusão digital.",
+        "dataApresentacao": "2026-05-18T13:46"
+    },
+    {
+        "id": 2625388,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625388",
+        "siglaTipo": "REQ",
+        "codTipo": 448,
+        "numero": 80,
+        "ano": 2026,
+        "ementa": "Requer ao Presidente da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural o envio de solicitação de representação do Congresso Nacional no Processo Administrativo nº 08700.000270/2018-72, em andamento no CADE, instaurado para apurar possíveis práticas anticoncorrenciais no mercado de sementes e biotecnologia.",
+        "dataApresentacao": "2026-05-18T13:48"
+    },
+    {
+        "id": 2625405,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625405",
+        "siglaTipo": "RIC",
+        "codTipo": 148,
+        "numero": 1380,
+        "ano": 2026,
+        "ementa": "Solicita informações ao Sr. Ministro da Fazenda, acerca dos critérios técnicos, jurídicos e regulatórios, utilizados para a concessão de autorização à empresa Defy Ltda., operadora da marca 1xBet, para exploração de apostas de quota fixa no Brasil.",
+        "dataApresentacao": "2026-05-18T14:08"
+    },
+    {
+        "id": 2625434,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625434",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 47,
+        "ano": 2026,
+        "ementa": "Requer a realização de Audiência Pública na Comissão de Trabalho para celebrar os 37 anos do Fórum Nacional de Secretarias do Trabalho - FONSET, homenagear os Secretários Estaduais do Trabalho e debater as contribuições institucionais do Fórum para o fortalecimento das políticas públicas de trabalho, emprego e renda no Brasil.",
+        "dataApresentacao": "2026-05-18T14:56"
+    },
+    {
+        "id": 2625445,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625445",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 56,
+        "ano": 2026,
+        "ementa": "Requer a realização de audiência pública, nesta Comissão de Cultura, a fim de promover o debate sobre a Economia Criativa, Economia Solidária, Trabalho, Emprego, Renda e Proteção Social, inerente ao Eixo 6 no âmbito do novo Plano Nacional de Cultura.",
+        "dataApresentacao": "2026-05-18T15:24"
+    },
+    {
+        "id": 2625447,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625447",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 57,
+        "ano": 2026,
+        "ementa": "Requer a realização de audiência pública, nesta Comissão de Cultura, a fim de debater sobre a interlocução entre arte, cultura e educação, inerente ao Eixo 4 (Formação) no âmbito do novo Plano Nacional de Cultura.",
+        "dataApresentacao": "2026-05-18T15:24"
+    },
+    {
+        "id": 2625448,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625448",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 58,
+        "ano": 2026,
+        "ementa": "Requer a realização de audiência pública, nesta Comissão de Cultura, a fim de promover o debate sobre dados e indicadores no âmbito do novo Plano Nacional de Cultura.",
+        "dataApresentacao": "2026-05-18T15:24"
+    },
+    {
+        "id": 2625449,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625449",
+        "siglaTipo": "REQ",
+        "codTipo": 686,
+        "numero": 39,
+        "ano": 2026,
+        "ementa": "Requer a realização de Seminário, no Estado de São Paulo, para debater o tema \"Tarifa Zero: pelo direito à cidade e ao transporte público gratuito”.",
+        "dataApresentacao": "2026-05-14T16:10"
+    },
+    {
+        "id": 2625450,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625450",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 40,
+        "ano": 2026,
+        "ementa": "Requer a realização de audiência pública para debater estratégias de prevenção ao suicídio em espaços urbanos, com foco na adoção de protocolos de segurança em edificações privadas e em medidas estruturais de proteção em pontes e outras infraestruturas suscetíveis a tentativas de autoextermínio.",
+        "dataApresentacao": "2026-05-12T15:55"
+    },
+    {
+        "id": 2625451,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625451",
+        "siglaTipo": "REQ",
+        "codTipo": 294,
+        "numero": 41,
+        "ano": 2026,
+        "ementa": "Requer a realização de Simpósio no âmbito da Comissão de Legislação PARTICIPATIVA (CLP) para debater os desafios estruturais e a construção de um projeto democrático para a saúde brasileira, com foco no fortalecimento do Sistema Único de Saúde (SUS) e na proposição de uma Lei de Responsabilidade Sanitária.",
+        "dataApresentacao": "2026-05-14T17:19"
+    },
+    {
+        "id": 2625457,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625457",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 740,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministério da Saúde o estabelecimento de novo procedimento administrativo para incorporação da vacina adsorvida meningocócica B recombinante (4CMenB) ao Plano Nacional de Imunização ou que, alternativamente, haja nova consulta à CONITEC ou a revisão da anteriormente realizada para avaliar a incorporação desse imunobiológico ao Manual do CRIE, com indicação para grupos de alto risco.",
+        "dataApresentacao": "2026-05-18T15:21"
+    },
+    {
+        "id": 2625459,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625459",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 741,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro da Saúde a adoção de medidas para viabilizar o envio da Carreta do Programa Agora Tem Especialista (ATE) ao município de Resende/RJ.",
+        "dataApresentacao": "2026-05-18T15:29"
+    },
+    {
+        "id": 2625460,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625460",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 742,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro da Saúde a adoção de medidas para viabilizar o envio da Carreta do Programa Agora Tem Especialista (ATE) ao município de São Pedro da Aldeia/RJ.",
+        "dataApresentacao": "2026-05-18T15:29"
+    },
+    {
+        "id": 2625461,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625461",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 743,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro das Comunicações a adoção de medidas para aprimorar o serviço de telefonia móvel no município de Armação dos Búzios/RJ.",
+        "dataApresentacao": "2026-05-18T15:29"
+    },
+    {
+        "id": 2625462,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625462",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 744,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro das Comunicações a adoção de medidas para aprimorar o serviço de telefonia móvel no município de Arraial do Cabo/RJ.",
+        "dataApresentacao": "2026-05-18T15:29"
+    },
+    {
+        "id": 2625463,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625463",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 745,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro das Comunicações a adoção de medidas para instalação de antena de telefonia móvel e inclusão do bairro de Três Vendas, distrito de Guarus, no município de Campos dos Goytacazes/RJ, no plano de expansão da cobertura de telefonia móvel.",
+        "dataApresentacao": "2026-05-18T15:29"
+    },
+    {
+        "id": 2625465,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625465",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 746,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro das Comunicações a adoção de medidas para aprimorar o serviço de telefonia móvel no município de Italva/RJ.",
+        "dataApresentacao": "2026-05-18T15:29"
+    },
+    {
+        "id": 2625466,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625466",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 747,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro das Comunicações a adoção de medidas para aprimorar o serviço de telefonia móvel no município de Porto Real/RJ.",
+        "dataApresentacao": "2026-05-18T15:29"
+    },
+    {
+        "id": 2625467,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625467",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 748,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro das Comunicações a adoção de medidas para aprimorar o serviço de telefonia móvel no município de São Francisco de Itabapoana/RJ.",
+        "dataApresentacao": "2026-05-18T15:29"
+    },
+    {
+        "id": 2625468,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625468",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 749,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro das Comunicações a adoção de medidas para aprimorar o serviço de telefonia móvel no município de Resende/RJ.",
+        "dataApresentacao": "2026-05-18T15:29"
+    },
+    {
+        "id": 2625470,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625470",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 750,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro das Comunicações a adoção de medidas para aprimorar o serviço de telefonia móvel no município de São Pedro da Aldeia/RJ.",
+        "dataApresentacao": "2026-05-18T15:29"
+    },
+    {
+        "id": 2625471,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625471",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 751,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro dos Transportes a adoção de medidas urgentes, por meio do DNIT, para recuperação e melhoria da BR-356, no trecho urbano localizado no município de Italva/RJ.",
+        "dataApresentacao": "2026-05-18T15:29"
+    },
+    {
+        "id": 2625472,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625472",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 752,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro da Saúde a adoção de medidas para viabilizar o envio da Carreta do Programa Agora Tem Especialista (ATE) ao município de Armação dos Búzios/RJ.",
+        "dataApresentacao": "2026-05-18T15:29"
+    },
+    {
+        "id": 2625473,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625473",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 753,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro da Saúde a adoção de medidas para viabilizar o envio da Carreta do Programa Agora Tem Especialista (ATE) ao município de Arraial do Cabo/RJ.",
+        "dataApresentacao": "2026-05-18T15:29"
+    },
+    {
+        "id": 2625474,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625474",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 754,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro da Saúde a adoção de medidas para viabilizar o envio da Carreta do Programa Agora Tem Especialista (ATE) ao município de Italva/RJ.",
+        "dataApresentacao": "2026-05-18T15:29"
+    },
+    {
+        "id": 2625492,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625492",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 755,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de Nova Iguaçu/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625493,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625493",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 756,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de Paracambi/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625494,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625494",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 757,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de Paraíba do Sul/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625495,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625495",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 758,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de Paty do Alferes/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625496,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625496",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 759,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de Porto Real/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625497,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625497",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 760,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de Queimados/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625498,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625498",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 761,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de Resende/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625499,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625499",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 762,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de Rio das Flores/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625500,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625500",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 763,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de São Francisco de Itabapoana/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625501,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625501",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 764,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de São Gonçalo/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625502,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625502",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 765,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de São João da Barra/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625503,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625503",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 766,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de São João de Meriti/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625504,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625504",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 767,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de São Pedro da Aldeia/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625505,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625505",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 768,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de Sumidouro/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625506,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625506",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 769,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de Três Rios/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625507,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625507",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 770,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento no município de Valença/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625508,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625508",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 771,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento na Zona Norte do município do Rio de Janeiro/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    },
+    {
+        "id": 2625509,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2625509",
+        "siglaTipo": "INC",
+        "codTipo": 133,
+        "numero": 772,
+        "ano": 2026,
+        "ementa": "Sugere ao Ministro de Minas e Energia a adoção de medidas de fiscalização, por meio da ANEEL, acerca das constantes faltas de energia elétrica e oscilações no fornecimento na Zona Sudoeste do município do Rio de Janeiro/RJ.",
+        "dataApresentacao": "2026-05-18T15:57"
+    }
+]

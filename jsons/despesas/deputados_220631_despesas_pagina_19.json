@@ -1,0 +1,21 @@
+[
+    {
+        "ano": 2026,
+        "mes": 2,
+        "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+        "codDocumento": "287E1192-7FEF-4F9F-8DB4-491D8BFCDBF0",
+        "tipoDocumento": "Nota Fiscal",
+        "codTipoDocumento": 0,
+        "dataDocumento": "2026-02-05T00:00:00",
+        "numDocumento": "9572272282782",
+        "valorDocumento": 1819.63,
+        "urlDocumento": null,
+        "nomeFornecedor": "LATAM Airlines Brasil",
+        "cnpjCpfFornecedor": "",
+        "valorLiquido": 1819.63,
+        "valorGlosa": 0.0,
+        "numRessarcimento": "0",
+        "codLote": 0,
+        "parcela": 0
+    }
+]
