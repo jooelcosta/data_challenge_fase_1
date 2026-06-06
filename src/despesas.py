@@ -27,31 +27,58 @@ def query_postgres():
     return df_ids["id"].tolist()
 
 
-def salvar_dados_postgres(df):
+def salvar_dados_postgres(df, tabela: str, chave_primaria: str):
 
+    if df.empty:
+        logger.warning("DataFrame vazio. Não há dados para salvar.")
+        return
     try:
+        df.to_sql(name=f"_temp_{tabela}", con=engine, if_exists="replace", index=False)
 
-        df.to_sql(name="despesas", con=engine, if_exists="append", index=False)
+        colunas = ", ".join([f'"{col}"' for col in df.columns])
+        update = ", ".join(
+            [
+                f'"{col}" = EXCLUDED."{col}"'
+                for col in df.columns
+                if col != chave_primaria
+            ]
+        )
 
-        print("Dados salvos com sucesso!")
+        with engine.begin() as conn:
+            conn.execute(f"""
+                INSERT INTO {tabela} ({colunas})
+                SELECT {colunas} FROM _temp_{tabela}
+                ON CONFLICT ({chave_primaria}) DO UPDATE SET {update};
+                
+                DROP TABLE _temp_{tabela};
+            """)
+
+        logger.success(f"{len(df)} registros salvos com sucesso na tabela {tabela}!")
 
     except Exception as e:
-
-        print(f"Erro ao salvar dados: {e}")
+        logger.error(f"Erro ao salvar dados: {e}")
 
 
 def bronze(data_inicio: str, data_fim: str):
     ids = query_postgres()
+    sucessos = 0
+    falhas = 0
 
     for id_deputado in ids:
-
-        data = baixar_dados_paginados_Id(
-            endpoint="deputados",
-            id=id_deputado,
-            complemento="despesas",
-            data_inicio=data_inicio,
-            data_fim=data_fim,
-        )
+        try:
+            data = baixar_dados_paginados_Id(
+                endpoint="deputados",
+                id=id_deputado,
+                complemento="despesas",
+                data_inicio=data_inicio,
+                data_fim=data_fim,
+            )
+            sucessos += 1
+        except Exception as e:
+            logger.warning(f"Deputado {id_deputado} - Erro ao baixar dados: {e}")
+            falhas += 1
+            continue
+    logger.info(f"Download concluído: {sucessos} sucessos, {falhas} falhas.")
     return data
 
 
@@ -61,6 +88,11 @@ def silver(data_inicio: str, data_fim: str):
     bronze(data_inicio=data_inicio, data_fim=data_fim)
 
     pasta = "./jsons/despesas"
+
+    if not os.path.exists(pasta) or not os.listdir(pasta):
+        logger.warning("Nenhum arquivo de despesas encontrado.")
+        return pd.DataFrame()
+
     arquivos = os.listdir(pasta)
 
     dados_acumulados = []
@@ -96,7 +128,7 @@ def silver(data_inicio: str, data_fim: str):
 
 def gold(data_inicio: str, data_fim: str):
     df = silver(data_inicio=data_inicio, data_fim=data_fim)
-    salvar_dados_postgres(df)
+    salvar_dados_postgres(df, tabela="despesas", chave_primaria="idDespesa")
     logger.success("Pipeline concluído com sucesso!")
 
 

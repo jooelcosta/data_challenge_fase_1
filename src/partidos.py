@@ -13,23 +13,39 @@ DATABASE_URL = os.getenv("DB_URL")
 
 # Cria o engine e a sessão
 engine = create_engine(DATABASE_URL, connect_args={"sslmode": "require"})
-
-# Cria o engine e a sessão
-engine = create_engine(DATABASE_URL)
 Session = sessionmaker(bind=engine)
 
 
-def salvar_dados_postgres(df):
+def salvar_dados_postgres(df, tabela: str, chave_primaria: str):
 
+    if df.empty:
+        logger.warning("DataFrame vazio. Não há dados para salvar.")
+        return
     try:
+        df.to_sql(name=f"_temp_{tabela}", con=engine, if_exists="replace", index=False)
 
-        df.to_sql(name="partidos", con=engine, if_exists="append", index=False)
+        colunas = ", ".join([f'"{col}"' for col in df.columns])
+        update = ", ".join(
+            [
+                f'"{col}" = EXCLUDED."{col}"'
+                for col in df.columns
+                if col != chave_primaria
+            ]
+        )
 
-        print("Dados salvos com sucesso!")
+        with engine.begin() as conn:
+            conn.execute(f"""
+                INSERT INTO {tabela} ({colunas})
+                SELECT {colunas} FROM _temp_{tabela}
+                ON CONFLICT ({chave_primaria}) DO UPDATE SET {update};
+                
+                DROP TABLE _temp_{tabela};
+            """)
+
+        logger.success(f"{len(df)} registros salvos com sucesso na tabela {tabela}!")
 
     except Exception as e:
-
-        print(f"Erro ao salvar dados: {e}")
+        logger.error(f"Erro ao salvar dados: {e}")
 
 
 def bronze(data_inicio: str, data_fim: str):
@@ -67,7 +83,7 @@ def silver(data_inicio: str, data_fim: str):
 
 def gold(data_inicio: str, data_fim: str):
     df = silver(data_inicio=data_inicio, data_fim=data_fim)
-    salvar_dados_postgres(df)
+    salvar_dados_postgres(df, tabela="partidos", chave_primaria="id")
     logger.success("Pipeline concluído com sucesso!")
 
 

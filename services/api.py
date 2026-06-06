@@ -29,6 +29,7 @@ def baixar_dados_paginados(endpoint: str, data_inicio: str, data_fim: str):
             url=url,
             params=params,
             headers=headers,
+            timeout=30,
         )
 
         response.raise_for_status()
@@ -74,7 +75,9 @@ def baixar_dados_paginados(endpoint: str, data_inicio: str, data_fim: str):
         logger.critical(f"Erro crítico ao coletar dados: {e}")
 
 
-def baixar_dados_paginados_Id(endpoint: str, id: int, complemento: str, data_inicio: str, data_fim: str):
+def baixar_dados_paginados_Id(
+    endpoint: str, id: int, complemento: str, data_inicio: str, data_fim: str
+):
 
     url = f"{BASE_URL}/{endpoint}/{id}/{complemento}"
 
@@ -84,14 +87,24 @@ def baixar_dados_paginados_Id(endpoint: str, id: int, complemento: str, data_ini
 
     def conexao(page: int):
 
+        ano = data_inicio[:4]
+        mes = data_inicio[5:7]
+
         params = {
             "pagina": page,
             "itens": 15,
             "dataInicio": data_inicio,
             "dataFim": data_fim,
+            "ano": ano,
+            "mes": mes,
         }
 
-        response = requests.get(url=url, params=params, headers=headers)
+        response = requests.get(
+            url=url,
+            params=params,
+            headers=headers,
+            timeout=30
+        )
 
         response.raise_for_status()
         return response.json()
