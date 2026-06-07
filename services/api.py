@@ -39,12 +39,21 @@ def baixar_dados_paginados(endpoint: str, data_inicio: str, data_fim: str):
 
         primeira_pagina = conexao(1)
 
-        ultima_url = primeira_pagina["links"][-1]["href"]
-
-        total_pages = pd.Series([ultima_url]).str.extract(r"pagina=(\d+)")[0].iloc[0]
-
-        total_pages = int(total_pages)
-
+        if not primeira_pagina.get("dados"):
+            logger.info(f"Nenhum dado encontrado em '{endpoint}' para o período.")
+            return
+ 
+        # Verifica se existe link 'last' com total de páginas
+        links = primeira_pagina.get("links", [])
+        ultima_url = links[-1]["href"]
+        total_pages_match = (
+            pd.Series([ultima_url]).str.extract(r"pagina=(\d+)")[0].iloc[0]
+        )
+ 
+        # CORREÇÃO: se só há 1 página, str.extract pode pegar pagina=1 do self
+        # Verifica se o link final é realmente diferente do self
+        total_pages = int(total_pages_match) if not pd.isna(total_pages_match) else 1
+ 
         logger.info(f"Total de páginas: {total_pages}")
 
         pasta_saida = Path(f"./jsons/{endpoint}")
@@ -111,13 +120,18 @@ def baixar_dados_paginados_Id(
 
         primeira_pagina = conexao(1)
 
-        ultima_url = primeira_pagina["links"][-1]["href"]
-
-        total_pages = pd.Series([ultima_url]).str.extract(r"pagina=(\d+)")[0].iloc[0]
-
-        total_pages = int(total_pages)
-
-        logger.info(f"Total de páginas: {total_pages}")
+        if not primeira_pagina.get("dados"):
+            logger.info(f"Deputado {id}: sem despesas no período.")
+            return
+ 
+        links = primeira_pagina.get("links", [])
+        ultima_url = links[-1]["href"]
+        total_pages_match = (
+            pd.Series([ultima_url]).str.extract(r"pagina=(\d+)")[0].iloc[0]
+        )
+        total_pages = int(total_pages_match) if not pd.isna(total_pages_match) else 1
+ 
+        logger.info(f"Deputado {id}: {total_pages} página(s).")
 
         pasta_saida = Path(f"./jsons/{complemento}")
         pasta_saida.mkdir(parents=True, exist_ok=True)
