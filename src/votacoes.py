@@ -5,6 +5,7 @@ from services.api import baixar_dados_paginados
 import os
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
+from sqlalchemy import text
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -34,13 +35,13 @@ def salvar_dados_postgres(df, tabela: str, chave_primaria: str):
         )
 
         with engine.begin() as conn:
-            conn.execute(f"""
+            conn.execute(text(f"""
                 INSERT INTO {tabela} ({colunas})
                 SELECT {colunas} FROM _temp_{tabela}
                 ON CONFLICT ({chave_primaria}) DO UPDATE SET {update};
                 
                 DROP TABLE _temp_{tabela};
-            """)
+            """))
 
         logger.success(f"{len(df)} registros salvos com sucesso na tabela {tabela}!")
 

@@ -93,8 +93,6 @@ def baixar_dados_paginados_Id(
         params = {
             "pagina": page,
             "itens": 15,
-            "dataInicio": data_inicio,
-            "dataFim": data_fim,
             "ano": ano,
             "mes": mes,
         }
