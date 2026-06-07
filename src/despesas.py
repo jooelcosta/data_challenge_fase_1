@@ -115,7 +115,7 @@ def silver(data_inicio: str, data_fim: str):
         try:
             # Tenta extrair o ID do deputado caso esteja no nome do arquivo
             id_deputado = int(arq.split("_")[1])
-            df["idDeputado"] = id_deputado
+            df["idDeputado"] = str(id_deputado)
         except:
             pass
 

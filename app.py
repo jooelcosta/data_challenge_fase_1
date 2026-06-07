@@ -31,10 +31,10 @@ print(f"Iniciando extração: {args.data_inicio} → {args.data_fim}")
 
 # Lista dos scripts a serem executados
 scripts = [
-    "src.deputados",
-    "src.partidos",
-    "src.proposicoes",
-    "src.votacoes",
+    # "src.deputados",
+    # "src.partidos",
+    # "src.proposicoes",
+    # "src.votacoes",
     "src.despesas",
 ]
 

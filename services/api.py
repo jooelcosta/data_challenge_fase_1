@@ -20,8 +20,8 @@ def baixar_dados_paginados(endpoint: str, data_inicio: str, data_fim: str):
         params = {
             "pagina": page,
             "itens": 100,
-            "dataInicio": "2026-06-02", # data_inicio,
-            "dataFim": "2026-06-02", # data_fim,
+            "dataInicio": data_inicio,
+            "dataFim": data_fim,
         }
 
         response = requests.get(
@@ -102,8 +102,8 @@ def baixar_dados_paginados_Id(
         params = {
             "pagina": page,
             "itens": 15,
-            "ano": 2026, #ano,
-            "mes": 6, #mes,
+            "ano": ano,
+            "mes": mes,
         }
 
         response = requests.get(
