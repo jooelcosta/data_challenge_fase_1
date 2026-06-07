@@ -91,7 +91,7 @@ def silver(data_inicio: str, data_fim: str):
 def gold(data_inicio: str, data_fim: str):
     df = silver(data_inicio=data_inicio, data_fim=data_fim)
     salvar_dados_postgres(df, tabela="proposicoes", chave_primaria="id")
-    logger.success("Pipeline concluído com sucesso!")
+    logger.success("Pipeline Proposições concluído com sucesso!")
 
 
 if __name__ == "__main__":

@@ -20,8 +20,8 @@ def baixar_dados_paginados(endpoint: str, data_inicio: str, data_fim: str):
         params = {
             "pagina": page,
             "itens": 100,
-            "dataInicio": data_inicio,
-            "dataFim": data_fim,
+            "dataInicio": "2026-06-02", # data_inicio,
+            "dataFim": "2026-06-02", # data_fim,
         }
 
         response = requests.get(
@@ -29,7 +29,7 @@ def baixar_dados_paginados(endpoint: str, data_inicio: str, data_fim: str):
             url=url,
             params=params,
             headers=headers,
-            timeout=30,
+            timeout=60,
         )
 
         response.raise_for_status()
@@ -102,15 +102,15 @@ def baixar_dados_paginados_Id(
         params = {
             "pagina": page,
             "itens": 15,
-            "ano": ano,
-            "mes": mes,
+            "ano": 2026, #ano,
+            "mes": 6, #mes,
         }
 
         response = requests.get(
             url=url,
             params=params,
             headers=headers,
-            timeout=30
+            timeout=60,
         )
 
         response.raise_for_status()

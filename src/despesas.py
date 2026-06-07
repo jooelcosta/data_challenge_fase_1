@@ -18,44 +18,51 @@ Session = sessionmaker(bind=engine)
 
 
 def query_postgres():
-    query = """
-    SELECT id
-    FROM deputados
-    """
-
+    query = "SELECT id FROM deputados"
     df_ids = pd.read_sql(query, engine)
 
     return df_ids["id"].tolist()
 
 
-def salvar_dados_postgres(df, tabela: str, chave_primaria: str):
+def salvar_dados_postgres(df, tabela: str   ):
 
     if df.empty:
         logger.warning("DataFrame vazio. Não há dados para salvar.")
         return
     try:
-        df.to_sql(name=f"_temp_{tabela}", con=engine, if_exists="replace", index=False)
+        ano = int(df["ano"].iloc[0])
+        mes = int(df["mes"].iloc[0])
 
-        colunas = ", ".join([f'"{col}"' for col in df.columns])
-        update = ", ".join(
-            [
-                f'"{col}" = EXCLUDED."{col}"'
-                for col in df.columns
-                if col != chave_primaria
-            ]
-        )
+        # Busca registros já existentes no banco para o mesmo período
+        with engine.connect() as conn:
+            existentes = pd.read_sql(
+                text(
+                    f'SELECT "codDocumento", "idDeputado", "valorDocumento" '
+                    f'FROM {tabela} WHERE ano = {ano} AND mes = {mes}'
+                ),
+                conn
+            )
 
-        with engine.begin() as conn:
-            conn.execute(text(f"""
-                INSERT INTO {tabela} ({colunas})
-                SELECT {colunas} FROM _temp_{tabela}
-                ON CONFLICT ({chave_primaria}) DO UPDATE SET {update};
-                
-                DROP TABLE _temp_{tabela};
-            """))
-
-        logger.success(f"{len(df)} registros salvos com sucesso na tabela {tabela}!")
-
+        # Remove do df os registros que já existem no banco
+        if not existentes.empty:
+            antes = len(df)
+            df = df.merge(
+                existentes,
+                on=["codDocumento", "idDeputado", "valorDocumento"],
+                how="left",
+                indicator=True
+            )
+            df = df[df["_merge"] == "left_only"].drop(columns=["_merge"])
+            logger.info(f"{antes - len(df)} registros ignorados (já existem no banco).")
+ 
+        if df.empty:
+            logger.info("Nenhum registro novo para inserir.")
+            return
+ 
+        # Insere apenas os registros novos
+        df.to_sql(name=tabela, con=engine, if_exists="append", index=False)
+        logger.success(f"{len(df)} registros novos salvos em '{tabela}'!")
+ 
     except Exception as e:
         logger.error(f"Erro ao salvar dados: {e}")
 
@@ -102,6 +109,9 @@ def silver(data_inicio: str, data_fim: str):
         caminho_arquivo = os.path.join(pasta, arq)
         df = pd.read_json(caminho_arquivo)
 
+        if df.empty:  # ← ignora arquivos sem dados
+            continue
+
         try:
             # Tenta extrair o ID do deputado caso esteja no nome do arquivo
             id_deputado = int(arq.split("_")[1])
@@ -129,8 +139,8 @@ def silver(data_inicio: str, data_fim: str):
 
 def gold(data_inicio: str, data_fim: str):
     df = silver(data_inicio=data_inicio, data_fim=data_fim)
-    salvar_dados_postgres(df, tabela="despesas", chave_primaria="idDespesa")
-    logger.success("Pipeline concluído com sucesso!")
+    salvar_dados_postgres(df, tabela="despesas")
+    logger.success("Pipeline Despesas concluído com sucesso!")
 
 
 if __name__ == "__main__":
