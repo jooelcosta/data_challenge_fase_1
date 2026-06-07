@@ -38,15 +38,13 @@ jobs:
       - name: Instalar dependências
         run: pip install -r requirements.txt
 
-      #- name: Testar API despesas
-      #  run: |
-      #    python -c "
-      #    import requests
-      #    url = 'https://dadosabertos.camara.leg.br/api/v2/deputados/62881/despesas'
-      #    params = {'pagina': 1, 'itens': 15, 'ano': 2026, 'mes': 6}
-      #    r = requests.get(url, params=params, timeout=30)
-      #    print(r.status_code, r.json())
-      #    "
+      - name: Pre-Conexão API 
+        run: |
+          python -c "
+          requests.get('https://dadosabertos.camara.leg.br/api/v2/deputados', 
+          params={'pagina': 1, 'itens': 1}, timeout=30)
+          print('Conexão estabelecida.')
+          "
 
       - name: Executar pipeline
         env:
