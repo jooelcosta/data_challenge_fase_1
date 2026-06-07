@@ -40,11 +40,11 @@ jobs:
 
       - name: Pre-Conexão API 
         run: |
-          python -c "
-          requests.get('https://dadosabertos.camara.leg.br/api/v2/deputados', 
-          params={'pagina': 1, 'itens': 1}, timeout=30)
-          print('Conexão estabelecida.')
-          "
+              python -c "
+              import requests
+              requests.get('https://dadosabertos.camara.leg.br/api/v2/deputados', 
+                           params={'pagina': 1, 'itens': 1}, timeout=30)
+              print('Conexão estabelecida.')
 
       - name: Executar pipeline
         env:
