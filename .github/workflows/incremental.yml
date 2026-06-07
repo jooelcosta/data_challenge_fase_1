@@ -38,13 +38,17 @@ jobs:
       - name: Instalar dependências
         run: pip install -r requirements.txt
 
-      - name: Pre-Conexão API 
+      - name: Pre-conexão API Câmara
         run: |
           python -c "
           import requests
-          requests.get('https://dadosabertos.camara.leg.br/api/v2/deputados', 
-                       params={'pagina': 1, 'itens': 1}, timeout=30)
-          print('Conexão estabelecida.')"
+          try:
+              requests.get('https://dadosabertos.camara.leg.br/api/v2/deputados',
+                           params={'pagina': 1, 'itens': 1}, timeout=30)
+              print('Conexão estabelecida.')
+          except Exception as e:
+              print(f'Aquecimento falhou: {e}. Continuando pipeline...')
+          "
 
       - name: Executar pipeline
         env:
